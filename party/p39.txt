@@ -44,6 +44,7 @@ Ability: Imposter
 Tera Type: Fairy  
 EVs: 252 HP / 252 Spe  
 Hasty Nature  
+- Transform
 
 Iron Treads @ Choice Band  
 Ability: Quark Drive  

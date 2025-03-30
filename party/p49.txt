@@ -1,5 +1,5 @@
-Basculegion (Black Rider) @ Focus Sash  
-Ability: As One (Spectrier)  
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier) 
 Tera Type: Grass  
 EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe  
 Timid Nature  
@@ -24,7 +24,7 @@ Tera Type: Ghost
 EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe  
 Careful Nature  
 - Earthquake  
-- Catastrophe  
+- Ruination
 - Stone Edge  
 - Tera Blast  
 

@@ -41,7 +41,7 @@ Jolly Nature
 Ting-Lu @ Assault Vest  
 Ability: Vessel of Ruin  
 Tera Type: Steel  
-EVs: 4 HP / 196 Atk / 4 Def / 252 SpD / 68 Spe  
+EVs: 4 HP / 182 Atk / 4 Def / 252 SpD / 68 Spe  
 Adamant Nature  
 - Earthquake  
 - Heavy Slam  

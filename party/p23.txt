@@ -56,4 +56,4 @@ Bold Nature
 - Salt Cure  
 - Body Press  
 - Stealth Rock  
-- Roar  
+- Recover

@@ -16,7 +16,7 @@ Bold Nature
 - Aeroblast  
 - Whirlwind  
 - Calm Mind  
-- Roost  
+- Recover
 
 Snorlax @ Assault Vest  
 Ability: Thick Fat  

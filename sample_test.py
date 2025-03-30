@@ -175,14 +175,15 @@ class LearnedAgent(Player):
 
 def load_random_team(directory="party"):
     """
-    指定されたディレクトリからランダムに1つのテキストファイルを選択し、その内容を返す。
+    指定されたディレクトリからランダムに1つのテキストファイルを選択し、その内容とファイル番号を返す。
     """
     files = [f for f in os.listdir(directory) if f.endswith(".txt")]
     if not files:
         raise FileNotFoundError(f"No team files found in directory: {directory}")
     random_file = random.choice(files)
+    file_number = random_file.split('.')[0].replace('p', '')  # ファイル名から番号を抽出
     with open(os.path.join(directory, random_file), "r") as f:
-        return f.read()
+        return f.read(), file_number
 
 def load_fixed_team(filepath="party/p0.txt"):
     """
@@ -205,24 +206,25 @@ async def run_battles():
     
     # 固定チームとランダムチームをロード
     my_team = load_fixed_team("party/p0.txt")
-    your_team = load_random_team()
+    your_team, team_number = load_random_team()
+    print(f"ランダムに選ばれた構築: p{team_number}")
     
-    # LearnedAgent と MaxDamagePlayer のインスタンス生成
-    learned_agent = RandomPlayer(
+    # MaxDamagePlayer と RandomPlayer のインスタンス生成
+    max_damage_agent = MaxDamagePlayer(
         battle_format="gen9bssregg",
         team=my_team,
     )
-    max_damage_agent = MaxDamagePlayer(
+    random_agent = RandomPlayer(
         battle_format="gen9bssregg",
         team=your_team,
     )
     
-    # 対戦実行（例として、random_agent に対して10戦）
+    # 対戦実行
     num_battles = 100
-    results = await learned_agent.battle_against(max_damage_agent, n_battles=num_battles)
+    results = await max_damage_agent.battle_against(random_agent, n_battles=num_battles)
     print(
-        "Learned player won %d / 100 battles"
-        % (learned_agent.n_won_battles)
+        "MaxDamagePlayer won %d / 100 battles"
+        % (max_damage_agent.n_won_battles)
     )
 
 if __name__ == "__main__":

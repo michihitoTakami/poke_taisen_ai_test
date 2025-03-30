@@ -11,7 +11,7 @@ Calm Nature
 Ting-Lu @ Sitrus Berry  
 Ability: Vessel of Ruin  
 Tera Type: Steel  
-EVs: 244 HP / 4 Atk / 36 Def / 0 SpA / 252 SpD / 20 Spe  
+EVs: 244 HP / 0 Atk / 36 Def / 0 SpA / 252 SpD / 20 Spe  
 Impish Nature  
 - Earthquake  
 - Stealth Rock  

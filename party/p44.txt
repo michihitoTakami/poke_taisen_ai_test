@@ -16,7 +16,7 @@ EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature  
 - Icicle Crash  
 - Ice Shard  
-- Psycho Fangs  
+- Psychic Fangs
 - Swords Dance  
 
 Dondozo @ Rocky Helmet  

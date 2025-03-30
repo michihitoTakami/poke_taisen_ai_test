@@ -43,7 +43,6 @@ Ability: Torrent
 Tera Type: Steel  
 EVs: 252 HP / 0 Atk / 20 Def / 0 SpA / 236 SpD / 0 Spe  
 Careful Nature  
-- Outrage  
 - Bulldoze  
 - Flip Turn  
 - Knock Off  
