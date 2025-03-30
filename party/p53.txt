@@ -1,0 +1,62 @@
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Tera Type: Fighting  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Astral Barrage  
+- Tera Blast  
+- Will-O-Wisp  
+- Encore  
+
+Alomomola @ Rocky Helmet  
+Ability: Regenerator  
+Tera Type: Fairy  
+EVs: 116 HP / 252 Def / 140 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Flip Turn  
+- Play Rough  
+- Wish  
+- Protect  
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Tera Type: Normal  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Drum Beating  
+- Grassy Glide  
+- Knock Off  
+- U-turn  
+
+Ursaluna @ Flame Orb  
+Ability: Guts  
+Tera Type: Fire  
+EVs: 140 HP / 252 Atk / 4 Def / 4 SpD / 108 Spe  
+Adamant Nature  
+- Facade  
+- Headlong Rush  
+- Thunder Punch  
+- Roar  
+
+Clodsire @ Leftovers  
+Ability: Unaware  
+Tera Type: Dark  
+EVs: 252 HP / 100 Def / 156 SpD  
+Careful Nature  
+- Earthquake  
+- Toxic  
+- Protect  
+- Recover  
+
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Tera Type: Rock  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Overheat  
+- Flamethrower  
+- Dark Pulse  
+- Tera Blast  

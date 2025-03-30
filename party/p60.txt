@@ -1,0 +1,59 @@
+Koraidon @ Choice Scarf  
+Ability: Orichalcum Pulse  
+Tera Type: Fairy  
+EVs: 156 HP / 156 Atk / 196 Spe  
+Adamant Nature  
+- Flare Blitz  
+- U-turn  
+- Close Combat  
+- Tera Blast  
+
+Flutter Mane @ Jaboca Berry  
+Ability: Protosynthesis  
+Tera Type: Poison  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Moonblast  
+- Taunt  
+- Pain Split  
+- Calm Mind  
+
+Chi-Yu @ Choice Specs  
+Ability: Beads of Ruin  
+Tera Type: Fire  
+EVs: 228 HP / 12 Def / 116 SpA / 44 SpD / 108 Spe  
+Modest Nature  
+- Dark Pulse  
+- Overheat  
+- Flamethrower  
+- Sleep Talk  
+
+Ursaluna-Bloodmoon @ Assault Vest  
+Ability: Mind’s Eye  
+Tera Type: Normal  
+EVs: 100 HP / 4 Def / 236 SpA / 164 SpD / 4 Spe  
+Modest Nature  
+- Blood Moon  
+- Earth Power  
+- Hyper Voice  
+- Vacuum Wave  
+
+Ogerpon-Hearthflame @ Hearthflame Mask  
+Ability: Embody Aspect (Hearthflame)  
+Tera Type: Fire  
+EVs: 252 HP / 20 Atk / 180 Def / 4 SpD / 52 Spe  
+Adamant Nature  
+- Ivy Cudgel  
+- Synthesis  
+- Rock Tomb  
+- Spiky Shield  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+Tera Type: Water  
+EVs: 228 HP / 4 Atk / 36 Def / 236 SpD / 4 Spe  
+Impish Nature  
+- Taunt  
+- Knock Off  
+- Stealth Rock  
+- Substitute  

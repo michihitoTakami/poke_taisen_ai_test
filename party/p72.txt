@@ -1,0 +1,59 @@
+Blissey @ Poison Barb  
+Ability: Natural Cure  
+Tera Type: Dark  
+EVs: 36 HP / 252 Def / 220 SpD  
+Calm Nature  
+- Soft-Boiled  
+- Calm Mind  
+- Fling  
+- Flamethrower  
+
+Dondozo @ Rocky Helmet  
+Ability: Unaware  
+Tera Type: Ground  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+- Earthquake  
+- Avalanche  
+- Curse  
+- Rest  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+Tera Type: Dark  
+EVs: 212 HP / 44 Def / 252 Spe  
+Jolly Nature  
+- Protect  
+- Knock Off  
+- Taunt  
+- Substitute  
+
+Garganacl @ Covert Cloak  
+Ability: Sturdy  
+Tera Type: Fairy  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Salt Cure  
+- Fissure  
+- Recover  
+- Protect  
+
+Great Tusk @ Focus Sash  
+Ability: Protosynthesis  
+Tera Type: Fighting  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Headlong Rush  
+- Close Combat  
+- Knock Off  
+- Rapid Spin  
+
+Eternatus @ Leftovers  
+Ability: Pressure  
+Tera Type: Fire  
+EVs: 76 HP / 12 Def / 252 SpA / 4 SpD / 188 Spe  
+Timid Nature  
+- Dynamax Cannon  
+- Flamethrower  
+- Substitute  
+- Protect  

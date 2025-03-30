@@ -1,0 +1,59 @@
+Arcanine-Hisui @ Air Balloon  
+Ability: Rock Head  
+Tera Type: Rock  
+EVs: 36 HP / 252 Atk / 220 Spe  
+Adamant Nature  
+- Flare Blitz  
+- Head Smash  
+- Extreme Speed  
+- Will-O-Wisp  
+
+Koraidon @ Leftovers  
+Ability: Orichalcum Pulse  
+Tera Type: Fire  
+EVs: 140 HP / 108 Atk / 4 Def / 4 SpD / 252 Spe  
+Jolly Nature  
+- Flame Charge  
+- Drain Punch  
+- Bulk Up  
+- Substitute  
+
+Roaring Moon @ Choice Scarf  
+Ability: Protosynthesis  
+Tera Type: Steel  
+EVs: 252 Atk / 252 Spe  
+Adamant Nature  
+- Knock Off  
+- Outrage  
+- Iron Head  
+- U-turn  
+
+Flutter Mane @ Focus Sash  
+Ability: Protosynthesis  
+Tera Type: Fairy  
+EVs: 252 SpA / 252 Spe  
+Timid Nature  
+- Moonblast  
+- Hex  
+- Thunder Wave  
+- Perish Song  
+
+Landorus-Therian @ Rocky Helmet  
+Ability: Intimidate  
+Tera Type: Water  
+EVs: 244 HP / 4 Atk / 252 Def / 4 SpD / 4 Spe  
+Impish Nature  
+- Earthquake  
+- U-turn  
+- Stealth Rock  
+- Taunt  
+
+Ursaluna-Bloodmoon @ Sitrus Berry  
+Ability: Mind’s Eye  
+Tera Type: Poison  
+EVs: 252 HP / 36 Def / 4 SpA / 188 SpD / 28 Spe  
+Modest Nature  
+- Blood Moon  
+- Hyper Voice  
+- Calm Mind  
+- Moonlight  

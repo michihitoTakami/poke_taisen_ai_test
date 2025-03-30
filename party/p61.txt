@@ -1,0 +1,61 @@
+Koraidon @ Assault Vest  
+Ability: Orichalcum Pulse  
+Tera Type: Fire  
+EVs: 156 HP / 252 Atk / 100 Spe  
+Adamant Nature  
+- Flare Blitz  
+- Drain Punch  
+- Flame Charge  
+- U-turn  
+
+Flutter Mane @ Focus Sash  
+Ability: Protosynthesis  
+Tera Type: Normal  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Moonblast  
+- Shadow Ball  
+- Taunt  
+- Misty Terrain  
+
+Dondozo @ Leftovers  
+Ability: Unaware  
+Tera Type: Normal  
+EVs: 252 HP / 4 Atk / 196 Def / 44 SpD / 12 Spe  
+Impish Nature  
+- Fissure  
+- Avalanche  
+- Yawn  
+- Rest  
+
+Landorus-Therian @ Rocky Helmet  
+Ability: Intimidate  
+Tera Type: Fire  
+EVs: 244 HP / 252 Def / 12 SpD  
+Impish Nature  
+IVs: 0 Spe  
+- Earthquake  
+- Rock Tomb  
+- U-turn  
+- Stealth Rock  
+
+Chi-Yu @ Choice Specs  
+Ability: Beads of Ruin  
+Tera Type: Fire  
+EVs: 228 HP / 4 Def / 236 SpA / 36 SpD / 4 Spe  
+Modest Nature  
+- Overheat  
+- Flamethrower  
+- Dark Pulse  
+- Psychic  
+
+Ursaluna-Bloodmoon @ Leftovers  
+Ability: Mind's Eye  
+Tera Type: Fairy  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Spe  
+- Blood Moon  
+- Hyper Voice  
+- Earth Power  
+- Moonlight  

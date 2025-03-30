@@ -1,0 +1,59 @@
+Necrozma-Dusk-Mane @ Weakness Policy  
+Ability: Prism Armor  
+Tera Type: Water  
+EVs: 244 HP / 236 Atk / 28 Def  
+Adamant Nature  
+- Swords Dance  
+- Sunsteel Strike  
+- Photon Geyser  
+- Trick Room  
+
+Dragonite @ Life Orb  
+Ability: Multiscale  
+Tera Type: Normal  
+EVs: 244 HP / 252 Atk / 12 SpD  
+Adamant Nature  
+- Aerial Ace  
+- Earthquake  
+- Extreme Speed  
+- Ice Spinner  
+
+Urshifu-Single-Strike @ Focus Sash  
+Ability: Unseen Fist  
+Tera Type: Ghost  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Taunt  
+- Wicked Blow  
+- Close Combat  
+- Sucker Punch  
+
+Chi-Yu @ Choice Specs  
+Ability: Beads of Ruin  
+Tera Type: Fire  
+EVs: 244 HP / 12 Def / 252 SpA  
+Modest Nature  
+- Flamethrower  
+- Overheat  
+- Dark Pulse  
+- Psychic  
+
+Mimikyu @ Rocky Helmet  
+Ability: Disguise  
+Tera Type: Normal  
+EVs: 228 HP / 28 Atk / 252 Def  
+Relaxed Nature  
+- Play Rough  
+- Shadow Claw  
+- Trick Room  
+- Curse  
+
+Ursaluna-Bloodmoon @ Sitrus Berry  
+Ability: Mind’s Eye  
+Tera Type: Fire  
+EVs: 244 HP / 252 SpA / 12 SpD  
+Quiet Nature  
+- Blood Moon  
+- Earth Power  
+- Vacuum Wave  
+- Moonlight  

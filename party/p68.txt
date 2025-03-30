@@ -1,0 +1,59 @@
+Koraidon @ Loaded Dice  
+Ability: Orichalcum Pulse  
+Tera Type: Steel  
+EVs: 188 HP / 212 Atk / 4 Def / 4 SpD / 100 Spe  
+Adamant Nature  
+- Scale Shot  
+- Iron Head  
+- Swords Dance  
+- Substitute  
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Tera Type: Stellar  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Icicle Crash  
+- Sacred Sword  
+- Sheer Cold  
+- Sucker Punch  
+
+Flutter Mane @ Booster Energy  
+Ability: Protosynthesis  
+Tera Type: Normal  
+EVs: 100 HP / 252 Def / 20 SpA / 4 SpD / 132 Spe  
+Timid Nature  
+- Moonblast  
+- Charm  
+- Calm Mind  
+- Pain Split  
+
+Ursaluna-Bloodmoon @ Assault Vest  
+Ability: Mind’s Eye  
+Tera Type: Normal  
+EVs: 148 HP / 4 Def / 116 SpA / 204 SpD / 36 Spe  
+Modest Nature  
+- Blood Moon  
+- Earth Power  
+- Hyper Voice  
+- Vacuum Wave  
+
+Chi-Yu @ Choice Specs  
+Ability: Beads of Ruin  
+Tera Type: Fire  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Dark Pulse  
+- Flamethrower  
+- Psychic  
+- Overheat  
+
+Garganacl @ Leftovers  
+Ability: Purifying Salt  
+Tera Type: Water  
+EVs: 252 HP / 204 Def / 52 SpD  
+Impish Nature  
+- Salt Cure  
+- Body Press  
+- Recover  
+- Iron Defense  

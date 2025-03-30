@@ -1,0 +1,58 @@
+Necrozma-Dusk-Mane @ Lum Berry  
+Ability: Prism Armor  
+Tera Type: Water  
+EVs: 244 HP / 236 Atk / 28 Def  
+Adamant Nature  
+- Photon Geyser  
+- Sunsteel Strike  
+- Trick Room  
+- Swords Dance  
+
+Ursaluna-Bloodmoon @ Silk Scarf  
+Ability: Mind's Eye  
+Tera Type: Normal  
+EVs: 244 HP / 12 Def / 252 SpA  
+Quiet Nature  
+IVs: 0 Spe  
+- Blood Moon  
+- Hyper Voice  
+- Earth Power  
+- Vacuum Wave  
+
+Mimikyu @ Rocky Helmet  
+Ability: Disguise  
+Tera Type: Stellar  
+EVs: 244 HP / 20 Atk / 244 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Play Rough  
+- Shadow Sneak  
+- Trick Room  
+- Curse  
+
+Urshifu-Rapid-Strike @ Focus Sash  
+Ability: Unseen Fist  
+Tera Type: Stellar  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Surging Strikes  
+- Close Combat  
+- Ice Spinner  
+- Aqua Jet  
+
+Dragonite @ Choice Band  
+Ability: Multiscale  
+Tera Type: Normal  
+EVs: 244 HP / 252 Atk / 12 Def  
+Adamant Nature  
+- Extreme Speed  
+- Outrage  
+- Earthquake  
+- Fire Punch  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Tera Type: Fairy  
+EVs: 252 HP / 220 SpD / 36 Spe  
+Careful Nature  
+- Transform  

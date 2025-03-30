@@ -1,0 +1,60 @@
+Calyrex-Ice @ Leftovers  
+Ability: As One (Glastrier)  
+Tera Type: Water  
+EVs: 252 HP / 212 Def / 44 SpD  
+IVs: 12 Spe  
+Impish Nature  
+- Glacial Lance  
+- Leech Seed  
+- Protect  
+- Substitute  
+
+Mimikyu @ Choice Scarf  
+Ability: Disguise  
+Tera Type: Normal  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Play Rough  
+- Curse  
+- Destiny Bond  
+- Trick  
+
+Clodsire @ Sitrus Berry  
+Ability: Water Absorb  
+Tera Type: Ghost  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Earthquake  
+- Toxic  
+- Toxic Spikes  
+- Recover  
+
+Chi-Yu @ Assault Vest  
+Ability: Beads of Ruin  
+Tera Type: Poison  
+EVs: 164 HP / 108 SpA / 236 Spe  
+Modest Nature  
+- Overheat  
+- Dark Pulse  
+- Tera Blast  
+- Psychic  
+
+Dragonite @ Rocky Helmet  
+Ability: Multiscale  
+Tera Type: Normal  
+EVs: 228 HP / 252 Atk / 4 Def / 4 SpD / 20 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Earthquake  
+- Dragon Dance  
+- Roost  
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Tera Type: Ghost  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Icicle Crash  
+- Brick Break  
+- Sucker Punch  
+- Sheer Cold  

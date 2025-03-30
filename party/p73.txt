@@ -1,0 +1,59 @@
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Tera Type: Fighting  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Astral Barrage  
+- Tera Blast  
+- Encore  
+- Nasty Plot  
+
+Dragonite @ Choice Band  
+Ability: Multiscale  
+Tera Type: Normal  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Earthquake  
+- Outrage  
+- Low Kick  
+
+Landorus-Therian @ Assault Vest  
+Ability: Intimidate  
+Tera Type: Steel  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Earthquake  
+- Fissure  
+- Brick Break  
+- U-turn  
+
+Urshifu-Rapid-Strike @ Punching Glove  
+Ability: Unseen Fist  
+Tera Type: Normal  
+EVs: 108 HP / 252 Atk / 148 Def  
+Adamant Nature  
+- Surging Strikes  
+- Drain Punch  
+- Ice Punch  
+- Aqua Jet  
+
+Ting-Lu @ Leftovers  
+Ability: Vessel of Ruin  
+Tera Type: Electric  
+EVs: 212 HP / 4 Atk / 36 Def / 252 SpD / 4 Spe  
+Impish Nature  
+- Sand Tomb  
+- Ruination  
+- Stealth Rock  
+- Whirlwind  
+
+Alomomola @ Rocky Helmet  
+Ability: Regenerator  
+Tera Type: Fairy  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Flip Turn  
+- Wish  
+- Protect  
+- Aqua Jet  

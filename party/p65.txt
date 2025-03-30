@@ -1,0 +1,57 @@
+Calyrex-Shadow @ Leftovers  
+Ability: As One (Spectrier)  
+Tera Type: Normal  
+EVs: 12 HP / 108 Def / 132 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Astral Barrage  
+- Grass Knot  
+- Substitute  
+- Leech Seed  
+
+Samurott-Hisui @ Focus Sash  
+Ability: Sharpness  
+Tera Type: Fairy  
+EVs: 0 HP / 252 Atk / 156 Def / 0 SpA / 0 SpD / 100 Spe  
+Adamant Nature  
+- Aqua Cutter  
+- Ceaseless Edge  
+- Aqua Jet  
+- Encore  
+
+Sneasler @ Custap Berry  
+Ability: Unburden  
+Tera Type: Stellar  
+EVs: 140 HP / 200 Atk / 0 Def / 0 SpA / 0 SpD / 116 Spe  
+Adamant Nature  
+- Dire Claw  
+- Reversal  
+- Endure  
+- Quick Guard  
+
+Ditto @ Quick Claw  
+Ability: Imposter  
+Tera Type: Normal  
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+Relaxed Nature  
+IVs: 0 Spe  
+- Transform  
+
+Iron Treads @ Rocky Helmet  
+Ability: Quark Drive  
+Tera Type: Bug  
+EVs: 252 HP / 28 Atk / 52 Def / 0 SpA / 4 SpD / 172 Spe  
+Jolly Nature  
+- Earthquake  
+- Knock Off  
+- Ice Spinner  
+- Megahorn  
+
+Dragonite @ Loaded Dice  
+Ability: Multiscale  
+Tera Type: Normal  
+EVs: 68 HP / 236 Atk / 4 Def / 140 SpD / 60 Spe  
+Brave Nature  
+- Scale Shot  
+- Extreme Speed  
+- Flamethrower  
+- Thunder Wave  

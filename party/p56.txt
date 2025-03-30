@@ -1,0 +1,59 @@
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Tera Type: Water  
+EVs: 172 HP / 156 Atk / 4 Def / 12 SpD / 164 Spe  
+Jolly Nature  
+- Behemoth Blade  
+- Play Rough  
+- Tera Blast  
+- Swords Dance  
+
+Dragonite @ Choice Band  
+Ability: Multiscale  
+Tera Type: Normal  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Outrage  
+- Earthquake  
+- Low Kick  
+
+Ursaluna-Bloodmoon @ Silk Scarf  
+Ability: Mind’s Eye  
+Tera Type: Normal  
+EVs: 252 HP / 84 SpA / 172 SpD  
+Modest Nature  
+- Blood Moon  
+- Hyper Voice  
+- Vacuum Wave  
+- Moonlight  
+
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Tera Type: Grass  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Overheat  
+- Dark Pulse  
+- Flamethrower  
+- Tera Blast  
+
+Flutter Mane @ Focus Sash  
+Ability: Protosynthesis  
+Tera Type: Flying  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Moonblast  
+- Calm Mind  
+- Taunt  
+
+Garganacl @ Leftovers  
+Ability: Purifying Salt  
+Tera Type: Ghost  
+EVs: 252 HP / 236 Def / 20 Spe  
+Impish Nature  
+- Salt Cure  
+- Recover  
+- Protect  
+- Curse  

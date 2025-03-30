@@ -1,0 +1,59 @@
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Tera Type: Water  
+EVs: 252 HP / 180 Atk / 68 Def / 4 SpD / 4 Spe  
+Adamant Nature  
+- Behemoth Blade  
+- Play Rough  
+- Trailblaze  
+- Tera Blast  
+
+Urshifu @ Focus Sash  
+Ability: Unseen Fist  
+Tera Type: Stellar  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Wicked Blow  
+- Close Combat  
+- Brick Break  
+- Sucker Punch  
+
+Dragonite @ Choice Band  
+Ability: Multiscale  
+Tera Type: Normal  
+EVs: 244 HP / 252 Atk / 12 SpD  
+Adamant Nature  
+- Extreme Speed  
+- Outrage  
+- Earthquake  
+- Facade  
+
+Ursaluna-Bloodmoon @ Lum Berry  
+Ability: Mind's Eye  
+Tera Type: Normal  
+EVs: 20 HP / 4 Def / 196 SpA / 204 SpD / 84 Spe  
+Modest Nature  
+- Blood Moon  
+- Hyper Voice  
+- Earth Power  
+- Vacuum Wave  
+
+Dondozo @ Leftovers  
+Ability: Unaware  
+Tera Type: Ghost  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- Wave Crash  
+- Fissure  
+- Yawn  
+- Protect  
+
+Chien-Pao @ Life Orb  
+Ability: Sword of Ruin  
+Tera Type: Electric  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Icicle Crash  
+- Tera Blast  
+- Sucker Punch  
+- Swords Dance  

@@ -1,0 +1,61 @@
+Miraidon @ Choice Scarf  
+Ability: Hadron Engine  
+Tera Type: Fairy  
+EVs: 220 HP / 4 Def / 212 SpA / 4 SpD / 68 Spe  
+Modest Nature  
+- Electro Drift  
+- Draco Meteor  
+- Dazzling Gleam  
+- Volt Switch  
+
+Alomomola @ Leftovers  
+Ability: Regenerator  
+Tera Type: Fairy  
+EVs: 124 HP / 252 Def / 132 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Flip Turn  
+- Aqua Jet  
+- Wish  
+- Protect  
+
+Landorus-Therian @ Assault Vest  
+Ability: Intimidate  
+Tera Type: Steel  
+EVs: 244 HP / 12 Atk / 252 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Earthquake  
+- Brick Break  
+- Rock Tomb  
+- U-turn  
+
+Urshifu-Rapid-Strike @ Focus Sash  
+Ability: Unseen Fist  
+Tera Type: Stellar  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- Swords Dance  
+
+Ogerpon-Hearthflame @ Hearthflame Mask  
+Ability: Mold Breaker  
+Tera Type: Fire  
+EVs: 236 HP / 244 Atk / 4 Def / 4 SpD / 20 Spe  
+Adamant Nature  
+- Ivy Cudgel  
+- Horn Leech  
+- Quick Attack  
+- Swords Dance  
+
+Ursaluna-Bloodmoon @ Covert Cloak  
+Ability: Mind's Eye  
+Tera Type: Poison  
+EVs: 252 HP / 84 Def / 4 SpA / 164 SpD / 4 Spe  
+Modest Nature  
+- Blood Moon  
+- Hyper Voice  
+- Calm Mind  
+- Moonlight  

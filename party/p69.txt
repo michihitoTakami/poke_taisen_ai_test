@@ -1,0 +1,61 @@
+Terapagos-Terastal @ Covert Cloak  
+Ability: Tera Shift  
+Tera Type: Stellar  
+EVs: 220 HP / 244 Def / 4 SpA / 36 SpD / 4 Spe  
+Bold Nature  
+- Tera Starstorm  
+- Rapid Spin  
+- Rest  
+- Toxic  
+
+Flutter Mane @ Focus Sash  
+Ability: Protosynthesis  
+Tera Type: Stellar  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Shadow Ball  
+- Tera Blast  
+- Thunder Wave  
+
+Sneasler @ Sitrus Berry  
+Ability: Unburden  
+Tera Type: Ghost  
+EVs: 220 HP / 76 Atk / 100 Def / 4 SpD / 108 Spe  
+Adamant Nature  
+- Dire Claw  
+- Close Combat  
+- Aerial Ace  
+- Toxic Spikes  
+
+Chien-Pao @ Choice Band  
+Ability: Sword of Ruin  
+Tera Type: Ice  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Icicle Crash  
+- Ice Shard  
+- Sucker Punch  
+- Crunch  
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+Tera Type: Poison  
+EVs: 12 HP / 252 Def / 244 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Soft-Boiled  
+- Calm Mind  
+- Seismic Toss  
+- Heal Bell  
+
+Dondozo @ Leftovers  
+Ability: Unaware  
+Tera Type: Fairy  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Rest  
+- Protect  
+- Avalanche  
+- Fissure  

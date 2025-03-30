@@ -1,0 +1,61 @@
+Koraidon @ Loaded Dice  
+Ability: Orichalcum Pulse  
+Tera Type: Steel  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Scale Shot  
+- Collision Course  
+- Iron Head  
+- Taunt  
+
+Flutter Mane @ Focus Sash  
+Ability: Protosynthesis  
+Tera Type: Fairy  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Shadow Ball  
+- Taunt  
+- Pain Split  
+
+Landorus-Therian @ Rocky Helmet  
+Ability: Intimidate  
+Tera Type: Water  
+EVs: 244 HP / 252 Def / 12 SpD  
+Relaxed Nature  
+- Earthquake  
+- U-turn  
+- Taunt  
+- Stealth Rock  
+
+Garganacl @ Leftovers  
+Ability: Purifying Salt  
+Tera Type: Grass  
+EVs: 252 HP / 244 SpD / 12 Spe  
+Careful Nature  
+- Salt Cure  
+- Recover  
+- Substitute  
+- Protect  
+
+Chi-Yu @ Choice Specs  
+Ability: Beads of Ruin  
+Tera Type: Fire  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Overheat  
+- Flamethrower  
+- Dark Pulse  
+- Psychic  
+
+Grimmsnarl @ Lagging Tail  
+Ability: Prankster  
+Tera Type: Fire  
+EVs: 244 HP / 156 Atk / 108 SpD  
+Careful Nature  
+- Spirit Break  
+- Sucker Punch  
+- Drain Punch  
+- Trick  

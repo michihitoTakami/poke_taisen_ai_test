@@ -1,0 +1,61 @@
+Miraidon @ Choice Scarf  
+Ability: Hadron Engine  
+Tera Type: Ice  
+EVs: 252 SpA / 60 SpD / 180 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Electro Drift  
+- Draco Meteor  
+- Tera Blast  
+- Volt Switch  
+
+Chien-Pao @ Choice Band  
+Ability: Sword of Ruin  
+Tera Type: Stellar  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Icicle Crash  
+- Crunch  
+- Tera Blast  
+- Ice Shard  
+
+Flutter Mane @ Booster Energy  
+Ability: Protosynthesis  
+Tera Type: Normal  
+EVs: 100 HP / 252 Def / 4 SpA / 4 SpD / 148 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Calm Mind  
+- Charm  
+- Pain Split  
+
+Landorus-Therian @ Assault Vest  
+Ability: Intimidate  
+Tera Type: Normal  
+EVs: 212 HP / 60 Atk / 236 SpD  
+Sassy Nature  
+- Earthquake  
+- Brick Break  
+- Crunch  
+- U-turn  
+
+Iron Hands @ Sitrus Berry  
+Ability: Quark Drive  
+Tera Type: Water  
+EVs: 92 HP / 4 Atk / 252 Def / 140 SpD / 20 Spe  
+Impish Nature  
+- Drain Punch  
+- Earthquake  
+- Volt Switch  
+- Swords Dance  
+
+Dragonite @ Leftovers  
+Ability: Multiscale  
+Tera Type: Steel  
+EVs: 244 HP / 204 SpD / 60 Spe  
+Careful Nature  
+- Dragon Claw  
+- Earthquake  
+- Tera Blast  
+- Roost  
