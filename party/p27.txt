@@ -1,0 +1,59 @@
+Calyrex-Shadow @ Sitrus Berry  
+Ability: As One (Spectrier)  
+Tera Type: Fairy  
+EVs: 172 HP / 252 Def / 60 SpA / 4 SpD / 20 Spe  
+Modest Nature  
+- Astral Barrage  
+- Draining Kiss  
+- Nasty Plot  
+- Agility  
+
+Ogerpon-Hearthflame @ Hearthflame Mask  
+Ability: Mold Breaker  
+Tera Type: Fire  
+EVs: 252 HP / 76 Atk / 116 Def / 4 SpD / 60 Spe  
+Adamant Nature  
+- Ivy Cudgel  
+- Horn Leech  
+- Synthesis  
+- Swords Dance  
+
+Flutter Mane @ Booster Energy  
+Ability: Protosynthesis  
+Tera Type: Fairy  
+EVs: 164 HP / 148 Def / 132 SpA / 4 SpD / 60 Spe  
+Timid Nature  
+- Moonblast  
+- Pain Split  
+- Calm Mind  
+- Taunt  
+
+Gouging Fire @ Iapapa Berry  
+Ability: Stamina  
+Tera Type: Dragon  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Steel Beam  
+- Draco Meteor  
+- Stealth Rock  
+- Metal Burst  
+
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Tera Type: Fire  
+EVs: 252 HP / 4 Atk / 212 Def / 36 SpD / 4 Spe  
+Careful Nature  
+- Spirit Break  
+- Reflect  
+- Light Screen  
+- Thunder Wave  
+
+Urshifu-Rapid-Strike @ Focus Sash  
+Ability: Unseen Fist  
+Tera Type: Water  
+EVs: 252 Atk / 132 Def / 124 Spe  
+Adamant Nature  
+- Surging Strikes  
+- Close Combat  
+- Ice Spinner  
+- Aqua Jet  

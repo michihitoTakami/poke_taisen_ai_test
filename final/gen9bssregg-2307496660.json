@@ -1,0 +1,1056 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307496660",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "rautasi.",
+      "Sirius star"
+    ],
+    "uploadtime": 1740483681,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1151,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Miraidon, L50",
+        "species": "Miraidon",
+        "pokebase_info": {
+          "name": "miraidon",
+          "id": 1008,
+          "types": [
+            "electric",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 100,
+            "special-attack": 135,
+            "special-defense": 115,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Sneasler, L50, M",
+        "species": "Sneasler",
+        "pokebase_info": {
+          "name": "sneasler",
+          "id": 903,
+          "types": [
+            "fighting",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 130,
+            "defense": 60,
+            "special-attack": 40,
+            "special-defense": 80,
+            "speed": 120
+          }
+        }
+      },
+      {
+        "original": "Landorus-Therian, L50, M",
+        "species": "Landorus-Therian",
+        "pokebase_info": {
+          "name": "landorus-therian",
+          "id": 10021,
+          "types": [
+            "ground",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 89,
+            "attack": 145,
+            "defense": 90,
+            "special-attack": 105,
+            "special-defense": 80,
+            "speed": 91
+          }
+        }
+      },
+      {
+        "original": "Ursaluna, L50, M",
+        "species": "Ursaluna",
+        "pokebase_info": {
+          "name": "ursaluna",
+          "id": 901,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 130,
+            "attack": 140,
+            "defense": 105,
+            "special-attack": 45,
+            "special-defense": 80,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Scizor, L50, F",
+        "species": "Scizor",
+        "pokebase_info": {
+          "name": "scizor",
+          "id": 212,
+          "types": [
+            "bug",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 65
+          }
+        }
+      },
+      {
+        "original": "Sinistcha-Masterpiece, L50",
+        "species": "Sinistcha-Masterpiece",
+        "pokebase_info": {}
+      }
+    ],
+    "p2": [
+      {
+        "original": "Ho-Oh, L50",
+        "species": "Ho-Oh",
+        "pokebase_info": {
+          "name": "ho-oh",
+          "id": 250,
+          "types": [
+            "fire",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 106,
+            "attack": 130,
+            "defense": 90,
+            "special-attack": 110,
+            "special-defense": 154,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Garganacl, L50, F",
+        "species": "Garganacl",
+        "pokebase_info": {
+          "name": "garganacl",
+          "id": 934,
+          "types": [
+            "rock"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 100,
+            "defense": 130,
+            "special-attack": 45,
+            "special-defense": 90,
+            "speed": 35
+          }
+        }
+      },
+      {
+        "original": "Wo-Chien, L50",
+        "species": "Wo-Chien",
+        "pokebase_info": {
+          "name": "wo-chien",
+          "id": 1001,
+          "types": [
+            "dark",
+            "grass"
+          ],
+          "base_stats": {
+            "hp": 85,
+            "attack": 85,
+            "defense": 100,
+            "special-attack": 95,
+            "special-defense": 135,
+            "speed": 70
+          }
+        }
+      },
+      {
+        "original": "Glimmora, L50, M",
+        "species": "Glimmora",
+        "pokebase_info": {
+          "name": "glimmora",
+          "id": 970,
+          "types": [
+            "rock",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 83,
+            "attack": 55,
+            "defense": 90,
+            "special-attack": 130,
+            "special-defense": 81,
+            "speed": 86
+          }
+        }
+      },
+      {
+        "original": "Donphan, L50, M",
+        "species": "Donphan",
+        "pokebase_info": {
+          "name": "donphan",
+          "id": 232,
+          "types": [
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 120,
+            "defense": 120,
+            "special-attack": 60,
+            "special-defense": 60,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Primarina, L50, F",
+        "species": "Primarina",
+        "pokebase_info": {
+          "name": "primarina",
+          "id": 730,
+          "types": [
+            "water",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 74,
+            "defense": 74,
+            "special-attack": 126,
+            "special-defense": 116,
+            "speed": 60
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Miraidon",
+        "Miraidon, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Donphan",
+        "Donphan, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Sinistcha-Masterpiece, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Donphan",
+        "Earthquake",
+        "p1a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Scald",
+        "p2a: Donphan"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Donphan",
+        "Encore",
+        "p1a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Donphan",
+        "Ice Shard",
+        "p1a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Scald",
+        "p2a: Donphan"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ho-Oh",
+        "Ho-Oh, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Miraidon",
+        "Miraidon, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Dual Wingbeat",
+        "p1a: Miraidon"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Miraidon",
+        "Dazzling Gleam",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Sacred Fire",
+        "p1a: Miraidon"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Miraidon",
+        "Dazzling Gleam",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Sacred Fire",
+        "p1a: Miraidon",
+        "[miss]"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Garganacl",
+        "Garganacl, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Miraidon",
+        "Dazzling Gleam",
+        "p2a: Garganacl"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \u30b3\u30e9\u30a4\u30c9\u30f3\u78ba\u5b9a\u4e00\u767a",
+        "Sneasler, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Garganacl",
+        "Protect",
+        "",
+        "[still]"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Garganacl",
+        "Protect",
+        "p2a: Garganacl"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u30b3\u30e9\u30a4\u30c9\u30f3\u78ba\u5b9a\u4e00\u767a",
+        "Dire Claw",
+        "p2a: Garganacl"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u30b3\u30e9\u30a4\u30c9\u30f3\u78ba\u5b9a\u4e00\u767a",
+        "Dire Claw",
+        "p2a: Garganacl"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Garganacl",
+        "Salt Cure",
+        "p1a: \u30b3\u30e9\u30a4\u30c9\u30f3\u78ba\u5b9a\u4e00\u767a"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Sinistcha-Masterpiece, L50",
+        "54/100"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Garganacl",
+        "Recover",
+        "p2a: Garganacl"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ho-Oh",
+        "Ho-Oh, L50, tera:Grass",
+        "61/100"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Strength Sap",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Dual Wingbeat",
+        "p1a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Strength Sap",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Recover",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Shadow Ball",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Garganacl",
+        "Garganacl, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Calm Mind",
+        "p1a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Scald",
+        "p2a: Garganacl"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Garganacl",
+        "Salt Cure",
+        "p1a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Scald",
+        "p2a: Garganacl"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Garganacl",
+        "Recover",
+        "p2a: Garganacl"
+      ]
+    },
+    {
+      "turn": 18,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Garganacl",
+        "Protect",
+        "p2a: Garganacl"
+      ]
+    },
+    {
+      "turn": 18,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Strength Sap",
+        "p2a: Garganacl"
+      ]
+    },
+    {
+      "turn": 19,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ho-Oh",
+        "Ho-Oh, L50, tera:Grass",
+        "94/100"
+      ]
+    },
+    {
+      "turn": 19,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Strength Sap",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 20,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Sacred Fire",
+        "p1a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 20,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Shadow Ball",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 21,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Sacred Fire",
+        "p1a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 21,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Strength Sap",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 22,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \u30b3\u30e9\u30a4\u30c9\u30f3\u78ba\u5b9a\u4e00\u767a",
+        "Sneasler, L50, M",
+        "77/100"
+      ]
+    },
+    {
+      "turn": 22,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Tera Blast",
+        "p1a: \u30b3\u30e9\u30a4\u30c9\u30f3\u78ba\u5b9a\u4e00\u767a",
+        "[anim] Tera Blast Grass"
+      ]
+    },
+    {
+      "turn": 23,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Garganacl",
+        "Garganacl, L50, F",
+        "65/100"
+      ]
+    },
+    {
+      "turn": 23,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u30b3\u30e9\u30a4\u30c9\u30f3\u78ba\u5b9a\u4e00\u767a",
+        "Dire Claw",
+        "p2a: Garganacl"
+      ]
+    },
+    {
+      "turn": 24,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Sinistcha-Masterpiece, L50",
+        "71/100 brn"
+      ]
+    },
+    {
+      "turn": 24,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Garganacl",
+        "Salt Cure",
+        "p1a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 25,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Garganacl",
+        "Protect",
+        "p2a: Garganacl"
+      ]
+    },
+    {
+      "turn": 25,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Strength Sap",
+        "p2a: Garganacl"
+      ]
+    },
+    {
+      "turn": 26,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ho-Oh",
+        "Ho-Oh, L50, tera:Grass",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 26,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Strength Sap",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 27,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Dual Wingbeat",
+        "p1a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 27,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Scald",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 28,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \u30b3\u30e9\u30a4\u30c9\u30f3\u78ba\u5b9a\u4e00\u767a",
+        "Sneasler, L50, M",
+        "59/100"
+      ]
+    },
+    {
+      "turn": 28,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Dual Wingbeat",
+        "p1a: \u30b3\u30e9\u30a4\u30c9\u30f3\u78ba\u5b9a\u4e00\u767a"
+      ]
+    },
+    {
+      "turn": 28,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \u3059\u3044\u3068\u308c",
+        "Sinistcha-Masterpiece, L50",
+        "32/100 brn"
+      ]
+    },
+    {
+      "turn": 29,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Dual Wingbeat",
+        "p1a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 29,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Miraidon",
+        "Miraidon, L50, tera:Fairy",
+        "19/100 brn"
+      ]
+    },
+    {
+      "turn": 30,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Garganacl",
+        "Garganacl, L50, F",
+        "70/100"
+      ]
+    },
+    {
+      "turn": 30,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Miraidon",
+        "Dazzling Gleam",
+        "p2a: Garganacl"
+      ]
+    },
+    {
+      "turn": 30,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ho-Oh",
+        "Ho-Oh, L50, tera:Grass",
+        "63/100"
+      ]
+    },
+    {
+      "turn": 31,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Miraidon",
+        "Dazzling Gleam",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 31,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Tera Blast",
+        "p1a: Miraidon",
+        "[anim] Tera Blast Grass"
+      ]
+    }
+  ],
+  "win": "Sirius star"
+}

@@ -1,0 +1,601 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308209582",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "myleaf",
+      "Down a notch"
+    ],
+    "uploadtime": 1740571659,
+    "views": 5,
+    "formatid": "gen9bssregg",
+    "rating": 1369,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Koraidon, L50",
+        "species": "Koraidon",
+        "pokebase_info": {
+          "name": "koraidon",
+          "id": 1007,
+          "types": [
+            "fighting",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 135,
+            "defense": 115,
+            "special-attack": 85,
+            "special-defense": 100,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Landorus-Therian, L50, M",
+        "species": "Landorus-Therian",
+        "pokebase_info": {
+          "name": "landorus-therian",
+          "id": 10021,
+          "types": [
+            "ground",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 89,
+            "attack": 145,
+            "defense": 90,
+            "special-attack": 105,
+            "special-defense": 80,
+            "speed": 91
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Tyranitar, L50, F",
+        "species": "Tyranitar",
+        "pokebase_info": {
+          "name": "tyranitar",
+          "id": 248,
+          "types": [
+            "rock",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 134,
+            "defense": 110,
+            "special-attack": 95,
+            "special-defense": 100,
+            "speed": 61
+          }
+        }
+      },
+      {
+        "original": "Heatran, L50, M",
+        "species": "Heatran",
+        "pokebase_info": {
+          "name": "heatran",
+          "id": 485,
+          "types": [
+            "fire",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 90,
+            "defense": 106,
+            "special-attack": 130,
+            "special-defense": 106,
+            "speed": 77
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Lugia, L50",
+        "species": "Lugia",
+        "pokebase_info": {
+          "name": "lugia",
+          "id": 249,
+          "types": [
+            "psychic",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 106,
+            "attack": 90,
+            "defense": 130,
+            "special-attack": 90,
+            "special-defense": 154,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Salazzle, L50, F",
+        "species": "Salazzle",
+        "pokebase_info": {
+          "name": "salazzle",
+          "id": 758,
+          "types": [
+            "poison",
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 68,
+            "attack": 64,
+            "defense": 60,
+            "special-attack": 111,
+            "special-defense": 60,
+            "speed": 117
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Araquanid, L50, M",
+        "species": "Araquanid",
+        "pokebase_info": {
+          "name": "araquanid",
+          "id": 752,
+          "types": [
+            "water",
+            "bug"
+          ],
+          "base_stats": {
+            "hp": 68,
+            "attack": 70,
+            "defense": 92,
+            "special-attack": 50,
+            "special-defense": 132,
+            "speed": 42
+          }
+        }
+      },
+      {
+        "original": "Glimmora, L50, M",
+        "species": "Glimmora",
+        "pokebase_info": {
+          "name": "glimmora",
+          "id": 970,
+          "types": [
+            "rock",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 83,
+            "attack": 55,
+            "defense": 90,
+            "special-attack": 130,
+            "special-defense": 81,
+            "speed": 86
+          }
+        }
+      },
+      {
+        "original": "Qwilfish-Hisui, L50, F",
+        "species": "Qwilfish-Hisui",
+        "pokebase_info": {
+          "name": "qwilfish-hisui",
+          "id": 10234,
+          "types": [
+            "dark",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 65,
+            "attack": 95,
+            "defense": 85,
+            "special-attack": 55,
+            "special-defense": 55,
+            "speed": 85
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Flutter Mane",
+        "Flutter Mane, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Araquanid",
+        "Araquanid, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Calm Mind",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Araquanid",
+        "Liquidation",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Pain Split",
+        "p2a: Araquanid"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Araquanid",
+        "Liquidation",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Moonblast",
+        "p2a: Araquanid"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Araquanid",
+        "Liquidation",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Tyranitar",
+        "Tyranitar, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Glimmora",
+        "Glimmora, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Tyranitar",
+        "Dragon Dance",
+        "p1a: Tyranitar"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Glimmora",
+        "Endure",
+        "p2a: Glimmora"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Tyranitar",
+        "Substitute",
+        "p1a: Tyranitar"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Lugia",
+        "Lugia, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Tyranitar",
+        "Dragon Dance",
+        "p1a: Tyranitar"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Glimmora",
+        "Glimmora, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Tyranitar",
+        "Dragon Dance",
+        "p1a: Tyranitar"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Lugia",
+        "Lugia, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Tyranitar",
+        "Dragon Dance",
+        "p1a: Tyranitar"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Tyranitar",
+        "Dragon Dance",
+        "p1a: Tyranitar"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lugia",
+        "Whirlwind",
+        "p1a: Tyranitar"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Glimmora",
+        "Glimmora, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Landorus",
+        "Earthquake",
+        "p2a: Glimmora"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Araquanid",
+        "Araquanid, L50, M",
+        "16/100"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Araquanid",
+        "Endeavor",
+        "p1a: Landorus"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Landorus",
+        "Smack Down",
+        "p2a: Araquanid"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Lugia",
+        "Lugia, L50, tera:Poison",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Landorus",
+        "Fissure",
+        "p2a: Lugia"
+      ]
+    }
+  ],
+  "win": "myleaf"
+}

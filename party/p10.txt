@@ -1,0 +1,59 @@
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Tera Type: Fairy  
+EVs: 172 HP / 156 Atk / 4 Def / 0 SpA / 12 SpD / 164 Spe  
+Jolly Nature  
+- Iron Head  
+- Close Combat  
+- Wild Charge  
+- Swords Dance  
+
+Hippowdon @ Sitrus Berry  
+Ability: Sand Stream  
+Tera Type: Ground  
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe  
+Careful Nature  
+- Earthquake  
+- Yawn  
+- Stealth Rock  
+- Whirlwind  
+
+Dragonite @ Choice Band  
+Ability: Multiscale  
+Tera Type: Ice  
+EVs: 68 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 188 Spe  
+Adamant Nature  
+- Outrage  
+- Tera Blast  
+- Earthquake  
+- Extreme Speed  
+
+Chi-Yu @ Choice Scarf  
+Ability: Beads of Ruin  
+Tera Type: Grass  
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe  
+Timid Nature  
+- Flamethrower  
+- Dark Pulse  
+- Overheat  
+- Tera Blast  
+
+Flutter Mane @ Choice Specs  
+Ability: Protosynthesis  
+Tera Type: Steel  
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe  
+Timid Nature  
+- Moonblast  
+- Shadow Ball  
+- Tera Blast  
+- Perish Song  
+
+Meowscarada @ Focus Sash  
+Ability: Overgrow  
+Tera Type: Dark  
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe  
+Adamant Nature  
+- Flower Trick  
+- Knock Off  
+- Sucker Punch  
+- Triple Axel  

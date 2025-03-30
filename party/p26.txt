@@ -1,0 +1,59 @@
+Terapagos @ Choice Specs  
+Ability: Terastal Engine  
+Tera Type: Stellar  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Teraclastar  
+- Ice Beam  
+- Flamethrower  
+- Earth Power  
+
+Mimikyu @ Leftovers  
+Ability: Disguise  
+Tera Type: Water  
+EVs: 228 HP / 252 Atk / 28 Spe  
+Adamant Nature  
+- Play Rough  
+- Shadow Sneak  
+- Curse  
+- Endure  
+
+Glimmora @ Red Card  
+Ability: Toxic Debris  
+Tera Type: Grass  
+EVs: 252 HP / 236 SpD / 12 Spe  
+Calm Nature  
+- Power Gem  
+- Earth Power  
+- Mortal Spin  
+- Stealth Rock  
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Tera Type: Fire  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Drum Beating  
+- Grassy Glide  
+- Knock Off  
+- U-turn  
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Tera Type: Ghost  
+EVs: 0 HP / 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Icicle Crash  
+- Sacred Sword  
+- Sucker Punch  
+- Sheer Cold  
+
+Iron Treads @ Choice Scarf  
+Ability: Quark Drive  
+Tera Type: Electric  
+EVs: 60 HP / 252 Atk / 4 Def / 188 Spe  
+Adamant Nature  
+- Iron Head  
+- Earthquake  
+- Ice Spinner  
+- Volt Switch  

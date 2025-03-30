@@ -1,0 +1,598 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308544141",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "hiveman",
+      "drampaforag"
+    ],
+    "uploadtime": 1740606539,
+    "views": 2,
+    "formatid": "gen9bssregg",
+    "rating": 1139,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Giratina-Origin, L50",
+        "species": "Giratina-Origin",
+        "pokebase_info": {
+          "name": "giratina-origin",
+          "id": 10007,
+          "types": [
+            "ghost",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 150,
+            "attack": 120,
+            "defense": 100,
+            "special-attack": 120,
+            "special-defense": 100,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Annihilape, L50, M",
+        "species": "Annihilape",
+        "pokebase_info": {
+          "name": "annihilape",
+          "id": 979,
+          "types": [
+            "fighting",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 110,
+            "attack": 115,
+            "defense": 80,
+            "special-attack": 50,
+            "special-defense": 90,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Dragapult, L50, F",
+        "species": "Dragapult",
+        "pokebase_info": {
+          "name": "dragapult",
+          "id": 887,
+          "types": [
+            "dragon",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 88,
+            "attack": 120,
+            "defense": 75,
+            "special-attack": 100,
+            "special-defense": 75,
+            "speed": 142
+          }
+        }
+      },
+      {
+        "original": "Mimikyu, L50, F",
+        "species": "Mimikyu",
+        "pokebase_info": {
+          "name": "mimikyu-disguised",
+          "id": 778,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 90,
+            "defense": 80,
+            "special-attack": 50,
+            "special-defense": 105,
+            "speed": 96
+          }
+        }
+      },
+      {
+        "original": "Zoroark-Hisui, L50, F",
+        "species": "Zoroark-Hisui",
+        "pokebase_info": {
+          "name": "zoroark-hisui",
+          "id": 10239,
+          "types": [
+            "normal",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 100,
+            "defense": 60,
+            "special-attack": 125,
+            "special-defense": 60,
+            "speed": 110
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Eternatus, L50",
+        "species": "Eternatus",
+        "pokebase_info": {
+          "name": "eternatus",
+          "id": 890,
+          "types": [
+            "poison",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 140,
+            "attack": 85,
+            "defense": 95,
+            "special-attack": 145,
+            "special-defense": 95,
+            "speed": 130
+          }
+        }
+      },
+      {
+        "original": "Ogerpon-Wellspring, L50, F",
+        "species": "Ogerpon-Wellspring",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Mimikyu, L50, M",
+        "species": "Mimikyu",
+        "pokebase_info": {
+          "name": "mimikyu-disguised",
+          "id": 778,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 90,
+            "defense": 80,
+            "special-attack": 50,
+            "special-defense": 105,
+            "speed": 96
+          }
+        }
+      },
+      {
+        "original": "Raging Bolt, L50",
+        "species": "Raging Bolt",
+        "pokebase_info": {
+          "name": "raging-bolt",
+          "id": 1021,
+          "types": [
+            "electric",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 125,
+            "attack": 73,
+            "defense": 91,
+            "special-attack": 137,
+            "special-defense": 89,
+            "speed": 75
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Ditto, L50",
+        "species": "Ditto",
+        "pokebase_info": {
+          "name": "ditto",
+          "id": 132,
+          "types": [
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 48,
+            "attack": 48,
+            "defense": 48,
+            "special-attack": 48,
+            "special-defense": 48,
+            "speed": 48
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Giratina",
+        "Giratina-Origin, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ogerpon",
+        "Ogerpon-Wellspring, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ogerpon",
+        "Leech Seed",
+        "p1a: Giratina",
+        "[miss]"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Giratina",
+        "Poltergeist",
+        "p2a: Ogerpon"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Mimikyu",
+        "Mimikyu, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Giratina",
+        "Shadow Sneak",
+        "p2a: Mimikyu"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Mimikyu",
+        "Curse",
+        "p1a: Giratina"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Giratina",
+        "Poltergeist",
+        "p2a: Mimikyu"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ogerpon",
+        "Ogerpon-Wellspring, L50, F",
+        "29/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Giratina",
+        "Shadow Sneak",
+        "p2a: Ogerpon"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ogerpon",
+        "Substitute",
+        "p2a: Ogerpon"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Eternatus",
+        "Eternatus, L50, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Giratina",
+        "Shadow Sneak",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Cosmic Power",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Giratina",
+        "Draco Meteor",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Mimikyu",
+        "Mimikyu, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Sludge Bomb",
+        "p1a: Mimikyu"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Mimikyu",
+        "Trick",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Mimikyu",
+        "Destiny Bond",
+        "p1a: Mimikyu"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Sludge Bomb",
+        "p1a: Mimikyu"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Mimikyu",
+        "Curse",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Recover",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Dragapult",
+        "Dragapult, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ogerpon",
+        "Ogerpon-Wellspring, L50, F",
+        "3/100"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Dragapult",
+        "Dragon Darts",
+        "p2a: Ogerpon"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Eternatus",
+        "Eternatus, L50, shiny",
+        "69/100"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Dragapult",
+        "Dragon Darts",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Cosmic Power",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Dragapult",
+        "Dragon Darts",
+        "p2a: Eternatus"
+      ]
+    }
+  ],
+  "win": "hiveman"
+}

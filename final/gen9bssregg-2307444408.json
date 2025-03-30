@@ -1,0 +1,622 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307444408",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "picogrill398",
+      "UbersGambit"
+    ],
+    "uploadtime": 1740474193,
+    "views": 20,
+    "formatid": "gen9bssregg",
+    "rating": 1311,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Calyrex-Shadow, L50",
+        "species": "Calyrex-Shadow",
+        "pokebase_info": {
+          "name": "calyrex-shadow",
+          "id": 10194,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 80,
+            "special-attack": 165,
+            "special-defense": 100,
+            "speed": 150
+          }
+        }
+      },
+      {
+        "original": "Landorus-Therian, L50, M",
+        "species": "Landorus-Therian",
+        "pokebase_info": {
+          "name": "landorus-therian",
+          "id": 10021,
+          "types": [
+            "ground",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 89,
+            "attack": 145,
+            "defense": 90,
+            "special-attack": 105,
+            "special-defense": 80,
+            "speed": 91
+          }
+        }
+      },
+      {
+        "original": "Archaludon, L50, F",
+        "species": "Archaludon",
+        "pokebase_info": {
+          "name": "archaludon",
+          "id": 1018,
+          "types": [
+            "steel",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 105,
+            "defense": 130,
+            "special-attack": 125,
+            "special-defense": 65,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Azumarill, L50, M",
+        "species": "Azumarill",
+        "pokebase_info": {
+          "name": "azumarill",
+          "id": 184,
+          "types": [
+            "water",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 50,
+            "defense": 80,
+            "special-attack": 60,
+            "special-defense": 80,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Ogerpon-Hearthflame, L50, F",
+        "species": "Ogerpon-Hearthflame",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Lunala, L50",
+        "species": "Lunala",
+        "pokebase_info": {
+          "name": "lunala",
+          "id": 792,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 137,
+            "attack": 113,
+            "defense": 89,
+            "special-attack": 137,
+            "special-defense": 107,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Toxicroak, L50, F",
+        "species": "Toxicroak",
+        "pokebase_info": {
+          "name": "toxicroak",
+          "id": 454,
+          "types": [
+            "poison",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 83,
+            "attack": 106,
+            "defense": 65,
+            "special-attack": 86,
+            "special-defense": 65,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Heatran, L50, F",
+        "species": "Heatran",
+        "pokebase_info": {
+          "name": "heatran",
+          "id": 485,
+          "types": [
+            "fire",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 90,
+            "defense": 106,
+            "special-attack": 130,
+            "special-defense": 106,
+            "speed": 77
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Ursaluna, L50, F",
+        "species": "Ursaluna",
+        "pokebase_info": {
+          "name": "ursaluna",
+          "id": 901,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 130,
+            "attack": 140,
+            "defense": 105,
+            "special-attack": 45,
+            "special-defense": 80,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Pelipper, L50, M",
+        "species": "Pelipper",
+        "pokebase_info": {
+          "name": "pelipper",
+          "id": 279,
+          "types": [
+            "water",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 60,
+            "attack": 50,
+            "defense": 100,
+            "special-attack": 95,
+            "special-defense": 70,
+            "speed": 65
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Archaludon",
+        "Archaludon, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Pelipper",
+        "Pelipper, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Lunala",
+        "Lunala, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Archaludon",
+        "Stealth Rock",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ursaluna",
+        "Ursaluna-Bloodmoon, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Calm Mind",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Calm Mind",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Yawn",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Calm Mind",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Moonlight",
+        "p1a: Ursaluna"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Archaludon",
+        "Archaludon, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Archaludon",
+        "Roar",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Pelipper",
+        "Hurricane",
+        "p1a: Archaludon"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Archaludon",
+        "Roar",
+        "p2a: Pelipper"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Toxicroak",
+        "Drain Punch",
+        "p1a: Archaludon"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Archaludon",
+        "Flash Cannon",
+        "p2a: Toxicroak"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Toxicroak",
+        "Bulk Up",
+        "p2a: Toxicroak"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Archaludon",
+        "Flash Cannon",
+        "p2a: Toxicroak"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Toxicroak",
+        "Drain Punch",
+        "p1a: Archaludon"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Archaludon",
+        "Roar",
+        "p2a: Toxicroak"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Calm Mind",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Archaludon",
+        "Roar",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Archaludon",
+        "Body Press",
+        "p2a: Pelipper"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Pelipper",
+        "Surf",
+        "p1a: Archaludon"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Calyrex",
+        "Calyrex-Shadow, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Psychic",
+        "p2a: Pelipper"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Lunala",
+        "Lunala, L50",
+        "88/100"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Psychic",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moongeist Beam",
+        "p1a: Calyrex"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Psychic",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moongeist Beam",
+        "p1a: Calyrex"
+      ]
+    }
+  ],
+  "win": "UbersGambit"
+}

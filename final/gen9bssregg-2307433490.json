@@ -1,0 +1,530 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307433490",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "damnflg",
+      "Lazy_PS"
+    ],
+    "uploadtime": 1740472434,
+    "views": 2,
+    "formatid": "gen9bssregg",
+    "rating": 1361,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Calyrex-Shadow, L50",
+        "species": "Calyrex-Shadow",
+        "pokebase_info": {
+          "name": "calyrex-shadow",
+          "id": 10194,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 80,
+            "special-attack": 165,
+            "special-defense": 100,
+            "speed": 150
+          }
+        }
+      },
+      {
+        "original": "Dragonite, L50, M",
+        "species": "Dragonite",
+        "pokebase_info": {
+          "name": "dragonite",
+          "id": 149,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Muk-Alola, L50, M",
+        "species": "Muk-Alola",
+        "pokebase_info": {
+          "name": "muk-alola",
+          "id": 10113,
+          "types": [
+            "poison",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 105,
+            "attack": 105,
+            "defense": 75,
+            "special-attack": 65,
+            "special-defense": 100,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Alomomola, L50, F",
+        "species": "Alomomola",
+        "pokebase_info": {
+          "name": "alomomola",
+          "id": 594,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 165,
+            "attack": 75,
+            "defense": 80,
+            "special-attack": 40,
+            "special-defense": 45,
+            "speed": 65
+          }
+        }
+      },
+      {
+        "original": "Scizor, L50, F",
+        "species": "Scizor",
+        "pokebase_info": {
+          "name": "scizor",
+          "id": 212,
+          "types": [
+            "bug",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 65
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Giratina-Origin, L50",
+        "species": "Giratina-Origin",
+        "pokebase_info": {
+          "name": "giratina-origin",
+          "id": 10007,
+          "types": [
+            "ghost",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 150,
+            "attack": 120,
+            "defense": 100,
+            "special-attack": 120,
+            "special-defense": 100,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Brute Bonnet, L50",
+        "species": "Brute Bonnet",
+        "pokebase_info": {
+          "name": "brute-bonnet",
+          "id": 986,
+          "types": [
+            "grass",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 111,
+            "attack": 127,
+            "defense": 99,
+            "special-attack": 79,
+            "special-defense": 99,
+            "speed": 55
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, M",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Archaludon, L50, M",
+        "species": "Archaludon",
+        "pokebase_info": {
+          "name": "archaludon",
+          "id": 1018,
+          "types": [
+            "steel",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 105,
+            "defense": 130,
+            "special-attack": 125,
+            "special-defense": 65,
+            "speed": 85
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Dragonite",
+        "Dragonite, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Brute Bonnet",
+        "Brute Bonnet, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Dragonite",
+        "Ice Spinner",
+        "p2a: Brute Bonnet"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Brute Bonnet",
+        "Spore",
+        "p1a: Dragonite"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ting-Lu",
+        "Ting-Lu, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Giratina",
+        "Giratina-Origin, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Giratina",
+        "Will-O-Wisp",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Stealth Rock",
+        "p2a: Giratina"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Brute Bonnet",
+        "Brute Bonnet, L50",
+        "27/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Ruination",
+        "p2a: Brute Bonnet"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Brute Bonnet",
+        "Bullet Seed",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Earthquake",
+        "p2a: Brute Bonnet"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Giratina",
+        "Giratina-Origin, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Giratina",
+        "Draco Meteor",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Calyrex",
+        "Calyrex-Shadow, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ting-Lu",
+        "Ting-Lu, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Nasty Plot",
+        "p1a: Calyrex"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Tera Blast",
+        "p2a: Ting-Lu",
+        "[anim] Tera Blast Fighting"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ting-Lu",
+        "Payback",
+        "p1a: Calyrex"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Tera Blast",
+        "p2a: Ting-Lu",
+        "[anim] Tera Blast Fighting"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Giratina",
+        "Giratina-Origin, L50",
+        "88/100"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Psyshock",
+        "p2a: Giratina"
+      ]
+    }
+  ],
+  "win": "damnflg"
+}

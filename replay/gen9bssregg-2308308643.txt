@@ -1,0 +1,416 @@
+<html class="dark"><head><script type="text/javascript" async="" src="https://cdn.edkt.io/rNn9xk/edgekit.min.js"></script><meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+<title>[Gen 9] BSS Reg G: tenxneko vs. Sirius star - Replays - Pokémon Showdown!</title>
+
+<meta name="description" content="Watch a replay of a Pokémon battle between tenxneko and Sirius star! Format: [Gen 9] BSS Reg G; Date: Feb 26, 2025">
+<!--
+
+Hey, you! Looking in the source for the replay log?
+
+You can find them in JSON format, just add `.json` at the end of a replay URL.
+
+https://replay.pokemonshowdown.com/gen7randomdoublesbattle-865046831.json
+
+Or, if you only need the log itself, add `.log` instead:
+
+https://replay.pokemonshowdown.com/gen7randomdoublesbattle-865046831.log
+
+-->
+
+<link rel="stylesheet" href="//pokemonshowdown.com/style/global.css?0.33511372851231">
+<link rel="stylesheet" href="//play.pokemonshowdown.com/style/font-awesome.css?0.5883895382621385">
+<link rel="stylesheet" href="//play.pokemonshowdown.com/style/battle.css?0.10240648377952621">
+<link rel="stylesheet" href="//play.pokemonshowdown.com/style/utilichart.css?0.5738233469631782">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://secure.cdn.fastclick.net/js/cnvr-coreid/latest/coreid.min.js"></script><script async="" src="https://secure.cdn.fastclick.net/js/cnvr-launcher/latest/launcher.min.js"></script><script src="https://cdn.hadronid.net/hadron.js?url=https%3A%2F%2Freplay.pokemonshowdown.com%2Fgen9bssregg-2308308643&amp;ref=&amp;_it=amazon&amp;partner_id=288"></script><script src="https://rules.quantcount.com/rules-p-Hwnr8j7tWA3Nu.js" async=""></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-8B1DJVGJ9K&amp;l=dataLayer&amp;cx=c&amp;gtm=457e52o0za200&amp;tag_exp=101732282~101732284~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102658453~102717422"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-26211653-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-26211653-1');
+</script>
+<!-- End Google Analytics -->
+<!-- Venatus Ad Manager - Install in <HEAD> of page -->
+	<script src="https://hb.vntsm.com/v3/live/ad-manager.min.js" type="text/javascript" data-site-id="642aba63ec9a7b11c3c9c1be" data-mode="scan" async=""></script>
+<!-- / Venatus Ad Manager -->
+
+<style>
+	@media (max-width:820px) {
+		.battle {
+			margin: 0 auto;
+		}
+		.battle-log {
+			margin: 7px auto 0;
+			max-width: 640px;
+			height: 300px;
+			position: static;
+		}
+	}
+	.optgroup {
+		display: inline-block;
+		line-height: 22px;
+		font-size: 10pt;
+	}
+	.optgroup .button {
+		height: 25px;
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+	.optgroup button.button {
+		padding-left: 12px;
+		padding-right: 12px;
+	}
+	.linklist {
+		list-style: none;
+		margin: 0.5em 0;
+		padding: 0;
+	}
+	.linklist li {
+		padding: 2px 0;
+	}
+	.sidebar {
+		float: left;
+		width: 320px;
+	}
+	.bar-wrapper {
+		max-width: 1100px;
+		margin: 0 auto;
+	}
+	.bar-wrapper.has-sidebar {
+		max-width: 1430px;
+	}
+	.mainbar {
+		margin: 0;
+		padding-right: 1px;
+	}
+	.mainbar.has-sidebar {
+		margin-left: 330px;
+	}
+	@media (min-width: 1511px) {
+		.sidebar {
+			width: 400px;
+		}
+		.bar-wrapper.has-sidebar {
+			max-width: 1510px;
+		}
+		.mainbar.has-sidebar {
+			margin-left: 410px;
+		}
+	}
+	.section.first-section {
+		margin-top: 9px;
+	}
+	.blocklink small {
+		white-space: normal;
+	}
+	.button {
+		vertical-align: middle;
+	}
+	.replay-controls {
+		padding-top: 10px;
+	}
+	.replay-controls h1 {
+		font-size: 16pt;
+		font-weight: normal;
+		color: #CCC;
+	}
+	.pagelink {
+		text-align: center;
+	}
+	.pagelink a {
+		width: 150px;
+	}
+	.textbox, .button {
+		font-size: 11pt;
+		vertical-align: middle;
+	}
+	@media (max-width: 450px) {
+		.button {
+			font-size: 9pt;
+		}
+	}
+</style>
+
+<script type="text/javascript" src="https://hb.vntsm.com/ab/live/fatum/ad-manager-bundle.min.js" async=""></script><script type="text/javascript" src="https://ats.rlcdn.com/ats.js" async=""></script><script type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async=""></script><style>
+          .vm-placement[data-rejected=true]>div[id^=google_ads_iframe] {
+            display: none;
+          }
+          </style><script type="text/javascript" src="https://c.amazon-adsystem.com/aax2/apstag.js" async=""></script><script type="text/javascript" src="https://secure.quantserve.com/quant.js" async=""></script><script type="text/javascript" src="https://pub.doubleverify.com/dvtag/34896827/DV1430477/pub.js" async=""></script><meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9wSqI5i0iwGdf6L1CERNdmsTPgVu44ewj8QxTBYgsv1LCPUVF7YmWOvTappqB1139jAymxUW/RO8zmMqo4zlAAAAACNeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A+d7vJfYtay4OUbdtRPZA3y7bKQLsxaMEPmxgfhBGqKXNrdkCQeJlUwqa6EBbSfjwFtJWTrWIioXeMW+y8bWAgQAAACTeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202502200101/pubads_impl.js" async=""></script><link href="https://securepubads.g.doubleclick.net/pagead/managed/dict/m202502250101/gpt" rel="compression-dictionary"><script src="https://config.aps.amazon-adsystem.com/configs/70247b00-ff8f-4016-b3ab-8344daf96e09" type="text/javascript" async="async"></script><script async="" src="https://fundingchoicesmessages.google.com/i/21726375739?ers=3"></script><script src="//secure.cdn.fastclick.net/js/pubcid/latest/pubcid.min.js"></script><script src="//cdn.id5-sync.com/api/1.0/id5-api.js"></script><script type="text/javascript" async="" src="https://secure.cdn.fastclick.net/js/cnvr-launcher/latest/launcher-stub.min.js"></script><script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxU_9M0K4xaZxcvuWeR5wYxLNjZiU6La-SADbMHBBX45ZVAtSLY70QmF48nwz8xMRJsl0hBk1sZtWYk8alu6O_-63IgBgq2VkHim_sVxbbGvtBhGToJxRFEpQi6yCKyDjdz-p8Hxlw==?fccs=W1siQUtzUm9sLVV0c0REODdVbl9wbG44a2NBQXhjcFJDLTZmYi11R05uYmd5UDlWNTE1MkZxQ2lERGRYQ21xaFVCTmZRWC1OSEJ1UXluaFQwSmpZT1FJY2prVU1MQ0tnU0JoR2JRT1FXbU03MUVKYy0xMnE2RXhWb2hFUUxRdVQ5Y2lUQzJFM0x4MS1ISURpTVpDYlRPTDB6V01GcXpnSWJtUHFnPT0iXSxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsWzE3NDA2NDc0NjgsNzkzMDAwMDAwXSxudWxsLG51bGwsbnVsbCxbbnVsbCxbN11dLCJodHRwczovL3JlcGxheS5wb2tlbW9uc2hvd2Rvd24uY29tL2dlbjlic3NyZWdnLTIzMDgzMDg2NDMiLG51bGwsW1s4LCJKVGt5cXh5RVd5cyJdLFs5LCJqYSJdLFsyMywiMTc0MDY0NzAwMyJdLFsxOSwiMiJdLFsyNCwiIl1dXQ"></script><meta http-equiv="origin-trial" content="AxjhRadLCARYRJawRjMjq4U8V8okQvSnrBIJWdMajuEkN3/DfVAcLcFhMVrUWnOXagwlI8dQD84FwJDGj9ohqAYAAABveyJvcmlnaW4iOiJodHRwczovL2dvb2dsZWFkc2VydmljZXMuY29tOjQ0MyIsImZlYXR1cmUiOiJGZXRjaExhdGVyQVBJIiwiZXhwaXJ5IjoxNzI1NDA3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxUgfgwvo9OBJ2PnEahX9u-bCRulBuZuFZHa8KqnmX6hyf_9ATprQjGlRG7gAmeeo3E2qla5DPuwo-WoXVzLa04-BzdW9yItLsk-hjnjHUKrcypa_WoW0Fc6P1gpfG0q6UUn-RiVlw==?fccs=W1siQUtzUm9sLVV0c0REODdVbl9wbG44a2NBQXhjcFJDLTZmYi11R05uYmd5UDlWNTE1MkZxQ2lERGRYQ21xaFVCTmZRWC1OSEJ1UXluaFQwSmpZT1FJY2prVU1MQ0tnU0JoR2JRT1FXbU03MUVKYy0xMnE2RXhWb2hFUUxRdVQ5Y2lUQzJFM0x4MS1ISURpTVpDYlRPTDB6V01GcXpnSWJtUHFnPT0iXSxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsWzE3NDA2NDc0NjksNjEyMDAwMDAwXSxudWxsLG51bGwsbnVsbCxbbnVsbCxbNyw2XSxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCwxXSwiaHR0cHM6Ly9yZXBsYXkucG9rZW1vbnNob3dkb3duLmNvbS9nZW45YnNzcmVnZy0yMzA4MzA4NjQzIixudWxsLFtbOCwiSlRreXF4eUVXeXMiXSxbOSwiamEiXSxbMjMsIjE3NDA2NDcwMDMiXSxbMTksIjIiXSxbMjQsIiJdXV0"></script><script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxUgzXXiVx8BT-Ct4W3jw9adE1DECpT6brTR6HGZfnXUOkwsfCtyyye3RsTk8_ps4VLMuwSZ3G88YDJ8HfGihm7AjBVVNjil37_VsLHVOpD9LmqC11uR4Q8eL5JsQF6GV71Ic7hprw==?fccs=W1siQUtzUm9sLVV0c0REODdVbl9wbG44a2NBQXhjcFJDLTZmYi11R05uYmd5UDlWNTE1MkZxQ2lERGRYQ21xaFVCTmZRWC1OSEJ1UXluaFQwSmpZT1FJY2prVU1MQ0tnU0JoR2JRT1FXbU03MUVKYy0xMnE2RXhWb2hFUUxRdVQ5Y2lUQzJFM0x4MS1ISURpTVpDYlRPTDB6V01GcXpnSWJtUHFnPT0iXSxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsWzE3NDA2NDc0NjksNzE1MDAwMDAwXSxudWxsLG51bGwsbnVsbCxbbnVsbCxbNyw2LDEwXSxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCwxXSwiaHR0cHM6Ly9yZXBsYXkucG9rZW1vbnNob3dkb3duLmNvbS9nZW45YnNzcmVnZy0yMzA4MzA4NjQzIixudWxsLFtbOCwiSlRreXF4eUVXeXMiXSxbOSwiamEiXSxbMjMsIjE3NDA2NDcwMDMiXSxbMTksIjIiXSxbMjQsIiJdXV0"></script><script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxXqdmuf-9RbpssHlD3vYTHAHZmtnpSXTCztG3sLXwZ6WBIyc9Z3COTWOlZHFwc4meskdFN1PpzxVMY-EcraxmHcAjfFXDXV69D-TN7MdKQFzr3B6Y-bnmPWF-e6b1kseCpj2gmnoQ==?fccs=W1siQUtzUm9sLVV0c0REODdVbl9wbG44a2NBQXhjcFJDLTZmYi11R05uYmd5UDlWNTE1MkZxQ2lERGRYQ21xaFVCTmZRWC1OSEJ1UXluaFQwSmpZT1FJY2prVU1MQ0tnU0JoR2JRT1FXbU03MUVKYy0xMnE2RXhWb2hFUUxRdVQ5Y2lUQzJFM0x4MS1ISURpTVpDYlRPTDB6V01GcXpnSWJtUHFnPT0iXSxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsWzE3NDA2NDc0NjksODI1MDAwMDAwXSxudWxsLG51bGwsbnVsbCxbbnVsbCxbNyw2LDEwLDldLG51bGwsMixudWxsLCJlbi1HQiIsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLDFdLCJodHRwczovL3JlcGxheS5wb2tlbW9uc2hvd2Rvd24uY29tL2dlbjlic3NyZWdnLTIzMDgzMDg2NDMiLG51bGwsW1s4LCJKVGt5cXh5RVd5cyJdLFs5LCJqYSJdLFsyMywiMTc0MDY0NzAwMyJdLFsxOSwiMiJdLFsyNCwiIl1dXQ"></script></head><body><div>
+
+	<header>
+		<div class="nav-wrapper"><ul class="nav">
+			<li><a class="button nav-first" href="//pokemonshowdown.com/"><img src="//pokemonshowdown.com/images/pokemonshowdownbeta.png" srcset="//pokemonshowdown.com/images/pokemonshowdownbeta.png 1x, //pokemonshowdown.com/images/pokemonshowdownbeta@2x.png 2x" alt="Pokémon Showdown" width="146" height="44"> Home</a></li>
+			<li><a class="button" href="//pokemonshowdown.com/dex/">Pokédex</a></li>
+			<li><a class="button cur" href="/">Replays</a></li>
+			<li><a class="button" href="//pokemonshowdown.com/ladder/">Ladder</a></li>
+			<li><a class="button nav-last" href="//pokemonshowdown.com/forums/">Forum</a></li>
+			<li><a class="button greenbutton nav-first nav-last" href="//play.pokemonshowdown.com/">Play</a></li>
+		</ul></div>
+	</header>
+
+	<div class="main" id="main"><div class="bar-wrapper"><div class="mainbar"><div style="position: relative;"><div class="battle" style="position: relative; transform: none; margin-bottom: 0px;"><div class="innerbattle"><div class="backdrop" style="display: block; opacity: 0.8; background-image: url(&quot;https://play.pokemonshowdown.com/sprites/gen6bgs/bg-forest.jpg&quot;);"></div><div class="weather"></div><div class="weather"></div><div></div><div><div><img src="https://play.pokemonshowdown.com/sprites/ani/eternatus.gif" width="148" height="126" style="position:absolute;top:35px;left:154px"><img src="https://play.pokemonshowdown.com/sprites/ani/latias.gif" width="108" height="69" style="position:absolute;top:66px;left:224px"><img src="https://play.pokemonshowdown.com/sprites/ani/grimmsnarl.gif" width="132" height="103" style="position:absolute;top:52px;left:262px"><img src="https://play.pokemonshowdown.com/sprites/ani/skeledirge.gif" width="106" height="76" style="position:absolute;top:69px;left:325px"><img src="https://play.pokemonshowdown.com/sprites/gen5/ogerpon.png" width="96" height="96" style="position:absolute;top:62px;left:380px"><img src="https://play.pokemonshowdown.com/sprites/ani/primarina.gif" width="82" height="108" style="position:absolute;top:59px;left:437px"><div style="position:absolute;top:143px;left:188px;width:80px;font-size:10px;text-align:center;color:#FFF;"><span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:146px;left:238px;width:80px;font-size:10px;text-align:center;color:#FFF;"><img src="https://play.pokemonshowdown.com/fx/gender-f.png" alt="F" width="7" height="10" class="pixelated" style="margin-bottom:-1px"> <span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:149px;left:288px;width:80px;font-size:10px;text-align:center;color:#FFF;"><img src="https://play.pokemonshowdown.com/fx/gender-m.png" alt="M" width="7" height="10" class="pixelated" style="margin-bottom:-1px"> <span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:152px;left:338px;width:80px;font-size:10px;text-align:center;color:#FFF;"><img src="https://play.pokemonshowdown.com/fx/gender-f.png" alt="F" width="7" height="10" class="pixelated" style="margin-bottom:-1px"> <span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:155px;left:388px;width:80px;font-size:10px;text-align:center;color:#FFF;"><img src="https://play.pokemonshowdown.com/fx/gender-f.png" alt="F" width="7" height="10" class="pixelated" style="margin-bottom:-1px"> <span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:158px;left:438px;width:80px;font-size:10px;text-align:center;color:#FFF;"><img src="https://play.pokemonshowdown.com/fx/gender-f.png" alt="F" width="7" height="10" class="pixelated" style="margin-bottom:-1px"> <span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div></div><div></div><div></div><div><img src="https://play.pokemonshowdown.com/sprites/ani-back/zamazenta.gif" width="123" height="80" style="position:absolute;top:208px;left:86px"><img src="https://play.pokemonshowdown.com/sprites/ani-back/urshifu.gif" width="65" height="126" style="position:absolute;top:188px;left:165px"><img src="https://play.pokemonshowdown.com/sprites/gen5-back/ogerpon-hearthflame.png" width="96" height="96" style="position:absolute;top:206px;left:200px"><img src="https://play.pokemonshowdown.com/sprites/ani-back/gyarados.gif" width="150" height="102" style="position:absolute;top:206px;left:223px"><img src="https://play.pokemonshowdown.com/sprites/gen5-back/tinglu.png" width="96" height="96" style="position:absolute;top:212px;left:300px"><img src="https://play.pokemonshowdown.com/sprites/ani-back/mimikyu.gif" width="54" height="67" style="position:absolute;top:229px;left:371px"><div style="position:absolute;top:293px;left:108px;width:80px;font-size:10px;text-align:center;color:#FFF;"><span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:296px;left:158px;width:80px;font-size:10px;text-align:center;color:#FFF;"><img src="https://play.pokemonshowdown.com/fx/gender-m.png" alt="M" width="7" height="10" class="pixelated" style="margin-bottom:-1px"> <span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:299px;left:208px;width:80px;font-size:10px;text-align:center;color:#FFF;"><img src="https://play.pokemonshowdown.com/fx/gender-f.png" alt="F" width="7" height="10" class="pixelated" style="margin-bottom:-1px"> <span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:302px;left:258px;width:80px;font-size:10px;text-align:center;color:#FFF;"><img src="https://play.pokemonshowdown.com/fx/gender-m.png" alt="M" width="7" height="10" class="pixelated" style="margin-bottom:-1px"> <span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:305px;left:308px;width:80px;font-size:10px;text-align:center;color:#FFF;"><span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:308px;left:358px;width:80px;font-size:10px;text-align:center;color:#FFF;"><img src="https://play.pokemonshowdown.com/fx/gender-m.png" alt="M" width="7" height="10" class="pixelated" style="margin-bottom:-1px"> <span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div></div></div><div role="complementary" aria-label="Active Pokemon"></div><div></div><div class="leftbar" role="complementary" aria-label="Your Team"><div class="trainer trainer-near"><strong>tenxneko</strong><div class="trainersprite" title="Rating: 1121" style="background-image:url(https://play.pokemonshowdown.com/sprites/trainers/preschooler.png)"></div><div class="teamicons"><span class="picon has-tooltip" data-tooltip="pokemon|0|0" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -40px -2220px;opacity:0.6" aria-label="Zamazenta-*"></span><span class="picon has-tooltip" data-tooltip="pokemon|0|1" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -160px -2220px;opacity:0.6" aria-label="Urshifu-*"></span><span class="picon has-tooltip" data-tooltip="pokemon|0|2" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -80px -3180px;opacity:0.6" aria-label="Ogerpon-Hearthflame"></span></div><div class="teamicons"><span class="picon has-tooltip" data-tooltip="pokemon|0|3" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -400px -300px;opacity:0.6" aria-label="Gyarados"></span><span class="picon has-tooltip" data-tooltip="pokemon|0|4" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -280px -2490px;opacity:0.6" aria-label="Ting-Lu"></span><span class="picon has-tooltip" data-tooltip="pokemon|0|5" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -400px -1920px;opacity:0.6" aria-label="Mimikyu"></span></div><div class="teamicons"></div></div></div><div class="rightbar" role="complementary" aria-label="Opponent's Team"><div class="trainer trainer-far"><strong>Sirius star</strong><div class="trainersprite" title="Rating: 1216" style="background-image:url(https://play.pokemonshowdown.com/sprites/trainers/steven.png)"></div><div class="teamicons"><span class="picon has-tooltip" data-tooltip="pokemon|1|0" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -80px -2220px;opacity:0.6" aria-label="Eternatus"></span><span class="picon has-tooltip" data-tooltip="pokemon|1|1" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -320px -930px;opacity:0.6" aria-label="Latias"></span><span class="picon has-tooltip" data-tooltip="pokemon|1|2" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -360px -2130px;opacity:0.6" aria-label="Grimmsnarl"></span></div><div class="teamicons"><span class="picon has-tooltip" data-tooltip="pokemon|1|3" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -440px -2250px;opacity:0.6" aria-label="Skeledirge"></span><span class="picon has-tooltip" data-tooltip="pokemon|1|4" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -360px -2520px;opacity:0.6" aria-label="Ogerpon"></span><span class="picon has-tooltip" data-tooltip="pokemon|1|5" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -400px -1800px;opacity:0.6" aria-label="Primarina"></span></div><div class="teamicons"></div></div></div><div></div><div class="messagebar message"></div><div></div><div class="message" style="position:absolute;display:block;visibility:hidden"></div><div class="tooltips"><div class="has-tooltip" style="position:absolute;top:70px;left:250px;width:80px;height:100px;" data-id="p2c" data-tooltip="activepokemon|1|2" data-ownheight="1"></div><div class="has-tooltip" style="position:absolute;top:85px;left:320px;width:90px;height:100px;" data-id="p2b" data-tooltip="activepokemon|1|1" data-ownheight="1"></div><div class="has-tooltip" style="position:absolute;top:90px;left:390px;width:100px;height:100px;" data-id="p2a" data-tooltip="activepokemon|1|0" data-ownheight="1"></div><div class="has-tooltip" style="position:absolute;top:200px;left:130px;width:120px;height:160px;" data-id="p1a" data-tooltip="activepokemon|0|0" data-ownheight="1"></div><div class="has-tooltip" style="position:absolute;top:200px;left:250px;width:150px;height:160px;" data-id="p1b" data-tooltip="activepokemon|0|1" data-ownheight="1"></div><div class="has-tooltip" style="position:absolute;top:200px;left:350px;width:150px;height:160px;" data-id="p1c" data-tooltip="activepokemon|0|2" data-ownheight="1"></div></div></div><div class="playbutton"><button name="play" class="button"><i class="fa fa-play"></i> Play</button><br><br><button name="play-muted" class="startsoundchooser button" style="font-size:10pt">Play (sound off)</button></div></div><div class="battle-log" role="log"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆tenxneko and ☆Sirius star joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 9] BSS Reg G</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Species Clause:</em> Limit one of each Pokémon</small></div><div class=""><small><em>Item Clause:</em> Limit 1 of each item</small></div><div class="chat battle-history"><strong>tenxneko's team:</strong> <em style="color:#445566;display:block;">Zamazenta-* / Urshifu-* / Ogerpon-Hearthflame / Gyarados / Ting-Lu / Mimikyu</em></div><div class="chat battle-history"><strong>Sirius star's team:</strong> <em style="color:#445566;display:block;">Eternatus / Latias / Grimmsnarl / Skeledirge / Ogerpon / Primarina</em></div></div><div class="inner-preempt message-log"></div></div><div class="replay-controls"><p><button class="button" style="width: 5em; margin-right: 3px;"><i class="fa fa-play"></i><br><strong>Play</strong></button> <button class="button button-first" disabled=""><i class="fa fa-fast-backward"></i><br>First turn</button><button class="button button-first" disabled="" style="margin-left: 1px; position: relative; z-index: 1;"><i class="fa fa-step-backward"></i><br>Prev turn</button><button class="button button-last" style="margin-right: 2px;"><i class="fa fa-step-forward"></i><br>Skip turn</button><button class="button button-last"><i class="fa fa-fast-forward"></i><br>Skip to end</button> <button class="button"><i class="fa fa-repeat"></i> Go to turn...</button></p><p><label class="optgroup">Speed:<br><select name="speed" class="button"><option value="hyperfast">Hyperfast</option><option value="fast">Fast</option><option value="normal">Normal</option><option value="slow">Slow</option><option value="reallyslow">Really slow</option></select></label> <label class="optgroup">Sound:<br><select name="sound" class="button"><option value="on">On</option><option value="musicoff">Music Off</option><option value="off">Muted</option></select></label> <label class="optgroup">Dark mode:<br><select name="darkmode" class="button"><option value="auto">Automatic</option><option value="dark">Dark</option><option value="light">Light</option></select></label> <label class="optgroup">Viewpoint:<br><button name="viewpoint" class="button">tenxneko <i class="fa fa-random" aria-label="Switch viewpoint"></i></button></label></p><h1><strong>[Gen 9] BSS Reg G</strong>: tenxneko vs. Sirius star</h1><p><a class="button" href="#" style="float: right;"><i class="fa fa-download" aria-hidden="true"></i> Download</a>Thu Feb 27 2025 | <em>Rating:</em> 1153</p><p><a href="." class="button"><i class="fa fa-caret-left"></i> More replays</a></p></div><div id="LeaderboardBTF"><div class="vm-placement" data-id="6452680c0b35755a3f09b59b" data-pos="1101" id="6452680c0b35755a3f09b59b-1101" data-reg="true" data-rejected="true" style="background: none; position: relative; overflow: hidden; margin: 0px auto; max-width: 970px; width: 970px; height: 250px;" data-google-query-id="CJHJoZHB44sDFTxfDwIdHkwErw"><div id="google_ads_iframe_/21726375739,22916103450/VM_642aba63ec9a7b11c3c9c1be/VM_6452680c0b35755a3f09b59b_0__container__" style="border: 0pt none; display: none;"><iframe id="google_ads_iframe_/21726375739,22916103450/VM_642aba63ec9a7b11c3c9c1be/VM_6452680c0b35755a3f09b59b_0" name="google_ads_iframe_/21726375739,22916103450/VM_642aba63ec9a7b11c3c9c1be/VM_6452680c0b35755a3f09b59b_0" title="3rd party ad content" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption;attribution-reporting" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation allow-presentation" data-load-complete="true" style="border: 0px; vertical-align: bottom; display: none;" data-google-container-id="1"></iframe></div><iframe width="970" height="250" allowtransparency="true" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" src="javascript:window.parent%5B%22b8be3cfc-2803-a520-b69e-8001d96ecbb7%22%5D.run(%7Bwnd%3Awindow%2Csjs%3A%22javascript%3A'%3Chtml%3E%3Cbody%3E%3C%2Fbody%3E%3C%2Fhtml%3E'%22%7D)" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation allow-presentation" style="display: block;"></iframe></div></div></div></div><div style="clear: both;"></div></div>
+
+		<noscript><section class="section">You need to enable JavaScript to use this page; sorry!</section></noscript>
+
+	</div>
+
+</div>
+
+<script defer="" nomodule="" src="//play.pokemonshowdown.com/js/lib/ps-polyfill.js"></script>
+<script defer="" src="//play.pokemonshowdown.com/js/lib/preact.min.js"></script>
+
+<script defer="" src="//play.pokemonshowdown.com/config/config.js?c26401c5"></script>
+<script defer="" src="//play.pokemonshowdown.com/js/lib/jquery-1.11.0.min.js"></script>
+<script defer="" src="//play.pokemonshowdown.com/js/lib/html-sanitizer-minified.js"></script>
+<script defer="" src="//play.pokemonshowdown.com/js/battle-sound.js"></script>
+<script defer="" src="//play.pokemonshowdown.com/js/battledata.js?0.14832469279025817"></script>
+<script defer="" src="//play.pokemonshowdown.com/data/pokedex-mini.js?0.33945589529368037"></script>
+<script defer="" src="//play.pokemonshowdown.com/data/pokedex-mini-bw.js?0.8023830347061633"></script>
+<script defer="" src="//play.pokemonshowdown.com/data/graphics.js?0.41044878336296287"></script>
+<script defer="" src="//play.pokemonshowdown.com/data/pokedex.js?0.9954804604281977"></script>
+<script defer="" src="//play.pokemonshowdown.com/data/moves.js?0.28615866532549594"></script>
+<script defer="" src="//play.pokemonshowdown.com/data/abilities.js?0.4808802365093021"></script>
+<script defer="" src="//play.pokemonshowdown.com/data/items.js?0.0757413065159036"></script>
+<script defer="" src="//play.pokemonshowdown.com/data/teambuilder-tables.js?0.46076668685013433"></script>
+<script defer="" src="//play.pokemonshowdown.com/js/battle-tooltips.js?0.6477502301672804"></script>
+<script defer="" src="//play.pokemonshowdown.com/js/battle.js?0.04130039862680368"></script>
+
+<script defer="" src="js/utils.js?0abca7ba"></script>
+<script defer="" src="js/replays-battle.js?208ecb6b"></script>
+
+<!-- don't scrape this data! just add .json or .log after the URL!
+Full API docs: https://github.com/smogon/pokemon-showdown-client/blob/master/WEB-API.md -->
+<script type="text/plain" class="log" id="replaylog-gen9bssregg-2308308643">
+|j|☆tenxneko
+|j|☆Sirius star
+|t:|1740582793
+|gametype|singles
+|player|p1|tenxneko|preschooler|1121
+|player|p2|Sirius star|steven|1216
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] BSS Reg G
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Zamazenta-*, L50|
+|poke|p1|Urshifu-*, L50, M|
+|poke|p1|Ogerpon-Hearthflame, L50, F|
+|poke|p1|Gyarados, L50, M|
+|poke|p1|Ting-Lu, L50|
+|poke|p1|Mimikyu, L50, M|
+|poke|p2|Eternatus, L50|
+|poke|p2|Latias, L50, F|
+|poke|p2|Grimmsnarl, L50, M|
+|poke|p2|Skeledirge, L50, F|
+|poke|p2|Ogerpon, L50, F|
+|poke|p2|Primarina, L50, F|
+|teampreview|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tenxneko)
+|inactive|tenxneko has 60 seconds left.
+|inactive|Sirius star has 60 seconds left.
+|
+|t:|1740582847
+|start
+|switch|p1a: 暴鯉龍|Gyarados, L50, M, shiny|100/100
+|switch|p2a: Primarina|Primarina, L50, F|100/100
+|-ability|p1a: 暴鯉龍|Intimidate|boost
+|-unboost|p2a: Primarina|atk|1
+|turn|1
+|
+|t:|1740582865
+|-terastallize|p2a: Primarina|Electric
+|move|p1a: 暴鯉龍|Thunder Wave|p2a: Primarina
+|-immune|p2a: Primarina
+|move|p2a: Primarina|Tera Blast|p1a: 暴鯉龍|[anim] Tera Blast Electric
+|-supereffective|p1a: 暴鯉龍
+|-crit|p1a: 暴鯉龍
+|-damage|p1a: 暴鯉龍|0 fnt
+|faint|p1a: 暴鯉龍
+|
+|upkeep
+|
+|t:|1740582873
+|switch|p1a: 盾神|Zamazenta-Crowned, L50|100/100
+|-ability|p1a: 盾神|Dauntless Shield|boost
+|-boost|p1a: 盾神|def|1
+|turn|2
+|
+|t:|1740582894
+|move|p1a: 盾神|Iron Defense|p1a: 盾神
+|-boost|p1a: 盾神|def|2
+|move|p2a: Primarina|Surf|p1a: 盾神
+|-damage|p1a: 盾神|74/100
+|
+|upkeep
+|turn|3
+|
+|t:|1740582905
+|move|p1a: 盾神|Body Press|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|upkeep
+|
+|t:|1740582913
+|switch|p2a: Eternatus|Eternatus, L50|100/100
+|-ability|p2a: Eternatus|Pressure
+|turn|4
+|
+|t:|1740582930
+|move|p2a: Eternatus|Cosmic Power|p2a: Eternatus
+|-boost|p2a: Eternatus|def|1
+|-boost|p2a: Eternatus|spd|1
+|move|p1a: 盾神|Body Press|p2a: Eternatus
+|-resisted|p2a: Eternatus
+|-damage|p2a: Eternatus|76/100
+|
+|-heal|p2a: Eternatus|83/100|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1740582940
+|move|p2a: Eternatus|Cosmic Power|p2a: Eternatus
+|-boost|p2a: Eternatus|def|1
+|-boost|p2a: Eternatus|spd|1
+|move|p1a: 盾神|Iron Defense|p1a: 盾神
+|-boost|p1a: 盾神|def|2
+|
+|-heal|p2a: Eternatus|89/100|[from] item: Black Sludge
+|upkeep
+|turn|6
+|
+|t:|1740582945
+|move|p2a: Eternatus|Cosmic Power|p2a: Eternatus
+|-boost|p2a: Eternatus|def|1
+|-boost|p2a: Eternatus|spd|1
+|move|p1a: 盾神|Body Press|p2a: Eternatus
+|-resisted|p2a: Eternatus
+|-damage|p2a: Eternatus|66/100
+|
+|-heal|p2a: Eternatus|72/100|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1740582951
+|move|p2a: Eternatus|Cosmic Power|p2a: Eternatus
+|-boost|p2a: Eternatus|def|1
+|-boost|p2a: Eternatus|spd|1
+|move|p1a: 盾神|Body Press|p2a: Eternatus
+|-resisted|p2a: Eternatus
+|-damage|p2a: Eternatus|54/100
+|
+|-heal|p2a: Eternatus|60/100|[from] item: Black Sludge
+|upkeep
+|turn|8
+|
+|t:|1740582957
+|move|p2a: Eternatus|Cosmic Power|p2a: Eternatus
+|-boost|p2a: Eternatus|def|1
+|-boost|p2a: Eternatus|spd|1
+|move|p1a: 盾神|Body Press|p2a: Eternatus
+|-resisted|p2a: Eternatus
+|-damage|p2a: Eternatus|46/100
+|
+|-heal|p2a: Eternatus|52/100|[from] item: Black Sludge
+|upkeep
+|turn|9
+|
+|t:|1740582960
+|switch|p1a: ミミッキュ|Mimikyu, L50, M, shiny|100/100
+|move|p2a: Eternatus|Cosmic Power|p2a: Eternatus
+|-boost|p2a: Eternatus|def|1
+|-boost|p2a: Eternatus|spd|1
+|
+|-heal|p2a: Eternatus|58/100|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1740582967
+|move|p2a: Eternatus|Toxic|p1a: ミミッキュ
+|-status|p1a: ミミッキュ|tox
+|move|p1a: ミミッキュ|Curse|p2a: Eternatus
+|-start|p2a: Eternatus|Curse|[of] p1a: ミミッキュ
+|-damage|p1a: ミミッキュ|51/100 tox
+|
+|-heal|p2a: Eternatus|64/100|[from] item: Black Sludge
+|-damage|p1a: ミミッキュ|45/100 tox|[from] psn
+|-damage|p2a: Eternatus|40/100|[from] Curse
+|upkeep
+|turn|11
+|
+|t:|1740582991
+|move|p2a: Eternatus|Sludge Bomb|p1a: ミミッキュ
+|-activate|p1a: ミミッキュ|ability: Disguise
+|-damage|p1a: ミミッキュ|45/100 tox
+|detailschange|p1a: ミミッキュ|Mimikyu-Busted, L50, M, shiny
+|-damage|p1a: ミミッキュ|32/100 tox|[from] pokemon: Mimikyu-Busted
+|move|p1a: ミミッキュ|Thunder Wave|p2a: Eternatus
+|-status|p2a: Eternatus|par
+|
+|-heal|p2a: Eternatus|46/100 par|[from] item: Black Sludge
+|-damage|p1a: ミミッキュ|20/100 tox|[from] psn
+|-damage|p2a: Eternatus|21/100 par|[from] Curse
+|upkeep
+|turn|12
+|
+|t:|1740583006
+|switch|p1a: 盾神|Zamazenta-Crowned, L50|74/100
+|move|p2a: Eternatus|Recover|p2a: Eternatus
+|-heal|p2a: Eternatus|71/100 par
+|
+|-heal|p2a: Eternatus|77/100 par|[from] item: Black Sludge
+|-damage|p2a: Eternatus|52/100 par|[from] Curse
+|upkeep
+|turn|13
+|
+|t:|1740583017
+|switch|p2a: Grimmsnarl|Grimmsnarl, L50, M|100/100
+|move|p1a: 盾神|Iron Defense|p1a: 盾神
+|-boost|p1a: 盾神|def|2
+|
+|upkeep
+|turn|14
+|
+|t:|1740583028
+|move|p2a: Grimmsnarl|Bulk Up|p2a: Grimmsnarl
+|-boost|p2a: Grimmsnarl|atk|1
+|-boost|p2a: Grimmsnarl|def|1
+|move|p1a: 盾神|Heavy Slam|p2a: Grimmsnarl
+|-supereffective|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|45/100
+|
+|upkeep
+|turn|15
+|
+|t:|1740583055
+|move|p2a: Grimmsnarl|Bulk Up|p2a: Grimmsnarl
+|-boost|p2a: Grimmsnarl|atk|1
+|-boost|p2a: Grimmsnarl|def|1
+|move|p1a: 盾神|Body Press|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|3/100
+|
+|upkeep
+|turn|16
+|-message|Sirius star forfeited.
+|
+|win|tenxneko
+|raw|tenxneko's rating: 1121 &rarr; <strong>1153<\/strong><br />(+32 for winning)
+|raw|Sirius star's rating: 1216 &rarr; <strong>1184<\/strong><br />(-32 for losing)
+|l|☆Sirius star
+|player|p2|
+|l|☆tenxneko
+|player|p1|
+
+</script>
+<script type="application/json" class="data" id="replaydata-gen9bssregg-2308308643">
+{"id":"gen9bssregg-2308308643","format":"[Gen 9] BSS Reg G","players":["tenxneko","Sirius star"],"uploadtime":1740583416,"views":4,"formatid":"gen9bssregg","rating":1153,"private":0,"password":null}
+</script>
+
+<script defer="" src="js/replays.js?dd856472"></script>
+<iframe name="googlefcPresent" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe marginwidth="0" marginheight="0" scrolling="no" frameborder="0" id="180589e7723d18" width="0" height="0" src="about:blank" name="__pb_locator__" style="display: none; height: 0px; width: 0px; border: 0px;"></iframe><iframe name="__tcfapiLocator" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="__uspapiLocator" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="__gppLocator" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcInactive" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcLoaded" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe src="https://s.amazon-adsystem.com/iu3?cm3ppd=1&amp;d=dtb-pub&amp;csif=t&amp;dl=n-mediagrid_an-db5" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation allow-presentation" style="display: none;"></iframe><iframe src="https://www.google.com/recaptcha/api2/aframe" width="0" height="0" style="display: none;"></iframe><iframe name="google_ads_top_frame" id="google_ads_top_frame" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation allow-presentation" style="display: none; position: fixed; left: -999px; top: -999px; width: 0px; height: 0px;"></iframe></body><iframe name="goog_topics_frame" src="https://securepubads.g.doubleclick.net/static/topics/topics_frame.html" style="display: none;"></iframe></html>

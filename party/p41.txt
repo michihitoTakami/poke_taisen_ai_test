@@ -1,0 +1,56 @@
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+Tera Type: Water  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Water Spout  
+- Surf  
+- Ice Beam  
+- Thunder  
+
+Terapagos-B @ Leftovers  
+Ability: Stamina  
+Tera Type: Fairy  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Flash Cannon  
+- Electro Beam  
+- Body Press  
+- Protect  
+
+Clodsire @ Black Sludge  
+Ability: Water Absorb  
+Tera Type: Poison  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Earthquake  
+- Toxic Spikes  
+- Protect  
+- Recover  
+
+Ditto @ Focus Sash  
+Ability: Imposter  
+Tera Type: Normal  
+EVs: 252 HP  
+Serious Nature  
+- Transform  
+
+Urshifu-Rapid-Strike @ Choice Band  
+Ability: Unseen Fist  
+Tera Type: Water  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- U-turn  
+
+Landorus-Therian @ Sitrus Berry  
+Ability: Intimidate  
+Tera Type: Flying  
+EVs: 252 HP / 4 Def / 252 Def  
+Impish Nature  
+- Earthquake  
+- Rock Tomb  
+- Tera Blast  
+- U-turn  

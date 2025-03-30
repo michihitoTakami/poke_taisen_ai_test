@@ -1,0 +1,489 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308132374",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "bluethe5th",
+      "Gilly6920"
+    ],
+    "uploadtime": 1740558846,
+    "views": 4,
+    "formatid": "gen9bssregg",
+    "rating": 1158,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Miraidon, L50",
+        "species": "Miraidon",
+        "pokebase_info": {
+          "name": "miraidon",
+          "id": 1008,
+          "types": [
+            "electric",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 100,
+            "special-attack": 135,
+            "special-defense": 115,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Dragonite, L50, M",
+        "species": "Dragonite",
+        "pokebase_info": {
+          "name": "dragonite",
+          "id": 149,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Scizor, L50, F",
+        "species": "Scizor",
+        "pokebase_info": {
+          "name": "scizor",
+          "id": 212,
+          "types": [
+            "bug",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 65
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      },
+      {
+        "original": "Tyranitar, L50, F",
+        "species": "Tyranitar",
+        "pokebase_info": {
+          "name": "tyranitar",
+          "id": 248,
+          "types": [
+            "rock",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 134,
+            "defense": 110,
+            "special-attack": 95,
+            "special-defense": 100,
+            "speed": 61
+          }
+        }
+      },
+      {
+        "original": "Volcarona, L50, F",
+        "species": "Volcarona",
+        "pokebase_info": {
+          "name": "volcarona",
+          "id": 637,
+          "types": [
+            "bug",
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 85,
+            "attack": 60,
+            "defense": 65,
+            "special-attack": 135,
+            "special-defense": 105,
+            "speed": 100
+          }
+        }
+      },
+      {
+        "original": "Palafin, L50, M",
+        "species": "Palafin",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Blissey, L50, F",
+        "species": "Blissey",
+        "pokebase_info": {
+          "name": "blissey",
+          "id": 242,
+          "types": [
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 255,
+            "attack": 10,
+            "defense": 10,
+            "special-attack": 75,
+            "special-defense": 135,
+            "speed": 55
+          }
+        }
+      },
+      {
+        "original": "Rayquaza, L50",
+        "species": "Rayquaza",
+        "pokebase_info": {
+          "name": "rayquaza",
+          "id": 384,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 105,
+            "attack": 150,
+            "defense": 90,
+            "special-attack": 150,
+            "special-defense": 90,
+            "speed": 95
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ting-Lu",
+        "Ting-Lu, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Tyranitar",
+        "Tyranitar, L50, F, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Tyranitar",
+        "Stealth Rock",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Stealth Rock",
+        "p2a: Tyranitar"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Tyranitar",
+        "Knock Off",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Ruination",
+        "p2a: Tyranitar"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Tyranitar",
+        "Stone Edge",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Spikes",
+        "p2a: Tyranitar"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Tyranitar",
+        "Stone Edge",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Spikes",
+        "p2a: Tyranitar"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Tyranitar",
+        "Stone Edge",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Whirlwind",
+        "p2a: Tyranitar"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Rayquaza",
+        "Dragon Ascent",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Dragonite",
+        "Dragonite, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Rayquaza",
+        "Extreme Speed",
+        "p1a: Dragonite"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Dragonite",
+        "Scale Shot",
+        "p2a: Rayquaza"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Tyranitar",
+        "Tyranitar, L50, F, shiny",
+        "17/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Volcarona",
+        "Volcarona, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Dragonite",
+        "Scale Shot",
+        "p2a: Volcarona"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Volcarona",
+        "Bug Buzz",
+        "p1a: Dragonite"
+      ]
+    }
+  ],
+  "win": "bluethe5th"
+}

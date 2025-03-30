@@ -1,0 +1,735 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307555469",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "Down a notch",
+      "usagisama7474"
+    ],
+    "uploadtime": 1740491446,
+    "views": 5,
+    "formatid": "gen9bssregg",
+    "rating": 1363,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Lugia, L50",
+        "species": "Lugia",
+        "pokebase_info": {
+          "name": "lugia",
+          "id": 249,
+          "types": [
+            "psychic",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 106,
+            "attack": 90,
+            "defense": 130,
+            "special-attack": 90,
+            "special-defense": 154,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Salazzle, L50, F",
+        "species": "Salazzle",
+        "pokebase_info": {
+          "name": "salazzle",
+          "id": 758,
+          "types": [
+            "poison",
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 68,
+            "attack": 64,
+            "defense": 60,
+            "special-attack": 111,
+            "special-defense": 60,
+            "speed": 117
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Araquanid, L50, F",
+        "species": "Araquanid",
+        "pokebase_info": {
+          "name": "araquanid",
+          "id": 752,
+          "types": [
+            "water",
+            "bug"
+          ],
+          "base_stats": {
+            "hp": 68,
+            "attack": 70,
+            "defense": 92,
+            "special-attack": 50,
+            "special-defense": 132,
+            "speed": 42
+          }
+        }
+      },
+      {
+        "original": "Glimmora, L50, F",
+        "species": "Glimmora",
+        "pokebase_info": {
+          "name": "glimmora",
+          "id": 970,
+          "types": [
+            "rock",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 83,
+            "attack": 55,
+            "defense": 90,
+            "special-attack": 130,
+            "special-defense": 81,
+            "speed": 86
+          }
+        }
+      },
+      {
+        "original": "Qwilfish-Hisui, L50, M",
+        "species": "Qwilfish-Hisui",
+        "pokebase_info": {
+          "name": "qwilfish-hisui",
+          "id": 10234,
+          "types": [
+            "dark",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 65,
+            "attack": 95,
+            "defense": 85,
+            "special-attack": 55,
+            "special-defense": 55,
+            "speed": 85
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Rayquaza, L50",
+        "species": "Rayquaza",
+        "pokebase_info": {
+          "name": "rayquaza",
+          "id": 384,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 105,
+            "attack": 150,
+            "defense": 90,
+            "special-attack": 150,
+            "special-defense": 90,
+            "speed": 95
+          }
+        }
+      },
+      {
+        "original": "Ceruledge, L50, M",
+        "species": "Ceruledge",
+        "pokebase_info": {
+          "name": "ceruledge",
+          "id": 937,
+          "types": [
+            "fire",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 75,
+            "attack": 125,
+            "defense": 80,
+            "special-attack": 60,
+            "special-defense": 100,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Archaludon, L50, F",
+        "species": "Archaludon",
+        "pokebase_info": {
+          "name": "archaludon",
+          "id": 1018,
+          "types": [
+            "steel",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 105,
+            "defense": 130,
+            "special-attack": 125,
+            "special-defense": 65,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Cloyster, L50, M",
+        "species": "Cloyster",
+        "pokebase_info": {
+          "name": "cloyster",
+          "id": 91,
+          "types": [
+            "water",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 50,
+            "attack": 95,
+            "defense": 180,
+            "special-attack": 85,
+            "special-defense": 45,
+            "speed": 70
+          }
+        }
+      },
+      {
+        "original": "Ribombee, L50, M",
+        "species": "Ribombee",
+        "pokebase_info": {
+          "name": "ribombee",
+          "id": 743,
+          "types": [
+            "bug",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 60,
+            "attack": 55,
+            "defense": 60,
+            "special-attack": 95,
+            "special-defense": 70,
+            "speed": 124
+          }
+        }
+      },
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Glimmora",
+        "Glimmora, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Archaludon",
+        "Archaludon, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Qwilfish",
+        "Qwilfish-Hisui, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Archaludon",
+        "Stealth Rock",
+        "p1a: Qwilfish"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Archaludon",
+        "Thunder Wave",
+        "p1a: Qwilfish"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Qwilfish",
+        "Toxic Spikes",
+        "p2a: Archaludon"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Archaludon",
+        "Reflect",
+        "p2a: Archaludon"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Qwilfish",
+        "Spikes",
+        "p2a: Archaludon"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Archaludon",
+        "Light Screen",
+        "p2a: Archaludon"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Qwilfish",
+        "Spikes",
+        "p2a: Archaludon"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Rayquaza",
+        "Rayquaza, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Qwilfish",
+        "Toxic",
+        "p2a: Rayquaza"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Glimmora",
+        "Glimmora, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Rayquaza",
+        "Draco Meteor",
+        "p1a: Glimmora"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Archaludon",
+        "Thunder Wave",
+        "p1a: Glimmora"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Glimmora",
+        "Stealth Rock",
+        "p2a: Archaludon"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Archaludon",
+        "Reflect",
+        "p2a: Archaludon"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Glimmora",
+        "Spikes",
+        "p2a: Archaludon"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Archaludon",
+        "Thunder Wave",
+        "p1a: Glimmora"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Rayquaza",
+        "Rayquaza, L50",
+        "94/100 tox"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Glimmora",
+        "Toxic Spikes",
+        "p2a: Rayquaza"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Glimmora",
+        "Endure",
+        "p1a: Glimmora"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Rayquaza",
+        "Dragon Ascent",
+        "p1a: Glimmora"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Glimmora",
+        "Endure",
+        "",
+        "[still]"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Rayquaza",
+        "Dragon Ascent",
+        "p1a: Glimmora"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Qwilfish",
+        "Qwilfish-Hisui, L50, M",
+        "100/100 par"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Rayquaza",
+        "Draco Meteor",
+        "p1a: Qwilfish"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Qwilfish",
+        "Toxic",
+        "p2a: Rayquaza"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ceruledge",
+        "Ceruledge, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ceruledge",
+        "Swords Dance",
+        "p2a: Ceruledge"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Qwilfish",
+        "Pain Split",
+        "p2a: Ceruledge"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ceruledge",
+        "Bitter Blade",
+        "p1a: Qwilfish"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Lugia",
+        "Lugia, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ceruledge",
+        "Shadow Sneak",
+        "p1a: Lugia"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Lugia",
+        "Recover",
+        "p1a: Lugia"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Lugia",
+        "Aeroblast",
+        "p2a: Ceruledge",
+        "[miss]"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ceruledge",
+        "Swords Dance",
+        "p2a: Ceruledge"
+      ]
+    },
+    {
+      "turn": 18,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Lugia",
+        "Aeroblast",
+        "p2a: Ceruledge"
+      ]
+    },
+    {
+      "turn": 18,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Archaludon",
+        "Archaludon, L50, F",
+        "84/100"
+      ]
+    }
+  ],
+  "win": "Down a notch"
+}

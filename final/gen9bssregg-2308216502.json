@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308216502",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "Danic2004",
+      "Wasurena"
+    ],
+    "uploadtime": 1740572634,
+    "views": 4,
+    "formatid": "gen9bssregg",
+    "rating": 1095,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Archaludon, L50, F",
+        "species": "Archaludon",
+        "pokebase_info": {
+          "name": "archaludon",
+          "id": 1018,
+          "types": [
+            "steel",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 105,
+            "defense": 130,
+            "special-attack": 125,
+            "special-defense": 65,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Calyrex-Shadow, L50",
+        "species": "Calyrex-Shadow",
+        "pokebase_info": {
+          "name": "calyrex-shadow",
+          "id": 10194,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 80,
+            "special-attack": 165,
+            "special-defense": 100,
+            "speed": 150
+          }
+        }
+      },
+      {
+        "original": "Gholdengo, L50",
+        "species": "Gholdengo",
+        "pokebase_info": {
+          "name": "gholdengo",
+          "id": 1000,
+          "types": [
+            "steel",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 87,
+            "attack": 60,
+            "defense": 95,
+            "special-attack": 133,
+            "special-defense": 91,
+            "speed": 84
+          }
+        }
+      },
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, F",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Iron Moth, L50",
+        "species": "Iron Moth",
+        "pokebase_info": {
+          "name": "iron-moth",
+          "id": 994,
+          "types": [
+            "fire",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 70,
+            "defense": 60,
+            "special-attack": 140,
+            "special-defense": 110,
+            "speed": 110
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Necrozma-Dusk-Mane, L50",
+        "species": "Necrozma-Dusk-Mane",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      },
+      {
+        "original": "Primarina, L50, M",
+        "species": "Primarina",
+        "pokebase_info": {
+          "name": "primarina",
+          "id": 730,
+          "types": [
+            "water",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 74,
+            "defense": 74,
+            "special-attack": 126,
+            "special-defense": 116,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Gliscor, L50, M",
+        "species": "Gliscor",
+        "pokebase_info": {
+          "name": "gliscor",
+          "id": 472,
+          "types": [
+            "ground",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 75,
+            "attack": 95,
+            "defense": 125,
+            "special-attack": 45,
+            "special-defense": 75,
+            "speed": 95
+          }
+        }
+      },
+      {
+        "original": "Ogerpon-Hearthflame, L50, F",
+        "species": "Ogerpon-Hearthflame",
+        "pokebase_info": {}
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Urshifu",
+        "Urshifu-Rapid-Strike, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Chien-Pao",
+        "Chien-Pao, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Necrozma",
+        "Necrozma-Dusk-Mane, L50, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Urshifu",
+        "Drain Punch",
+        "p2a: Necrozma"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Urshifu",
+        "Surging Strikes",
+        "p2a: Necrozma"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Necrozma",
+        "Trick Room",
+        "p2a: Necrozma"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Necrozma",
+        "Knock Off",
+        "p1a: Urshifu"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Urshifu",
+        "Surging Strikes",
+        "p2a: Necrozma"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ursaluna",
+        "Ursaluna-Bloodmoon, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ursaluna",
+        "Hyper Voice",
+        "p1a: Urshifu"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Calyrex",
+        "Calyrex-Shadow, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ursaluna",
+        "Blood Moon",
+        "p1a: Calyrex"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Calm Mind",
+        "p1a: Calyrex"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Iron Moth",
+        "Iron Moth, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ursaluna",
+        "Vacuum Wave",
+        "p1a: Iron Moth"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Iron Moth",
+        "Fire Blast",
+        "p2a: Ursaluna"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ursaluna",
+        "Earth Power",
+        "p1a: Iron Moth"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Calyrex",
+        "Calyrex-Shadow, L50",
+        "1/100"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ursaluna",
+        "Vacuum Wave",
+        "p1a: Calyrex"
+      ]
+    }
+  ],
+  "win": "Wasurena"
+}

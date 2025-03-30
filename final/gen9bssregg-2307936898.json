@@ -1,0 +1,1318 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307936898",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "josh31717",
+      "buttue"
+    ],
+    "uploadtime": 1740529664,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1283,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Eternatus, L50",
+        "species": "Eternatus",
+        "pokebase_info": {
+          "name": "eternatus",
+          "id": 890,
+          "types": [
+            "poison",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 140,
+            "attack": 85,
+            "defense": 95,
+            "special-attack": 145,
+            "special-defense": 95,
+            "speed": 130
+          }
+        }
+      },
+      {
+        "original": "Chi-Yu, L50",
+        "species": "Chi-Yu",
+        "pokebase_info": {
+          "name": "chi-yu",
+          "id": 1004,
+          "types": [
+            "dark",
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 80,
+            "defense": 80,
+            "special-attack": 135,
+            "special-defense": 120,
+            "speed": 100
+          }
+        }
+      },
+      {
+        "original": "Dondozo, L50, F",
+        "species": "Dondozo",
+        "pokebase_info": {
+          "name": "dondozo",
+          "id": 977,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 150,
+            "attack": 100,
+            "defense": 115,
+            "special-attack": 65,
+            "special-defense": 65,
+            "speed": 35
+          }
+        }
+      },
+      {
+        "original": "Blissey, L50, F",
+        "species": "Blissey",
+        "pokebase_info": {
+          "name": "blissey",
+          "id": 242,
+          "types": [
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 255,
+            "attack": 10,
+            "defense": 10,
+            "special-attack": 75,
+            "special-defense": 135,
+            "speed": 55
+          }
+        }
+      },
+      {
+        "original": "Great Tusk, L50",
+        "species": "Great Tusk",
+        "pokebase_info": {
+          "name": "great-tusk",
+          "id": 984,
+          "types": [
+            "ground",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 115,
+            "attack": 131,
+            "defense": 131,
+            "special-attack": 53,
+            "special-defense": 53,
+            "speed": 87
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Terapagos, L50, M",
+        "species": "Terapagos",
+        "pokebase_info": {
+          "name": "terapagos",
+          "id": 1024,
+          "types": [
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 65,
+            "defense": 85,
+            "special-attack": 65,
+            "special-defense": 85,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Qwilfish, L50, M",
+        "species": "Qwilfish",
+        "pokebase_info": {
+          "name": "qwilfish",
+          "id": 211,
+          "types": [
+            "water",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 65,
+            "attack": 95,
+            "defense": 85,
+            "special-attack": 55,
+            "special-defense": 55,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Landorus-Therian, L50, M",
+        "species": "Landorus-Therian",
+        "pokebase_info": {
+          "name": "landorus-therian",
+          "id": 10021,
+          "types": [
+            "ground",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 89,
+            "attack": 145,
+            "defense": 90,
+            "special-attack": 105,
+            "special-defense": 80,
+            "speed": 91
+          }
+        }
+      },
+      {
+        "original": "Moltres-Galar, L50",
+        "species": "Moltres-Galar",
+        "pokebase_info": {
+          "name": "moltres-galar",
+          "id": 10171,
+          "types": [
+            "dark",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 85,
+            "defense": 90,
+            "special-attack": 100,
+            "special-defense": 125,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Regice, L50",
+        "species": "Regice",
+        "pokebase_info": {
+          "name": "regice",
+          "id": 378,
+          "types": [
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 50,
+            "defense": 100,
+            "special-attack": 100,
+            "special-defense": 200,
+            "speed": 50
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Chien-Pao",
+        "Chien-Pao, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Moltres",
+        "Moltres-Galar, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Qwilfish",
+        "Qwilfish, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Chien-Pao",
+        "Icicle Crash",
+        "p2a: Qwilfish"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Blissey",
+        "Blissey, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Qwilfish",
+        "Toxic Spikes",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Qwilfish",
+        "Thunder Wave",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Defense Curl",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Qwilfish",
+        "Taunt",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Qwilfish",
+        "Flip Turn",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Moltres",
+        "Moltres-Galar, L50",
+        "100/100",
+        "[from] Flip Turn"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Dazzling Gleam",
+        "p2a: Moltres"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Moltres",
+        "Air Slash",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Moltres",
+        "Taunt",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Chi-Yu",
+        "Chi-Yu, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Moltres",
+        "Air Slash",
+        "p1a: Chi-Yu"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Blissey",
+        "Blissey, L50, F",
+        "80/100"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Moltres",
+        "Snarl",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Terapagos",
+        "Terapagos, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Chien-Pao",
+        "Chien-Pao, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Blissey",
+        "Blissey, L50, F",
+        "60/100"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Substitute",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Soft-Boiled",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Calm Mind",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Calm Mind",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Soft-Boiled",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Calm Mind",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Calm Mind",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 18,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Tera Starstorm",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 18,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Calm Mind",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 19,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Tera Starstorm",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 19,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Soft-Boiled",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 20,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Protect",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 20,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Soft-Boiled",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 21,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 21,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Dazzling Gleam",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 22,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 22,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Dazzling Gleam",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 23,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Substitute",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 23,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Dazzling Gleam",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 24,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Protect",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 24,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Soft-Boiled",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 25,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 25,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Dazzling Gleam",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 26,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Protect",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 26,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Dazzling Gleam",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 27,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 27,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Dazzling Gleam",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 28,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Protect",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 28,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Soft-Boiled",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 29,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 29,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Defense Curl",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 30,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 30,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Defense Curl",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 31,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Substitute",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 31,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Defense Curl",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 32,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Protect",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 32,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Defense Curl",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 33,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 33,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Soft-Boiled",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 34,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 34,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Defense Curl",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 35,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 35,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Defense Curl",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 36,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Protect",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 36,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Soft-Boiled",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 37,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 37,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Dazzling Gleam",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 38,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Substitute",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 38,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Dazzling Gleam",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 39,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Protect",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 39,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Dazzling Gleam",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 40,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 40,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Dazzling Gleam",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 41,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Protect",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 41,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Dazzling Gleam",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 42,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Tera Starstorm",
+        "p1a: Blissey"
+      ]
+    },
+    {
+      "turn": 42,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blissey",
+        "Dazzling Gleam",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 42,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Chien-Pao",
+        "Chien-Pao, L50",
+        "88/100 psn"
+      ]
+    },
+    {
+      "turn": 43,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Chien-Pao",
+        "Icicle Crash",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 43,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Tera Starstorm",
+        "p1a: Chien-Pao"
+      ]
+    },
+    {
+      "turn": 43,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Chi-Yu",
+        "Chi-Yu, L50",
+        "71/100 psn"
+      ]
+    }
+  ],
+  "win": "buttue"
+}

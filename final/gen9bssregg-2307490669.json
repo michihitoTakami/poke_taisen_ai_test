@@ -1,0 +1,599 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307490669",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "locks31",
+      "rautasi."
+    ],
+    "uploadtime": 1740482300,
+    "views": 2,
+    "formatid": "gen9bssregg",
+    "rating": 1145,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Miraidon, L50",
+        "species": "Miraidon",
+        "pokebase_info": {
+          "name": "miraidon",
+          "id": 1008,
+          "types": [
+            "electric",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 100,
+            "special-attack": 135,
+            "special-defense": 115,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Dragonite, L50, F",
+        "species": "Dragonite",
+        "pokebase_info": {
+          "name": "dragonite",
+          "id": 149,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Scizor, L50, F",
+        "species": "Scizor",
+        "pokebase_info": {
+          "name": "scizor",
+          "id": 212,
+          "types": [
+            "bug",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 65
+          }
+        }
+      },
+      {
+        "original": "Archaludon, L50, F",
+        "species": "Archaludon",
+        "pokebase_info": {
+          "name": "archaludon",
+          "id": 1018,
+          "types": [
+            "steel",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 105,
+            "defense": 130,
+            "special-attack": 125,
+            "special-defense": 65,
+            "speed": 85
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Palkia, L50",
+        "species": "Palkia",
+        "pokebase_info": {
+          "name": "palkia",
+          "id": 484,
+          "types": [
+            "water",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 120,
+            "defense": 100,
+            "special-attack": 150,
+            "special-defense": 120,
+            "speed": 100
+          }
+        }
+      },
+      {
+        "original": "Sneasler, L50, M",
+        "species": "Sneasler",
+        "pokebase_info": {
+          "name": "sneasler",
+          "id": 903,
+          "types": [
+            "fighting",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 130,
+            "defense": 60,
+            "special-attack": 40,
+            "special-defense": 80,
+            "speed": 120
+          }
+        }
+      },
+      {
+        "original": "Landorus-Therian, L50, M",
+        "species": "Landorus-Therian",
+        "pokebase_info": {
+          "name": "landorus-therian",
+          "id": 10021,
+          "types": [
+            "ground",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 89,
+            "attack": 145,
+            "defense": 90,
+            "special-attack": 105,
+            "special-defense": 80,
+            "speed": 91
+          }
+        }
+      },
+      {
+        "original": "Ursaluna, L50, M",
+        "species": "Ursaluna",
+        "pokebase_info": {
+          "name": "ursaluna",
+          "id": 901,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 130,
+            "attack": 140,
+            "defense": 105,
+            "special-attack": 45,
+            "special-defense": 80,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Scizor, L50, M",
+        "species": "Scizor",
+        "pokebase_info": {
+          "name": "scizor",
+          "id": 212,
+          "types": [
+            "bug",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 65
+          }
+        }
+      },
+      {
+        "original": "Sinistcha-Masterpiece, L50",
+        "species": "Sinistcha-Masterpiece",
+        "pokebase_info": {}
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ting-Lu",
+        "Ting-Lu, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: \u6c37\u306e\u4e00\u8cab\u30e4\u30d0\u3044",
+        "Landorus-Therian, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \u6c37\u306e\u4e00\u8cab\u30e4\u30d0\u3044",
+        "U-turn",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: \u3059\u3044\u3068\u308c",
+        "Sinistcha-Masterpiece, L50",
+        "100/100",
+        "[from] U-turn"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Stealth Rock",
+        "p2a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \u3059\u3044\u3068\u308c",
+        "Scald",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Spikes",
+        "p2a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \u3059\u3044\u3068\u308c",
+        "Scald",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Spikes",
+        "p2a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \u3059\u3044\u3068\u308c",
+        "Scald",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Whirlwind",
+        "p2a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Chien-Pao",
+        "Chien-Pao, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: \u306f\u305f\u304d\u304a\u3059",
+        "Scizor, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Chien-Pao",
+        "Icicle Crash",
+        "p2a: \u306f\u305f\u304d\u304a\u3059"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Miraidon",
+        "Miraidon, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \u306f\u305f\u304d\u304a\u3059",
+        "Bullet Punch",
+        "p1a: Miraidon"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: \u6c37\u306e\u4e00\u8cab\u30e4\u30d0\u3044",
+        "Landorus-Therian, L50, M",
+        "88/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Miraidon",
+        "Dazzling Gleam",
+        "p2a: \u6c37\u306e\u4e00\u8cab\u30e4\u30d0\u3044"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \u6c37\u306e\u4e00\u8cab\u30e4\u30d0\u3044",
+        "Earthquake",
+        "p1a: Miraidon"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Miraidon",
+        "Dazzling Gleam",
+        "p2a: \u6c37\u306e\u4e00\u8cab\u30e4\u30d0\u3044"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: \u3059\u3044\u3068\u308c",
+        "Sinistcha-Masterpiece, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Miraidon",
+        "Electro Drift",
+        "p2a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \u3059\u3044\u3068\u308c",
+        "Calm Mind",
+        "p2a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Miraidon",
+        "Dazzling Gleam",
+        "p2a: \u3059\u3044\u3068\u308c"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: \u306f\u305f\u304d\u304a\u3059",
+        "Scizor, L50, M",
+        "48/100"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \u306f\u305f\u304d\u304a\u3059",
+        "Bullet Punch",
+        "p1a: Miraidon"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Chien-Pao",
+        "Chien-Pao, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \u306f\u305f\u304d\u304a\u3059",
+        "Bullet Punch",
+        "p1a: Chien-Pao"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Chien-Pao",
+        "Icicle Crash",
+        "p2a: \u306f\u305f\u304d\u304a\u3059"
+      ]
+    }
+  ],
+  "win": "locks31"
+}

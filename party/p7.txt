@@ -1,0 +1,56 @@
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Tera Type: Fairy  
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+Serious Nature  
+- Transform  
+
+Landorus-Therian @ Rocky Helmet  
+Ability: Intimidate  
+Tera Type: Water  
+EVs: 252 HP / 4 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe  
+Impish Nature  
+- U-turn  
+- Stealth Rock  
+- Earthquake  
+- Taunt  
+
+Garganacl @ Leftovers  
+Ability: Purifying Salt  
+Tera Type: Fairy  
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 244 SpD / 12 Spe  
+Careful Nature  
+- Salt Cure  
+- Protect  
+- Recover  
+- Substitute  
+
+Flutter Mane @ Focus Sash  
+Ability: Protosynthesis  
+Tera Type: Fairy  
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe  
+Timid Nature  
+- Moonblast  
+- Shadow Ball  
+- Taunt  
+- Pain Split  
+
+Scizor @ Sitrus Berry  
+Ability: Technician  
+Tera Type: Normal  
+EVs: 252 HP / 76 Atk / 172 Def / 0 SpA / 4 SpD / 4 Spe  
+Adamant Nature  
+- Bullet Punch  
+- Knock Off  
+- Dual Wingbeat  
+- Swords Dance  
+
+Koraidon @ Loaded Dice  
+Ability: Orichalcum Pulse  
+Tera Type: Steel  
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe  
+Jolly Nature  
+- Scale Shot  
+- Iron Head  
+- Collision Course  
+- Taunt  

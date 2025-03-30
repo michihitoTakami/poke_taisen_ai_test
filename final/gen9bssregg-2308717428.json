@@ -1,0 +1,722 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308717428",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "gyakutennokage reg",
+      "tavichou"
+    ],
+    "uploadtime": 1740628119,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1210,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Skeledirge, L50, F",
+        "species": "Skeledirge",
+        "pokebase_info": {
+          "name": "skeledirge",
+          "id": 911,
+          "types": [
+            "fire",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 104,
+            "attack": 75,
+            "defense": 100,
+            "special-attack": 110,
+            "special-defense": 75,
+            "speed": 66
+          }
+        }
+      },
+      {
+        "original": "Clodsire, L50, F",
+        "species": "Clodsire",
+        "pokebase_info": {
+          "name": "clodsire",
+          "id": 980,
+          "types": [
+            "poison",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 130,
+            "attack": 75,
+            "defense": 60,
+            "special-attack": 45,
+            "special-defense": 100,
+            "speed": 20
+          }
+        }
+      },
+      {
+        "original": "Lugia, L50",
+        "species": "Lugia",
+        "pokebase_info": {
+          "name": "lugia",
+          "id": 249,
+          "types": [
+            "psychic",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 106,
+            "attack": 90,
+            "defense": 130,
+            "special-attack": 90,
+            "special-defense": 154,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Ogerpon-Cornerstone, L50, F",
+        "species": "Ogerpon-Cornerstone",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Glastrier, L50",
+        "species": "Glastrier",
+        "pokebase_info": {
+          "name": "glastrier",
+          "id": 896,
+          "types": [
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 145,
+            "defense": 130,
+            "special-attack": 65,
+            "special-defense": 110,
+            "speed": 30
+          }
+        }
+      },
+      {
+        "original": "Qwilfish-Hisui, L50, F",
+        "species": "Qwilfish-Hisui",
+        "pokebase_info": {
+          "name": "qwilfish-hisui",
+          "id": 10234,
+          "types": [
+            "dark",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 65,
+            "attack": 95,
+            "defense": 85,
+            "special-attack": 55,
+            "special-defense": 55,
+            "speed": 85
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Grimmsnarl, L50, M",
+        "species": "Grimmsnarl",
+        "pokebase_info": {
+          "name": "grimmsnarl",
+          "id": 861,
+          "types": [
+            "dark",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 120,
+            "defense": 65,
+            "special-attack": 95,
+            "special-defense": 75,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Calyrex-Shadow, L50",
+        "species": "Calyrex-Shadow",
+        "pokebase_info": {
+          "name": "calyrex-shadow",
+          "id": 10194,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 80,
+            "special-attack": 165,
+            "special-defense": 100,
+            "speed": 150
+          }
+        }
+      },
+      {
+        "original": "Gholdengo, L50",
+        "species": "Gholdengo",
+        "pokebase_info": {
+          "name": "gholdengo",
+          "id": 1000,
+          "types": [
+            "steel",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 87,
+            "attack": 60,
+            "defense": 95,
+            "special-attack": 133,
+            "special-defense": 91,
+            "speed": 84
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, F",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      },
+      {
+        "original": "Goodra-Hisui, L50, F",
+        "species": "Goodra-Hisui",
+        "pokebase_info": {
+          "name": "goodra-hisui",
+          "id": 10242,
+          "types": [
+            "steel",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 100,
+            "defense": 100,
+            "special-attack": 110,
+            "special-defense": 150,
+            "speed": 60
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Glastrier",
+        "Glastrier, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Grimmsnarl",
+        "Grimmsnarl, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Grimmsnarl",
+        "Spirit Break",
+        "p1a: Glastrier"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Glastrier",
+        "Icicle Crash",
+        "p2a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Grimmsnarl",
+        "Reflect",
+        "p2a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Glastrier",
+        "Icicle Crash",
+        "p2a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Grimmsnarl",
+        "Light Screen",
+        "p2a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Glastrier",
+        "Icicle Crash",
+        "p2a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Calyrex",
+        "Calyrex-Shadow, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Astral Barrage",
+        "p1a: Glastrier"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Glastrier",
+        "Icicle Crash",
+        "p2a: Calyrex",
+        "[miss]"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Astral Barrage",
+        "p1a: Glastrier"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Glastrier",
+        "Icicle Crash",
+        "p2a: Calyrex",
+        "[miss]"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Astral Barrage",
+        "p1a: Glastrier"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Lugia",
+        "Lugia, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Nasty Plot",
+        "p2a: Calyrex"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Lugia",
+        "Whirlwind",
+        "p2a: Calyrex"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Calyrex",
+        "Calyrex-Shadow, L50, tera:Fairy",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Lugia",
+        "Substitute",
+        "p1a: Lugia"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Astral Barrage",
+        "p1a: Lugia"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Lugia",
+        "Psychic Noise",
+        "p2a: Calyrex"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Astral Barrage",
+        "p1a: Lugia"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Lugia",
+        "Recover",
+        "p1a: Lugia"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Encore",
+        "p1a: Lugia"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Lugia",
+        "Recover",
+        "",
+        "[still]"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Clodsire",
+        "Clodsire, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Nasty Plot",
+        "p2a: Calyrex"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Astral Barrage",
+        "p1a: Clodsire"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Clodsire",
+        "Toxic Spikes",
+        "p2a: Calyrex"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Lugia",
+        "Lugia, L50, tera:Fairy",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Encore",
+        "",
+        "[still]"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Astral Barrage",
+        "p1a: Lugia"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Lugia",
+        "Whirlwind",
+        "p2a: Calyrex"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Calyrex",
+        "Calyrex-Shadow, L50, tera:Fairy",
+        "89/100"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Lugia",
+        "Substitute",
+        "p1a: Lugia"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Astral Barrage",
+        "p1a: Lugia"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Lugia",
+        "Recover",
+        "p1a: Lugia"
+      ]
+    },
+    {
+      "turn": 18,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Clodsire",
+        "Clodsire, L50, F",
+        "31/100"
+      ]
+    },
+    {
+      "turn": 18,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Encore",
+        "",
+        "[still]"
+      ]
+    }
+  ],
+  "win": "gyakutennokage reg"
+}

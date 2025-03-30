@@ -1,0 +1,353 @@
+<html class="dark"><head><script type="text/javascript" async="" src="https://cdn.edkt.io/rNn9xk/edgekit.min.js"></script><meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+<title>[Gen 9] BSS Reg G: OtaniShohei vs. tmhjawnjkms114 - Replays - Pokémon Showdown!</title>
+
+<meta name="description" content="Watch a replay of a Pokémon battle between OtaniShohei and tmhjawnjkms114! Format: [Gen 9] BSS Reg G; Date: Feb 27, 2025">
+<!--
+
+Hey, you! Looking in the source for the replay log?
+
+You can find them in JSON format, just add `.json` at the end of a replay URL.
+
+https://replay.pokemonshowdown.com/gen7randomdoublesbattle-865046831.json
+
+Or, if you only need the log itself, add `.log` instead:
+
+https://replay.pokemonshowdown.com/gen7randomdoublesbattle-865046831.log
+
+-->
+
+<link rel="stylesheet" href="//pokemonshowdown.com/style/global.css?0.33511372851231">
+<link rel="stylesheet" href="//play.pokemonshowdown.com/style/font-awesome.css?0.5883895382621385">
+<link rel="stylesheet" href="//play.pokemonshowdown.com/style/battle.css?0.10240648377952621">
+<link rel="stylesheet" href="//play.pokemonshowdown.com/style/utilichart.css?0.5738233469631782">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://secure.cdn.fastclick.net/js/cnvr-coreid/latest/coreid.min.js"></script><script async="" src="https://secure.cdn.fastclick.net/js/cnvr-launcher/latest/launcher.min.js"></script><script src="https://cdn.hadronid.net/hadron.js?url=https%3A%2F%2Freplay.pokemonshowdown.com%2Fgen9bssregg-2308725578&amp;ref=&amp;_it=amazon&amp;partner_id=288"></script><script src="https://rules.quantcount.com/rules-p-Hwnr8j7tWA3Nu.js" async=""></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-8B1DJVGJ9K&amp;l=dataLayer&amp;cx=c&amp;gtm=457e52o0za200&amp;tag_exp=101732282~101732284~102067808~102482433~102539968~102558064~102587591~102605417~102640600~102658453~102717422"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-26211653-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-26211653-1');
+</script>
+<!-- End Google Analytics -->
+<!-- Venatus Ad Manager - Install in <HEAD> of page -->
+	<script src="https://hb.vntsm.com/v3/live/ad-manager.min.js" type="text/javascript" data-site-id="642aba63ec9a7b11c3c9c1be" data-mode="scan" async=""></script>
+<!-- / Venatus Ad Manager -->
+
+<style>
+	@media (max-width:820px) {
+		.battle {
+			margin: 0 auto;
+		}
+		.battle-log {
+			margin: 7px auto 0;
+			max-width: 640px;
+			height: 300px;
+			position: static;
+		}
+	}
+	.optgroup {
+		display: inline-block;
+		line-height: 22px;
+		font-size: 10pt;
+	}
+	.optgroup .button {
+		height: 25px;
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+	.optgroup button.button {
+		padding-left: 12px;
+		padding-right: 12px;
+	}
+	.linklist {
+		list-style: none;
+		margin: 0.5em 0;
+		padding: 0;
+	}
+	.linklist li {
+		padding: 2px 0;
+	}
+	.sidebar {
+		float: left;
+		width: 320px;
+	}
+	.bar-wrapper {
+		max-width: 1100px;
+		margin: 0 auto;
+	}
+	.bar-wrapper.has-sidebar {
+		max-width: 1430px;
+	}
+	.mainbar {
+		margin: 0;
+		padding-right: 1px;
+	}
+	.mainbar.has-sidebar {
+		margin-left: 330px;
+	}
+	@media (min-width: 1511px) {
+		.sidebar {
+			width: 400px;
+		}
+		.bar-wrapper.has-sidebar {
+			max-width: 1510px;
+		}
+		.mainbar.has-sidebar {
+			margin-left: 410px;
+		}
+	}
+	.section.first-section {
+		margin-top: 9px;
+	}
+	.blocklink small {
+		white-space: normal;
+	}
+	.button {
+		vertical-align: middle;
+	}
+	.replay-controls {
+		padding-top: 10px;
+	}
+	.replay-controls h1 {
+		font-size: 16pt;
+		font-weight: normal;
+		color: #CCC;
+	}
+	.pagelink {
+		text-align: center;
+	}
+	.pagelink a {
+		width: 150px;
+	}
+	.textbox, .button {
+		font-size: 11pt;
+		vertical-align: middle;
+	}
+	@media (max-width: 450px) {
+		.button {
+			font-size: 9pt;
+		}
+	}
+</style>
+
+<script type="text/javascript" src="https://hb.vntsm.com/v3/live/ad-manager-bundle.min.js" async=""></script><script type="text/javascript" src="https://ats.rlcdn.com/ats.js" async=""></script><script type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async=""></script><style>
+          .vm-placement[data-rejected=true]>div[id^=google_ads_iframe] {
+            display: none;
+          }
+          </style><script type="text/javascript" src="https://c.amazon-adsystem.com/aax2/apstag.js" async=""></script><script type="text/javascript" src="https://secure.quantserve.com/quant.js" async=""></script><script type="text/javascript" src="https://pub.doubleverify.com/dvtag/34896827/DV1430477/pub.js" async=""></script><meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9wSqI5i0iwGdf6L1CERNdmsTPgVu44ewj8QxTBYgsv1LCPUVF7YmWOvTappqB1139jAymxUW/RO8zmMqo4zlAAAAACNeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A+d7vJfYtay4OUbdtRPZA3y7bKQLsxaMEPmxgfhBGqKXNrdkCQeJlUwqa6EBbSfjwFtJWTrWIioXeMW+y8bWAgQAAACTeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202502200101/pubads_impl.js" async=""></script><link href="https://securepubads.g.doubleclick.net/pagead/managed/dict/m202502250101/gpt" rel="compression-dictionary"><script src="https://config.aps.amazon-adsystem.com/configs/70247b00-ff8f-4016-b3ab-8344daf96e09" type="text/javascript" async="async"></script><script async="" src="https://fundingchoicesmessages.google.com/i/21726375739?ers=3"></script><script src="//secure.cdn.fastclick.net/js/pubcid/latest/pubcid.min.js"></script><script src="//cdn.id5-sync.com/api/1.0/id5-api.js"></script><script type="text/javascript" async="" src="https://secure.cdn.fastclick.net/js/cnvr-launcher/latest/launcher-stub.min.js"></script><script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxXaMmJ2vkbeNoQKgZJk_o7Kmjazp5ChwCeKe2RizbaLTsr0vIhm3_QQhP9w6WA13GrSebGVzaCN_6MdNrQbK_FOpI_YCj3oQAJJ0MpL9TvAzBpv6mjsXr_xs8HBM11_KyIlpQoxLQ==?fccs=W1siQUtzUm9sLWpuZjdSWjgwQnREdXN6M01GY0tGa3ZtNkpiRHVOZmlJRGJpUjROMDgyd01lUUpSUDVTNU5hTl84S2JBWnQ3R09DbHN2MUU0dFo2VXV4eTFray0zaDJLODdEY0U2R0ZQUGZYbU4zclFJSlJOWVBzQldhNEJCREYtVmxDcW83eG50YjZLekkyWXd5aE9TaWE0Y2NYZmVDcVJUaUxnPT0iXSxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsWzE3NDA2NDcxMDYsMjUzMDAwMDAwXSxudWxsLG51bGwsbnVsbCxbbnVsbCxbN11dLCJodHRwczovL3JlcGxheS5wb2tlbW9uc2hvd2Rvd24uY29tL2dlbjlic3NyZWdnLTIzMDg3MjU1NzgiLG51bGwsW1s4LCJKVGt5cXh5RVd5cyJdLFs5LCJqYSJdLFsyMywiMTc0MDY0NzAwMyJdLFsxOSwiMiJdLFsyNCwiIl1dXQ"></script><script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxXlNy1khWncAO7ml7ncq_hEFYOfHFyzIig02Np9MY6HmemtZZblcpc8By4QwDZhqSSNKlf-NUegzVJo3d9cxSSg83-dHMzhwoIiz6CwmowEIQuLNuMnOlI8hPkm3CjHYjKSDNVaxA==?fccs=W1siQUtzUm9sLWpuZjdSWjgwQnREdXN6M01GY0tGa3ZtNkpiRHVOZmlJRGJpUjROMDgyd01lUUpSUDVTNU5hTl84S2JBWnQ3R09DbHN2MUU0dFo2VXV4eTFray0zaDJLODdEY0U2R0ZQUGZYbU4zclFJSlJOWVBzQldhNEJCREYtVmxDcW83eG50YjZLekkyWXd5aE9TaWE0Y2NYZmVDcVJUaUxnPT0iXSxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsWzE3NDA2NDcxMDcsNzQwMDAwMDBdLG51bGwsbnVsbCxudWxsLFtudWxsLFs3LDZdLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLDFdLCJodHRwczovL3JlcGxheS5wb2tlbW9uc2hvd2Rvd24uY29tL2dlbjlic3NyZWdnLTIzMDg3MjU1NzgiLG51bGwsW1s4LCJKVGt5cXh5RVd5cyJdLFs5LCJqYSJdLFsyMywiMTc0MDY0NzAwMyJdLFsxOSwiMiJdLFsyNCwiIl1dXQ"></script><script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxWnC4ZNv7x0-XF-V4KRaZrsaz1Pb96QtE9QOX3d9TssCbBM1JWxBbx_pwYxc20G0pB2Jj21VoGwSPvO_L78oSd5SdkQpI1ThtBixde4pOWweXWKnR_2rV3vnr711ntGZpKkuuW_5w==?fccs=W1siQUtzUm9sLWpuZjdSWjgwQnREdXN6M01GY0tGa3ZtNkpiRHVOZmlJRGJpUjROMDgyd01lUUpSUDVTNU5hTl84S2JBWnQ3R09DbHN2MUU0dFo2VXV4eTFray0zaDJLODdEY0U2R0ZQUGZYbU4zclFJSlJOWVBzQldhNEJCREYtVmxDcW83eG50YjZLekkyWXd5aE9TaWE0Y2NYZmVDcVJUaUxnPT0iXSxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsWzE3NDA2NDcxMDcsMTgyMDAwMDAwXSxudWxsLG51bGwsbnVsbCxbbnVsbCxbNyw2LDEwXSxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCwxXSwiaHR0cHM6Ly9yZXBsYXkucG9rZW1vbnNob3dkb3duLmNvbS9nZW45YnNzcmVnZy0yMzA4NzI1NTc4IixudWxsLFtbOCwiSlRreXF4eUVXeXMiXSxbOSwiamEiXSxbMjMsIjE3NDA2NDcwMDMiXSxbMTksIjIiXSxbMjQsIiJdXV0"></script><script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxX1Iy8vCbS3CiD4bV5dJVTaO-FmCO-Grt9PRPVzN4Q5kOlVpLzIyq_jKF8XnOGqjKtQP1sxALdJG2t3a8bDui6H0LrBsndh18YxUDEmiaAfZGAK4jPN14WKAv2G2tUjZwwvNY_hIQ==?fccs=W1siQUtzUm9sLWpuZjdSWjgwQnREdXN6M01GY0tGa3ZtNkpiRHVOZmlJRGJpUjROMDgyd01lUUpSUDVTNU5hTl84S2JBWnQ3R09DbHN2MUU0dFo2VXV4eTFray0zaDJLODdEY0U2R0ZQUGZYbU4zclFJSlJOWVBzQldhNEJCREYtVmxDcW83eG50YjZLekkyWXd5aE9TaWE0Y2NYZmVDcVJUaUxnPT0iXSxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsWzE3NDA2NDcxMDcsMjg5MDAwMDAwXSxudWxsLG51bGwsbnVsbCxbbnVsbCxbNyw2LDEwLDldLG51bGwsMixudWxsLCJlbi1HQiIsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLDFdLCJodHRwczovL3JlcGxheS5wb2tlbW9uc2hvd2Rvd24uY29tL2dlbjlic3NyZWdnLTIzMDg3MjU1NzgiLG51bGwsW1s4LCJKVGt5cXh5RVd5cyJdLFs5LCJqYSJdLFsyMywiMTc0MDY0NzAwMyJdLFsxOSwiMiJdLFsyNCwiIl1dXQ"></script></head><body><div>
+
+	<header>
+		<div class="nav-wrapper"><ul class="nav">
+			<li><a class="button nav-first" href="//pokemonshowdown.com/"><img src="//pokemonshowdown.com/images/pokemonshowdownbeta.png" srcset="//pokemonshowdown.com/images/pokemonshowdownbeta.png 1x, //pokemonshowdown.com/images/pokemonshowdownbeta@2x.png 2x" alt="Pokémon Showdown" width="146" height="44"> Home</a></li>
+			<li><a class="button" href="//pokemonshowdown.com/dex/">Pokédex</a></li>
+			<li><a class="button cur" href="/">Replays</a></li>
+			<li><a class="button" href="//pokemonshowdown.com/ladder/">Ladder</a></li>
+			<li><a class="button nav-last" href="//pokemonshowdown.com/forums/">Forum</a></li>
+			<li><a class="button greenbutton nav-first nav-last" href="//play.pokemonshowdown.com/">Play</a></li>
+		</ul></div>
+	</header>
+
+	<div class="main" id="main"><div class="bar-wrapper"><div class="mainbar"><div style="position: relative;"><div class="battle" style="position: relative; transform: none; margin-bottom: 0px;"><div class="innerbattle"><div class="backdrop" style="display: block; opacity: 0.8; background-image: url(&quot;https://play.pokemonshowdown.com/sprites/gen6bgs/bg-elite4drake.jpg&quot;);"></div><div class="weather"></div><div class="weather"></div><div></div><div><div><img src="https://play.pokemonshowdown.com/sprites/ani/hooh.gif" width="157" height="144" style="position:absolute;top:26px;left:149px"><img src="https://play.pokemonshowdown.com/sprites/gen5/chienpao.png" width="96" height="96" style="position:absolute;top:53px;left:230px"><img src="https://play.pokemonshowdown.com/sprites/ani/alomomola.gif" width="44" height="100" style="position:absolute;top:54px;left:306px"><img src="https://play.pokemonshowdown.com/sprites/gen5/ironbundle.png" width="96" height="96" style="position:absolute;top:59px;left:330px"><img src="https://play.pokemonshowdown.com/sprites/ani/ursaluna-bloodmoon.gif" width="98" height="105" style="position:absolute;top:57px;left:379px"><img src="https://play.pokemonshowdown.com/sprites/gen5/chiyu.png" width="96" height="96" style="position:absolute;top:65px;left:430px"><div style="position:absolute;top:143px;left:188px;width:80px;font-size:10px;text-align:center;color:#FFF;"><span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:146px;left:238px;width:80px;font-size:10px;text-align:center;color:#FFF;"><span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:149px;left:288px;width:80px;font-size:10px;text-align:center;color:#FFF;"><img src="https://play.pokemonshowdown.com/fx/gender-f.png" alt="F" width="7" height="10" class="pixelated" style="margin-bottom:-1px"> <span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:152px;left:338px;width:80px;font-size:10px;text-align:center;color:#FFF;"><span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:155px;left:388px;width:80px;font-size:10px;text-align:center;color:#FFF;"><img src="https://play.pokemonshowdown.com/fx/gender-m.png" alt="M" width="7" height="10" class="pixelated" style="margin-bottom:-1px"> <span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:158px;left:438px;width:80px;font-size:10px;text-align:center;color:#FFF;"><span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div></div><div></div><div></div><div><img src="https://play.pokemonshowdown.com/sprites/ani-back/scizor.gif" width="59" height="95" style="position:absolute;top:200px;left:118px"><img src="https://play.pokemonshowdown.com/sprites/ani-back/dragonite.gif" width="110" height="98" style="position:absolute;top:202px;left:143px"><img src="https://play.pokemonshowdown.com/sprites/gen5-back/miraidon.png" width="96" height="96" style="position:absolute;top:206px;left:200px"><img src="https://play.pokemonshowdown.com/sprites/gen5-back/fluttermane.png" width="96" height="96" style="position:absolute;top:209px;left:250px"><img src="https://play.pokemonshowdown.com/sprites/gen5-back/ogerpon-cornerstone.png" width="96" height="96" style="position:absolute;top:212px;left:300px"><img src="https://play.pokemonshowdown.com/sprites/gen5-back/glimmora.png" width="96" height="96" style="position:absolute;top:215px;left:350px"><div style="position:absolute;top:293px;left:108px;width:80px;font-size:10px;text-align:center;color:#FFF;"><img src="https://play.pokemonshowdown.com/fx/gender-f.png" alt="F" width="7" height="10" class="pixelated" style="margin-bottom:-1px"> <span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:296px;left:158px;width:80px;font-size:10px;text-align:center;color:#FFF;"><img src="https://play.pokemonshowdown.com/fx/gender-f.png" alt="F" width="7" height="10" class="pixelated" style="margin-bottom:-1px"> <span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:299px;left:208px;width:80px;font-size:10px;text-align:center;color:#FFF;"><span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:302px;left:258px;width:80px;font-size:10px;text-align:center;color:#FFF;"><span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:305px;left:308px;width:80px;font-size:10px;text-align:center;color:#FFF;"><img src="https://play.pokemonshowdown.com/fx/gender-f.png" alt="F" width="7" height="10" class="pixelated" style="margin-bottom:-1px"> <span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div><div style="position:absolute;top:308px;left:358px;width:80px;font-size:10px;text-align:center;color:#FFF;"><img src="https://play.pokemonshowdown.com/fx/gender-m.png" alt="M" width="7" height="10" class="pixelated" style="margin-bottom:-1px"> <span style="text-shadow:#000 1px 1px 0,#000 1px -1px 0,#000 -1px 1px 0,#000 -1px -1px 0"><small>L</small>50</span></div></div></div><div role="complementary" aria-label="Active Pokemon"></div><div></div><div class="leftbar" role="complementary" aria-label="Your Team"><div class="trainer trainer-near"><strong>OtaniShohei</strong><div class="trainersprite" title="Rating: 1457" style="background-image:url(https://play.pokemonshowdown.com/sprites/trainers/lucas.png)"></div><div class="teamicons"><span class="picon has-tooltip" data-tooltip="pokemon|0|0" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -320px -510px;opacity:0.6" aria-label="Scizor"></span><span class="picon has-tooltip" data-tooltip="pokemon|0|1" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -200px -360px;opacity:0.6" aria-label="Dragonite"></span><span class="picon has-tooltip" data-tooltip="pokemon|0|2" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -0px -2520px;opacity:0.6" aria-label="Miraidon"></span></div><div class="teamicons"><span class="picon has-tooltip" data-tooltip="pokemon|0|3" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -120px -2460px;opacity:0.6" aria-label="Flutter Mane"></span><span class="picon has-tooltip" data-tooltip="pokemon|0|4" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -120px -3180px;opacity:0.6" aria-label="Ogerpon-Cornerstone"></span><span class="picon has-tooltip" data-tooltip="pokemon|0|5" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -400px -2400px;opacity:0.6" aria-label="Glimmora"></span></div><div class="teamicons"></div></div></div><div class="rightbar" role="complementary" aria-label="Opponent's Team"><div class="trainer trainer-far"><strong>tmhjawnjkms114</strong><div class="trainersprite" title="Rating: 1353" style="background-image:url(https://play.pokemonshowdown.com/sprites/trainers/plasmagruntf.png)"></div><div class="teamicons"><span class="picon has-tooltip" data-tooltip="pokemon|1|0" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -400px -600px;opacity:0.6" aria-label="Ho-Oh"></span><span class="picon has-tooltip" data-tooltip="pokemon|1|1" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -240px -2490px;opacity:0.6" aria-label="Chien-Pao"></span><span class="picon has-tooltip" data-tooltip="pokemon|1|2" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -240px -1470px;opacity:0.6" aria-label="Alomomola"></span></div><div class="teamicons"><span class="picon has-tooltip" data-tooltip="pokemon|1|3" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -280px -2460px;opacity:0.6" aria-label="Iron Bundle"></span><span class="picon has-tooltip" data-tooltip="pokemon|1|4" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -0px -3180px;opacity:0.6" aria-label="Ursaluna-Bloodmoon"></span><span class="picon has-tooltip" data-tooltip="pokemon|1|5" style="background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v18) no-repeat scroll -320px -2490px;opacity:0.6" aria-label="Chi-Yu"></span></div><div class="teamicons"></div></div></div><div></div><div class="messagebar message"></div><div></div><div class="message" style="position:absolute;display:block;visibility:hidden"></div><div class="tooltips"><div class="has-tooltip" style="position:absolute;top:70px;left:250px;width:80px;height:100px;" data-id="p2c" data-tooltip="activepokemon|1|2" data-ownheight="1"></div><div class="has-tooltip" style="position:absolute;top:85px;left:320px;width:90px;height:100px;" data-id="p2b" data-tooltip="activepokemon|1|1" data-ownheight="1"></div><div class="has-tooltip" style="position:absolute;top:90px;left:390px;width:100px;height:100px;" data-id="p2a" data-tooltip="activepokemon|1|0" data-ownheight="1"></div><div class="has-tooltip" style="position:absolute;top:200px;left:130px;width:120px;height:160px;" data-id="p1a" data-tooltip="activepokemon|0|0" data-ownheight="1"></div><div class="has-tooltip" style="position:absolute;top:200px;left:250px;width:150px;height:160px;" data-id="p1b" data-tooltip="activepokemon|0|1" data-ownheight="1"></div><div class="has-tooltip" style="position:absolute;top:200px;left:350px;width:150px;height:160px;" data-id="p1c" data-tooltip="activepokemon|0|2" data-ownheight="1"></div></div></div><div class="playbutton"><button name="play" class="button"><i class="fa fa-play"></i> Play</button><br><br><button name="play-muted" class="startsoundchooser button" style="font-size:10pt">Play (sound off)</button></div></div><div class="battle-log" role="log"><div class="battle-options"></div><div class="inner message-log"><div class="chat"><small>☆OtaniShohei and ☆tmhjawnjkms114 joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 9] BSS Reg G</strong></div><div class="rated"><strong>Rated battle</strong></div><div class=""><small><em>Species Clause:</em> Limit one of each Pokémon</small></div><div class=""><small><em>Item Clause:</em> Limit 1 of each item</small></div><div class="chat battle-history"><strong>OtaniShohei's team:</strong> <em style="color:#445566;display:block;">Scizor / Dragonite / Miraidon / Flutter Mane / Ogerpon-Cornerstone / Glimmora</em></div><div class="chat battle-history"><strong>tmhjawnjkms114's team:</strong> <em style="color:#445566;display:block;">Ho-Oh / Chien-Pao / Alomomola / Iron Bundle / Ursaluna-Bloodmoon / Chi-Yu</em></div></div><div class="inner-preempt message-log"></div></div><div class="replay-controls"><p><button class="button" style="width: 5em; margin-right: 3px;"><i class="fa fa-play"></i><br><strong>Play</strong></button> <button class="button button-first" disabled=""><i class="fa fa-fast-backward"></i><br>First turn</button><button class="button button-first" disabled="" style="margin-left: 1px; position: relative; z-index: 1;"><i class="fa fa-step-backward"></i><br>Prev turn</button><button class="button button-last" style="margin-right: 2px;"><i class="fa fa-step-forward"></i><br>Skip turn</button><button class="button button-last"><i class="fa fa-fast-forward"></i><br>Skip to end</button> <button class="button"><i class="fa fa-repeat"></i> Go to turn...</button></p><p><label class="optgroup">Speed:<br><select name="speed" class="button"><option value="hyperfast">Hyperfast</option><option value="fast">Fast</option><option value="normal">Normal</option><option value="slow">Slow</option><option value="reallyslow">Really slow</option></select></label> <label class="optgroup">Sound:<br><select name="sound" class="button"><option value="on">On</option><option value="musicoff">Music Off</option><option value="off">Muted</option></select></label> <label class="optgroup">Dark mode:<br><select name="darkmode" class="button"><option value="auto">Automatic</option><option value="dark">Dark</option><option value="light">Light</option></select></label> <label class="optgroup">Viewpoint:<br><button name="viewpoint" class="button">OtaniShohei <i class="fa fa-random" aria-label="Switch viewpoint"></i></button></label></p><h1><strong>[Gen 9] BSS Reg G</strong>: OtaniShohei vs. tmhjawnjkms114</h1><p><a class="button" href="#" style="float: right;"><i class="fa fa-download" aria-hidden="true"></i> Download</a>Thu Feb 27 2025 | <em>Rating:</em> 1339</p><p><a href="." class="button"><i class="fa fa-caret-left"></i> More replays</a></p></div><div id="LeaderboardBTF"><div class="vm-placement" data-id="6452680c0b35755a3f09b59b" data-pos="1101" id="6452680c0b35755a3f09b59b-1101" data-reg="true" data-rejected="true" style="background: none; position: relative; overflow: hidden; margin: 0px auto; max-width: 970px; width: 970px; height: 250px;" data-google-query-id="CNDpsOS_44sDFYJeDwIdRRcdwA"><div id="google_ads_iframe_/21726375739,22916103450/VM_642aba63ec9a7b11c3c9c1be/VM_6452680c0b35755a3f09b59b_0__container__" style="border: 0pt none; display: none;"><iframe id="google_ads_iframe_/21726375739,22916103450/VM_642aba63ec9a7b11c3c9c1be/VM_6452680c0b35755a3f09b59b_0" name="google_ads_iframe_/21726375739,22916103450/VM_642aba63ec9a7b11c3c9c1be/VM_6452680c0b35755a3f09b59b_0" title="3rd party ad content" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption;attribution-reporting" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation allow-presentation" data-load-complete="true" style="border: 0px; vertical-align: bottom; display: none;" data-google-container-id="1"></iframe></div><iframe width="970" height="250" allowtransparency="true" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" src="javascript:window.parent%5B%22d9cb795d-2618-b6d5-08e3-3c39e9f59763%22%5D.run(%7Bwnd%3Awindow%2Csjs%3A%22javascript%3A'%3Chtml%3E%3Cbody%3E%3C%2Fbody%3E%3C%2Fhtml%3E'%22%7D)" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation allow-presentation" style="display: block;"></iframe></div></div></div></div><div style="clear: both;"></div></div>
+
+		<noscript><section class="section">You need to enable JavaScript to use this page; sorry!</section></noscript>
+
+	</div>
+
+</div>
+
+<script defer="" nomodule="" src="//play.pokemonshowdown.com/js/lib/ps-polyfill.js"></script>
+<script defer="" src="//play.pokemonshowdown.com/js/lib/preact.min.js"></script>
+
+<script defer="" src="//play.pokemonshowdown.com/config/config.js?c26401c5"></script>
+<script defer="" src="//play.pokemonshowdown.com/js/lib/jquery-1.11.0.min.js"></script>
+<script defer="" src="//play.pokemonshowdown.com/js/lib/html-sanitizer-minified.js"></script>
+<script defer="" src="//play.pokemonshowdown.com/js/battle-sound.js"></script>
+<script defer="" src="//play.pokemonshowdown.com/js/battledata.js?0.14832469279025817"></script>
+<script defer="" src="//play.pokemonshowdown.com/data/pokedex-mini.js?0.33945589529368037"></script>
+<script defer="" src="//play.pokemonshowdown.com/data/pokedex-mini-bw.js?0.8023830347061633"></script>
+<script defer="" src="//play.pokemonshowdown.com/data/graphics.js?0.41044878336296287"></script>
+<script defer="" src="//play.pokemonshowdown.com/data/pokedex.js?0.9954804604281977"></script>
+<script defer="" src="//play.pokemonshowdown.com/data/moves.js?0.28615866532549594"></script>
+<script defer="" src="//play.pokemonshowdown.com/data/abilities.js?0.4808802365093021"></script>
+<script defer="" src="//play.pokemonshowdown.com/data/items.js?0.0757413065159036"></script>
+<script defer="" src="//play.pokemonshowdown.com/data/teambuilder-tables.js?0.46076668685013433"></script>
+<script defer="" src="//play.pokemonshowdown.com/js/battle-tooltips.js?0.6477502301672804"></script>
+<script defer="" src="//play.pokemonshowdown.com/js/battle.js?0.04130039862680368"></script>
+
+<script defer="" src="js/utils.js?0abca7ba"></script>
+<script defer="" src="js/replays-battle.js?208ecb6b"></script>
+
+<!-- don't scrape this data! just add .json or .log after the URL!
+Full API docs: https://github.com/smogon/pokemon-showdown-client/blob/master/WEB-API.md -->
+<script type="text/plain" class="log" id="replaylog-gen9bssregg-2308725578">
+|j|☆OtaniShohei
+|j|☆tmhjawnjkms114
+|t:|1740628666
+|gametype|singles
+|player|p1|OtaniShohei|1|1457
+|player|p2|tmhjawnjkms114|plasmagruntf|1353
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] BSS Reg G
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Scizor, L50, F|
+|poke|p1|Dragonite, L50, F|
+|poke|p1|Miraidon, L50|
+|poke|p1|Flutter Mane, L50|
+|poke|p1|Ogerpon-Cornerstone, L50, F|
+|poke|p1|Glimmora, L50, M|
+|poke|p2|Ho-Oh, L50|
+|poke|p2|Chien-Pao, L50|
+|poke|p2|Alomomola, L50, F|
+|poke|p2|Iron Bundle, L50|
+|poke|p2|Ursaluna-Bloodmoon, L50, M|
+|poke|p2|Chi-Yu, L50|
+|teampreview|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tmhjawnjkms114)
+|
+|t:|1740628696
+|start
+|switch|p1a: Glimmora|Glimmora, L50, M|100/100
+|switch|p2a: Ho-Oh|Ho-Oh, L50|100/100
+|turn|1
+|
+|t:|1740628703
+|switch|p2a: Iron Bundle|Iron Bundle, L50|100/100
+|-enditem|p2a: Iron Bundle|Booster Energy
+|-activate|p2a: Iron Bundle|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Bundle|quarkdrivespe
+|move|p1a: Glimmora|Stealth Rock|p2a: Iron Bundle
+|-sidestart|p2: tmhjawnjkms114|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1740628709
+|move|p2a: Iron Bundle|Encore|p1a: Glimmora
+|-start|p1a: Glimmora|Encore
+|move|p1a: Glimmora|Stealth Rock||[still]
+|-fail|p1a: Glimmora
+|
+|upkeep
+|turn|3
+|
+|t:|1740628714
+|switch|p1a: Flutter Mane|Flutter Mane, L50|100/100
+|-enditem|p1a: Flutter Mane|Booster Energy
+|-activate|p1a: Flutter Mane|ability: Protosynthesis|[fromitem]
+|-start|p1a: Flutter Mane|protosynthesisspe
+|move|p2a: Iron Bundle|Substitute|p2a: Iron Bundle
+|-start|p2a: Iron Bundle|Substitute
+|-damage|p2a: Iron Bundle|75/100
+|
+|upkeep
+|turn|4
+|
+|t:|1740628721
+|move|p2a: Iron Bundle|Hydro Pump|p1a: Flutter Mane
+|-damage|p1a: Flutter Mane|47/100
+|move|p1a: Flutter Mane|Moonblast|p2a: Iron Bundle
+|-end|p2a: Iron Bundle|Substitute
+|
+|upkeep
+|turn|5
+|
+|t:|1740628727
+|move|p2a: Iron Bundle|Hydro Pump|p1a: Flutter Mane|[miss]
+|-miss|p2a: Iron Bundle|p1a: Flutter Mane
+|move|p1a: Flutter Mane|Moonblast|p2a: Iron Bundle
+|-damage|p2a: Iron Bundle|0 fnt
+|faint|p2a: Iron Bundle
+|-end|p2a: Iron Bundle|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1740628730
+|switch|p2a: Chien-Pao|Chien-Pao, L50|100/100
+|-damage|p2a: Chien-Pao|75/100|[from] Stealth Rock
+|-ability|p2a: Chien-Pao|Sword of Ruin
+|turn|6
+|
+|t:|1740628735
+|move|p2a: Chien-Pao|Ice Shard|p1a: Flutter Mane
+|-damage|p1a: Flutter Mane|5/100
+|move|p1a: Flutter Mane|Charm|p2a: Chien-Pao
+|-unboost|p2a: Chien-Pao|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1740628740
+|move|p2a: Chien-Pao|Ice Shard|p1a: Flutter Mane
+|-damage|p1a: Flutter Mane|0 fnt
+|faint|p1a: Flutter Mane
+|-end|p1a: Flutter Mane|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1740628743
+|switch|p1a: Miraidon|Miraidon, L50|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|-enditem|p1a: Miraidon|Electric Seed
+|-boost|p1a: Miraidon|def|1|[from] item: Electric Seed
+|turn|8
+|
+|t:|1740628749
+|switch|p2a: Ho-Oh|Ho-Oh, L50|100/100
+|-damage|p2a: Ho-Oh|50/100|[from] Stealth Rock
+|move|p1a: Miraidon|Electro Drift|p2a: Ho-Oh
+|-supereffective|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|0 fnt
+|-damage|p1a: Miraidon|84/100|[from] item: Rocky Helmet|[of] p2a: Ho-Oh
+|faint|p2a: Ho-Oh
+|
+|upkeep
+|
+|t:|1740628751
+|switch|p2a: Chien-Pao|Chien-Pao, L50|75/100
+|-damage|p2a: Chien-Pao|50/100|[from] Stealth Rock
+|-ability|p2a: Chien-Pao|Sword of Ruin
+|turn|9
+|
+|t:|1740628755
+|-terastallize|p2a: Chien-Pao|Stellar
+|-terastallize|p1a: Miraidon|Water
+|move|p2a: Chien-Pao|Ice Shard|p1a: Miraidon
+|-resisted|p1a: Miraidon
+|-damage|p1a: Miraidon|72/100
+|move|p1a: Miraidon|Dragon Pulse|p2a: Chien-Pao
+|-damage|p2a: Chien-Pao|0 fnt
+|faint|p2a: Chien-Pao
+|
+|win|OtaniShohei
+|raw|OtaniShohei's rating: 1457 &rarr; <strong>1471<\/strong><br />(+14 for winning)
+|raw|tmhjawnjkms114's rating: 1353 &rarr; <strong>1339<\/strong><br />(-14 for losing)
+|l|☆tmhjawnjkms114
+|player|p2|
+|l|☆OtaniShohei
+|player|p1|
+|j|☆OtaniShohei
+|player|p1|OtaniShohei|1|
+|l|☆OtaniShohei
+|player|p1|
+
+</script>
+<script type="application/json" class="data" id="replaydata-gen9bssregg-2308725578">
+{"id":"gen9bssregg-2308725578","format":"[Gen 9] BSS Reg G","players":["OtaniShohei","tmhjawnjkms114"],"uploadtime":1740629076,"views":2,"formatid":"gen9bssregg","rating":1339,"private":0,"password":null}
+</script>
+
+<script defer="" src="js/replays.js?dd856472"></script>
+<iframe name="googlefcPresent" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe marginwidth="0" marginheight="0" scrolling="no" frameborder="0" id="195d27460c4ddf" width="0" height="0" src="about:blank" name="__pb_locator__" style="display: none; height: 0px; width: 0px; border: 0px;"></iframe><iframe name="__tcfapiLocator" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="__uspapiLocator" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="__gppLocator" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcInactive" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcLoaded" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe src="https://s.amazon-adsystem.com/iu3?cm3ppd=1&amp;d=dtb-pub&amp;csif=t&amp;dl=n-mediagrid_an-db5" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation allow-presentation" style="display: none;"></iframe><iframe name="google_ads_top_frame" id="google_ads_top_frame" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation allow-presentation" style="display: none; position: fixed; left: -999px; top: -999px; width: 0px; height: 0px;"></iframe><iframe src="https://www.google.com/recaptcha/api2/aframe" width="0" height="0" style="display: none;"></iframe></body><iframe name="goog_topics_frame" src="https://securepubads.g.doubleclick.net/static/topics/topics_frame.html" style="display: none;"></iframe><iframe sandbox="allow-scripts allow-same-origin" id="341da97a8102cb8" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&amp;p=159234">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="359e0632d84191d" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://js-sec.indexww.com/um/ixmatch.html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="3683fdb37dfe295" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&amp;topUrl=replay.pokemonshowdown.com&amp;gpp=#{%22bundle%22:%22e6uzYF9ieDhVY3lFb2F2Y21lVlJZMExQWG1aOGJpJTJGNGp3dE5jdG12aVhZeTh1bXp3TFRBR0VRQjNiNXkxbGtLSnR6QjZqc2M0MVc3WWkxaTZpSFdRaHJpUkFLUGNodExWZGVyNllqOXdWelJMZmtjRUNiYlRybGl6ak5LR1ZvUUhIV29hQ3p5eUptcFZ6V1owQmI5VHFGd05KVHZnT3Y1TGJvbmlNYzN3V0ZQcGRTNCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.9997906191265031%22,%22tld%22:%22replay.pokemonshowdown.com%22,%22topUrl%22:%22replay.pokemonshowdown.com%22,%22version%22:%229_5_0%22}">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="37a37aef65af8f1" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://eb2.3lift.com/sync?">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="388e5c644365ed5" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://acdn.adnxs.com/dmp/async_usersync.html">
+    </iframe></html>

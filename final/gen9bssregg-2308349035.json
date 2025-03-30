@@ -1,0 +1,1128 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308349035",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "Sirius star",
+      "skrllll"
+    ],
+    "uploadtime": 1740587506,
+    "views": 4,
+    "formatid": "gen9bssregg",
+    "rating": 1161,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Eternatus, L50",
+        "species": "Eternatus",
+        "pokebase_info": {
+          "name": "eternatus",
+          "id": 890,
+          "types": [
+            "poison",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 140,
+            "attack": 85,
+            "defense": 95,
+            "special-attack": 145,
+            "special-defense": 95,
+            "speed": 130
+          }
+        }
+      },
+      {
+        "original": "Latias, L50, F",
+        "species": "Latias",
+        "pokebase_info": {
+          "name": "latias",
+          "id": 380,
+          "types": [
+            "dragon",
+            "psychic"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 80,
+            "defense": 90,
+            "special-attack": 110,
+            "special-defense": 130,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Grimmsnarl, L50, M",
+        "species": "Grimmsnarl",
+        "pokebase_info": {
+          "name": "grimmsnarl",
+          "id": 861,
+          "types": [
+            "dark",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 120,
+            "defense": 65,
+            "special-attack": 95,
+            "special-defense": 75,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Skeledirge, L50, F",
+        "species": "Skeledirge",
+        "pokebase_info": {
+          "name": "skeledirge",
+          "id": 911,
+          "types": [
+            "fire",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 104,
+            "attack": 75,
+            "defense": 100,
+            "special-attack": 110,
+            "special-defense": 75,
+            "speed": 66
+          }
+        }
+      },
+      {
+        "original": "Ogerpon, L50, F",
+        "species": "Ogerpon",
+        "pokebase_info": {
+          "name": "ogerpon",
+          "id": 1017,
+          "types": [
+            "grass"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 84,
+            "special-attack": 60,
+            "special-defense": 96,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Primarina, L50, M",
+        "species": "Primarina",
+        "pokebase_info": {
+          "name": "primarina",
+          "id": 730,
+          "types": [
+            "water",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 74,
+            "defense": 74,
+            "special-attack": 126,
+            "special-defense": 116,
+            "speed": 60
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Glimmora, L50, F",
+        "species": "Glimmora",
+        "pokebase_info": {
+          "name": "glimmora",
+          "id": 970,
+          "types": [
+            "rock",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 83,
+            "attack": 55,
+            "defense": 90,
+            "special-attack": 130,
+            "special-defense": 81,
+            "speed": 86
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Lunala, L50",
+        "species": "Lunala",
+        "pokebase_info": {
+          "name": "lunala",
+          "id": 792,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 137,
+            "attack": 113,
+            "defense": 89,
+            "special-attack": 137,
+            "special-defense": 107,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Dragonite, L50, F",
+        "species": "Dragonite",
+        "pokebase_info": {
+          "name": "dragonite",
+          "id": 149,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Scizor, L50, F",
+        "species": "Scizor",
+        "pokebase_info": {
+          "name": "scizor",
+          "id": 212,
+          "types": [
+            "bug",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 65
+          }
+        }
+      },
+      {
+        "original": "Iron Bundle, L50",
+        "species": "Iron Bundle",
+        "pokebase_info": {
+          "name": "iron-bundle",
+          "id": 991,
+          "types": [
+            "ice",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 56,
+            "attack": 80,
+            "defense": 114,
+            "special-attack": 124,
+            "special-defense": 60,
+            "speed": 136
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Skeledirge",
+        "Skeledirge, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Glimmora",
+        "Glimmora, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Glimmora",
+        "Stealth Rock",
+        "p1a: Skeledirge"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Skeledirge",
+        "Encore",
+        "p2a: Glimmora"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Lunala",
+        "Lunala, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Latias",
+        "Latias, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Calm Mind",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Calm Mind",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Calm Mind",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Calm Mind",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Calm Mind",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Calm Mind",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Calm Mind",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Calm Mind",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Calm Mind",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Calm Mind",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Calm Mind",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Calm Mind",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Mist Ball",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moonblast",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Draining Kiss",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moonblast",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Mist Ball",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moonblast",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Draining Kiss",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moongeist Beam",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Draining Kiss",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moongeist Beam",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Calm Mind",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moongeist Beam",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Recover",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moongeist Beam",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Draining Kiss",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moongeist Beam",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Draining Kiss",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moongeist Beam",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 18,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Draining Kiss",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 18,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moongeist Beam",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 19,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Draining Kiss",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 19,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moongeist Beam",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 20,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Recover",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 20,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moonblast",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 21,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Draining Kiss",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 21,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moonlight",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 22,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Draining Kiss",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 22,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moonblast",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 23,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Mist Ball",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 23,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moonblast",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 24,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Draining Kiss",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 24,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moonblast",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 25,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Draining Kiss",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 25,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moonblast",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 26,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Draining Kiss",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 26,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moonblast",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 27,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Draining Kiss",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 27,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Dragonite",
+        "Dragonite, L50, F, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 28,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Draining Kiss",
+        "p2a: Dragonite"
+      ]
+    },
+    {
+      "turn": 28,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Dragonite",
+        "Iron Head",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 29,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Glimmora",
+        "Glimmora, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 29,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Draining Kiss",
+        "p2a: Glimmora"
+      ]
+    },
+    {
+      "turn": 30,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Glimmora",
+        "Power Gem",
+        "p1a: Skeledirge"
+      ]
+    },
+    {
+      "turn": 30,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Latias",
+        "Latias, L50, F, tera:Fairy",
+        "57/100"
+      ]
+    },
+    {
+      "turn": 31,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Latias",
+        "Mist Ball",
+        "p2a: Glimmora"
+      ]
+    },
+    {
+      "turn": 31,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Dragonite",
+        "Dragonite, L50, F, shiny",
+        "35/100"
+      ]
+    },
+    {
+      "turn": 32,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Dragonite",
+        "Extreme Speed",
+        "p1a: Latias"
+      ]
+    },
+    {
+      "turn": 32,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Eternatus",
+        "Eternatus, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 33,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Dragonite",
+        "Extreme Speed",
+        "p1a: Eternatus"
+      ]
+    },
+    {
+      "turn": 33,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Eternatus",
+        "Cosmic Power",
+        "p1a: Eternatus"
+      ]
+    },
+    {
+      "turn": 34,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Dragonite",
+        "Extreme Speed",
+        "p1a: Eternatus"
+      ]
+    },
+    {
+      "turn": 34,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Eternatus",
+        "Recover",
+        "p1a: Eternatus"
+      ]
+    },
+    {
+      "turn": 35,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Dragonite",
+        "Extreme Speed",
+        "p1a: Eternatus"
+      ]
+    },
+    {
+      "turn": 35,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Eternatus",
+        "Recover",
+        "p1a: Eternatus"
+      ]
+    }
+  ],
+  "win": "Sirius star"
+}

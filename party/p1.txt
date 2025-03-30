@@ -1,0 +1,59 @@
+Ho-Oh @ Rocky Helmet  
+Ability: Regenerator  
+Tera Type: Fairy  
+EVs: 252 HP / 236 Def / 20 Spe  
+Impish Nature  
+- Sacred Fire  
+- Will-O-Wisp  
+- Light Screen  
+- Recover
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+Tera Type: Steel  
+EVs: 12 HP / 252 Def / 244 SpD  
+Naive Nature  
+- Seismic Toss  
+- Calm Mind  
+- Stealth Rock  
+- Soft-Boiled
+
+Dondozo @ Leftovers  
+Ability: Unaware
+Tera Type: Fire  
+EVs: 252 HP / 244 Def / 12 Spe
+Impish Nature  
+- Earthquake  
+- Wave Crash
+- Protect  
+- Rest
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+Tera Type: Fairy  
+EVs: 228 HP / 4 Atk / 68 Def / 4 SpD / 204 Spe
+Jolly Nature  
+- Earthquake  
+- Toxic  
+- Substitute  
+- Protect
+
+Corviknight @ Covert Cloak
+Ability: Pressure  
+Tera Type: Ghost  
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature  
+- Iron Head  
+- Taunt  
+- Defog  
+- Roost
+
+Muk-Alola @ Black Sludge
+Ability: Poison Touch
+Tera Type: Poison
+EVs: 252 HP / 4 Def / 252 SpD
+Careful Nature
+- Poison Jab
+- Knock Off
+- Shadow Sneak
+- Protect

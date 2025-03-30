@@ -1,0 +1,432 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308394682",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "Kazunori harada",
+      "25kk"
+    ],
+    "uploadtime": 1740591257,
+    "views": 4,
+    "formatid": "gen9bssregg",
+    "rating": 1077,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Chimecho, L50, M",
+        "species": "Chimecho",
+        "pokebase_info": {
+          "name": "chimecho",
+          "id": 358,
+          "types": [
+            "psychic"
+          ],
+          "base_stats": {
+            "hp": 75,
+            "attack": 50,
+            "defense": 80,
+            "special-attack": 95,
+            "special-defense": 90,
+            "speed": 65
+          }
+        }
+      },
+      {
+        "original": "Golem-Alola, L50, F",
+        "species": "Golem-Alola",
+        "pokebase_info": {
+          "name": "golem-alola",
+          "id": 10111,
+          "types": [
+            "rock",
+            "electric"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 130,
+            "special-attack": 55,
+            "special-defense": 65,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Kyogre, L50",
+        "species": "Kyogre",
+        "pokebase_info": {
+          "name": "kyogre",
+          "id": 382,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 100,
+            "defense": 90,
+            "special-attack": 150,
+            "special-defense": 140,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Basculegion, L50, M",
+        "species": "Basculegion",
+        "pokebase_info": {
+          "name": "basculegion-male",
+          "id": 902,
+          "types": [
+            "water",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 120,
+            "attack": 112,
+            "defense": 65,
+            "special-attack": 80,
+            "special-defense": 75,
+            "speed": 78
+          }
+        }
+      },
+      {
+        "original": "Gliscor, L50, M",
+        "species": "Gliscor",
+        "pokebase_info": {
+          "name": "gliscor",
+          "id": 472,
+          "types": [
+            "ground",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 75,
+            "attack": 95,
+            "defense": 125,
+            "special-attack": 45,
+            "special-defense": 75,
+            "speed": 95
+          }
+        }
+      },
+      {
+        "original": "Pawmot, L50, F",
+        "species": "Pawmot",
+        "pokebase_info": {
+          "name": "pawmot",
+          "id": 923,
+          "types": [
+            "electric",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 115,
+            "defense": 70,
+            "special-attack": 70,
+            "special-defense": 60,
+            "speed": 105
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Miraidon, L50",
+        "species": "Miraidon",
+        "pokebase_info": {
+          "name": "miraidon",
+          "id": 1008,
+          "types": [
+            "electric",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 100,
+            "special-attack": 135,
+            "special-defense": 115,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Iron Moth, L50",
+        "species": "Iron Moth",
+        "pokebase_info": {
+          "name": "iron-moth",
+          "id": 994,
+          "types": [
+            "fire",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 70,
+            "defense": 60,
+            "special-attack": 140,
+            "special-defense": 110,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, M",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Torterra, L50, M",
+        "species": "Torterra",
+        "pokebase_info": {
+          "name": "torterra",
+          "id": 389,
+          "types": [
+            "grass",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 109,
+            "defense": 105,
+            "special-attack": 75,
+            "special-defense": 85,
+            "speed": 56
+          }
+        }
+      },
+      {
+        "original": "Muk-Alola, L50, M",
+        "species": "Muk-Alola",
+        "pokebase_info": {
+          "name": "muk-alola",
+          "id": 10113,
+          "types": [
+            "poison",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 105,
+            "attack": 105,
+            "defense": 75,
+            "special-attack": 65,
+            "special-defense": 100,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Iron Bundle, L50",
+        "species": "Iron Bundle",
+        "pokebase_info": {
+          "name": "iron-bundle",
+          "id": 991,
+          "types": [
+            "ice",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 56,
+            "attack": 80,
+            "defense": 114,
+            "special-attack": 124,
+            "special-defense": 60,
+            "speed": 136
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Gliscor",
+        "Gliscor, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Miraidon",
+        "Miraidon, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Miraidon",
+        "Tera Blast",
+        "p1a: Gliscor",
+        "[anim] Tera Blast Ice"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Kyogre",
+        "Kyogre, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Miraidon",
+        "Electro Drift",
+        "p1a: Kyogre"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Kyogre",
+        "Surf",
+        "p2a: Miraidon"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Miraidon",
+        "Electro Drift",
+        "p1a: Kyogre"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Basculegion",
+        "Basculegion, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Basculegion",
+        "Last Respects",
+        "p2a: Miraidon"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Urshifu",
+        "Urshifu-Rapid-Strike, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Urshifu",
+        "Aqua Jet",
+        "p1a: Basculegion"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Basculegion",
+        "Last Respects",
+        "p2a: Urshifu"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Iron Bundle",
+        "Iron Bundle, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Basculegion",
+        "Last Respects",
+        "p2a: Iron Bundle"
+      ]
+    }
+  ],
+  "win": "Kazunori harada"
+}

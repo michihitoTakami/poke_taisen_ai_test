@@ -1,0 +1,651 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307470722",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "dio brando 6",
+      "Venmu Mobile"
+    ],
+    "uploadtime": 1740479262,
+    "views": 2,
+    "formatid": "gen9bssregg",
+    "rating": 1066,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Breloom, L50, F",
+        "species": "Breloom",
+        "pokebase_info": {
+          "name": "breloom",
+          "id": 286,
+          "types": [
+            "grass",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 60,
+            "attack": 130,
+            "defense": 80,
+            "special-attack": 60,
+            "special-defense": 60,
+            "speed": 70
+          }
+        }
+      },
+      {
+        "original": "Gyarados, L50, F",
+        "species": "Gyarados",
+        "pokebase_info": {
+          "name": "gyarados",
+          "id": 130,
+          "types": [
+            "water",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 125,
+            "defense": 79,
+            "special-attack": 60,
+            "special-defense": 100,
+            "speed": 81
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, F",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Blaziken, L50, M",
+        "species": "Blaziken",
+        "pokebase_info": {
+          "name": "blaziken",
+          "id": 257,
+          "types": [
+            "fire",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 70,
+            "special-attack": 110,
+            "special-defense": 70,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Mamoswine, L50, F",
+        "species": "Mamoswine",
+        "pokebase_info": {
+          "name": "mamoswine",
+          "id": 473,
+          "types": [
+            "ice",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 110,
+            "attack": 130,
+            "defense": 80,
+            "special-attack": 70,
+            "special-defense": 60,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Zacian-*, L50",
+        "species": "Zacian-",
+        "pokebase_info": {
+          "name": "zacian-crowned-sword",
+          "id": 888,
+          "types": [
+            "fairy",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 92,
+            "attack": 150,
+            "defense": 115,
+            "special-attack": 80,
+            "special-defense": 115,
+            "speed": 148
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Zacian-*, L50",
+        "species": "Zacian-",
+        "pokebase_info": {
+          "name": "zacian-crowned-sword",
+          "id": 888,
+          "types": [
+            "fairy",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 92,
+            "attack": 150,
+            "defense": 115,
+            "special-attack": 80,
+            "special-defense": 115,
+            "speed": 148
+          }
+        }
+      },
+      {
+        "original": "Toxapex, L50, F",
+        "species": "Toxapex",
+        "pokebase_info": {
+          "name": "toxapex",
+          "id": 748,
+          "types": [
+            "poison",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 50,
+            "attack": 63,
+            "defense": 152,
+            "special-attack": 53,
+            "special-defense": 142,
+            "speed": 35
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Ursaluna, L50, M",
+        "species": "Ursaluna",
+        "pokebase_info": {
+          "name": "ursaluna",
+          "id": 901,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 130,
+            "attack": 140,
+            "defense": 105,
+            "special-attack": 45,
+            "special-defense": 80,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, M",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Blaziken",
+        "Blaziken, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Flutter Mane",
+        "Flutter Mane, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Charm",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blaziken",
+        "Baton Pass",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Breloom",
+        "Breloom, L50, F",
+        "100/100",
+        "[from] Baton Pass"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Moonblast",
+        "p1a: Breloom"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Blaziken",
+        "Blaziken, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blaziken",
+        "Protect",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Charm",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Charm",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blaziken",
+        "Swords Dance",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blaziken",
+        "Protect",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Charm",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blaziken",
+        "Swords Dance",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Charm",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blaziken",
+        "Swords Dance",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Charm",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blaziken",
+        "Swords Dance",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Charm",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blaziken",
+        "Swords Dance",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Moonblast",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blaziken",
+        "Baton Pass",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Gyarados",
+        "Gyarados, L50, F",
+        "100/100",
+        "[from] Baton Pass"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Charm",
+        "p1a: Gyarados"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Gyarados",
+        "Waterfall",
+        "p2a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Charm",
+        "p1a: Gyarados"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Gyarados",
+        "Waterfall",
+        "p2a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Zacian",
+        "Zacian-Crowned, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Gyarados",
+        "Earthquake",
+        "p2a: Zacian"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Zacian",
+        "Swords Dance",
+        "p2a: Zacian"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Gyarados",
+        "Earthquake",
+        "p2a: Zacian"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Zacian",
+        "Behemoth Blade",
+        "p1a: Gyarados"
+      ]
+    }
+  ],
+  "win": "Venmu Mobile"
+}

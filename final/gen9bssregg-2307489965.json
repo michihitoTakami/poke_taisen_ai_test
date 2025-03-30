@@ -1,0 +1,420 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307489965",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "cosxsinx",
+      "dio brando 6"
+    ],
+    "uploadtime": 1740482162,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1093,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Galvantula, L50, M",
+        "species": "Galvantula",
+        "pokebase_info": {
+          "name": "galvantula",
+          "id": 596,
+          "types": [
+            "bug",
+            "electric"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 77,
+            "defense": 60,
+            "special-attack": 97,
+            "special-defense": 60,
+            "speed": 108
+          }
+        }
+      },
+      {
+        "original": "Kyogre, L50",
+        "species": "Kyogre",
+        "pokebase_info": {
+          "name": "kyogre",
+          "id": 382,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 100,
+            "defense": 90,
+            "special-attack": 150,
+            "special-defense": 140,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Basculegion, L50, M",
+        "species": "Basculegion",
+        "pokebase_info": {
+          "name": "basculegion-male",
+          "id": 902,
+          "types": [
+            "water",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 120,
+            "attack": 112,
+            "defense": 65,
+            "special-attack": 80,
+            "special-defense": 75,
+            "speed": 78
+          }
+        }
+      },
+      {
+        "original": "Dragonite, L50, F",
+        "species": "Dragonite",
+        "pokebase_info": {
+          "name": "dragonite",
+          "id": 149,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Ursaluna, L50, M",
+        "species": "Ursaluna",
+        "pokebase_info": {
+          "name": "ursaluna",
+          "id": 901,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 130,
+            "attack": 140,
+            "defense": 105,
+            "special-attack": 45,
+            "special-defense": 80,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Primarina, L50, M",
+        "species": "Primarina",
+        "pokebase_info": {
+          "name": "primarina",
+          "id": 730,
+          "types": [
+            "water",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 74,
+            "defense": 74,
+            "special-attack": 126,
+            "special-defense": 116,
+            "speed": 60
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Breloom, L50, M",
+        "species": "Breloom",
+        "pokebase_info": {
+          "name": "breloom",
+          "id": 286,
+          "types": [
+            "grass",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 60,
+            "attack": 130,
+            "defense": 80,
+            "special-attack": 60,
+            "special-defense": 60,
+            "speed": 70
+          }
+        }
+      },
+      {
+        "original": "Gyarados, L50, F",
+        "species": "Gyarados",
+        "pokebase_info": {
+          "name": "gyarados",
+          "id": 130,
+          "types": [
+            "water",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 125,
+            "defense": 79,
+            "special-attack": 60,
+            "special-defense": 100,
+            "speed": 81
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, M",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Blaziken, L50, M",
+        "species": "Blaziken",
+        "pokebase_info": {
+          "name": "blaziken",
+          "id": 257,
+          "types": [
+            "fire",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 70,
+            "special-attack": 110,
+            "special-defense": 70,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Mamoswine, L50, F",
+        "species": "Mamoswine",
+        "pokebase_info": {
+          "name": "mamoswine",
+          "id": 473,
+          "types": [
+            "ice",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 110,
+            "attack": 130,
+            "defense": 80,
+            "special-attack": 70,
+            "special-defense": 60,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Zacian-*, L50",
+        "species": "Zacian-",
+        "pokebase_info": {
+          "name": "zacian-crowned-sword",
+          "id": 888,
+          "types": [
+            "fairy",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 92,
+            "attack": 150,
+            "defense": 115,
+            "special-attack": 80,
+            "special-defense": 115,
+            "speed": 148
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Galvantula",
+        "Galvantula, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Blaziken",
+        "Blaziken, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Galvantula",
+        "Thunder Wave",
+        "p2a: Blaziken"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Blaziken",
+        "Flame Charge",
+        "p1a: Galvantula"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Galvantula",
+        "String Shot",
+        "p2a: Blaziken"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Galvantula",
+        "Sticky Web",
+        "p2a: Blaziken"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Blaziken",
+        "Flame Charge",
+        "p1a: Galvantula"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Kyogre",
+        "Kyogre, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Blaziken",
+        "Flame Charge",
+        "p1a: Kyogre"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Kyogre",
+        "Origin Pulse",
+        "p2a: Blaziken"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Kyogre",
+        "Origin Pulse",
+        "p2a: Blaziken"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Breloom",
+        "Breloom, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Kyogre",
+        "Origin Pulse",
+        "p2a: Breloom"
+      ]
+    }
+  ],
+  "win": "cosxsinx"
+}

@@ -1,0 +1,59 @@
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+Tera Type: Fire  
+EVs: 252 HP / 252 Atk / 4 SpA  
+Brave Nature  
+- Poltergeist  
+- Dragon Claw  
+- Draco Meteor  
+- Shadow Sneak  
+
+Iron Hands @ Assault Vest  
+Ability: Quark Drive  
+Tera Type: Electric  
+EVs: 68 HP / 186 Def / 252 Atk  
+Careful Nature  
+- Drain Punch  
+- Thunder Punch  
+- Wild Charge  
+- Fake Out  
+
+Sneasler @ Normal Gem  
+Ability: Unburden  
+Tera Type: Normal  
+EVs: 252 Atk / 44 Def / 212 Spe  
+Adamant Nature  
+- Dire Claw  
+- Close Combat  
+- Acrobatics  
+- Fake Out  
+
+Flutter Mane @ Booster Energy  
+Ability: Protosynthesis  
+Tera Type: Fairy  
+EVs: 184 HP / 252 Def / 72 Spe  
+Bold Nature  
+- Moonblast  
+- Calm Mind  
+- Pain Split  
+- Taunt  
+
+Ting-Lu @ Sitrus Berry  
+Ability: Vessel of Ruin  
+Tera Type: Dark  
+EVs: 244 HP / 60 Def / 196 SpD  
+Impish Nature  
+- Ruination  
+- Spikes  
+- Stealth Rock  
+- Whirlwind  
+
+Heatran @ Leftovers  
+Ability: Flame Body  
+Tera Type: Water  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Body Press  
+- Flash Cannon  
+- Substitute  
+- Iron Defense  

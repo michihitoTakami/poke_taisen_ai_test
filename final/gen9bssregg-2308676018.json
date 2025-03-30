@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308676018",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "Sirius star",
+      "josh31717"
+    ],
+    "uploadtime": 1740622374,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1202,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Eternatus, L50",
+        "species": "Eternatus",
+        "pokebase_info": {
+          "name": "eternatus",
+          "id": 890,
+          "types": [
+            "poison",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 140,
+            "attack": 85,
+            "defense": 95,
+            "special-attack": 145,
+            "special-defense": 95,
+            "speed": 130
+          }
+        }
+      },
+      {
+        "original": "Latias, L50, F",
+        "species": "Latias",
+        "pokebase_info": {
+          "name": "latias",
+          "id": 380,
+          "types": [
+            "dragon",
+            "psychic"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 80,
+            "defense": 90,
+            "special-attack": 110,
+            "special-defense": 130,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Grimmsnarl, L50, M",
+        "species": "Grimmsnarl",
+        "pokebase_info": {
+          "name": "grimmsnarl",
+          "id": 861,
+          "types": [
+            "dark",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 120,
+            "defense": 65,
+            "special-attack": 95,
+            "special-defense": 75,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Skeledirge, L50, F",
+        "species": "Skeledirge",
+        "pokebase_info": {
+          "name": "skeledirge",
+          "id": 911,
+          "types": [
+            "fire",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 104,
+            "attack": 75,
+            "defense": 100,
+            "special-attack": 110,
+            "special-defense": 75,
+            "speed": 66
+          }
+        }
+      },
+      {
+        "original": "Ogerpon, L50, F",
+        "species": "Ogerpon",
+        "pokebase_info": {
+          "name": "ogerpon",
+          "id": 1017,
+          "types": [
+            "grass"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 84,
+            "special-attack": 60,
+            "special-defense": 96,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Primarina, L50, F",
+        "species": "Primarina",
+        "pokebase_info": {
+          "name": "primarina",
+          "id": 730,
+          "types": [
+            "water",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 74,
+            "defense": 74,
+            "special-attack": 126,
+            "special-defense": 116,
+            "speed": 60
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Eternatus, L50",
+        "species": "Eternatus",
+        "pokebase_info": {
+          "name": "eternatus",
+          "id": 890,
+          "types": [
+            "poison",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 140,
+            "attack": 85,
+            "defense": 95,
+            "special-attack": 145,
+            "special-defense": 95,
+            "speed": 130
+          }
+        }
+      },
+      {
+        "original": "Chi-Yu, L50",
+        "species": "Chi-Yu",
+        "pokebase_info": {
+          "name": "chi-yu",
+          "id": 1004,
+          "types": [
+            "dark",
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 80,
+            "defense": 80,
+            "special-attack": 135,
+            "special-defense": 120,
+            "speed": 100
+          }
+        }
+      },
+      {
+        "original": "Dondozo, L50, M",
+        "species": "Dondozo",
+        "pokebase_info": {
+          "name": "dondozo",
+          "id": 977,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 150,
+            "attack": 100,
+            "defense": 115,
+            "special-attack": 65,
+            "special-defense": 65,
+            "speed": 35
+          }
+        }
+      },
+      {
+        "original": "Blissey, L50, F",
+        "species": "Blissey",
+        "pokebase_info": {
+          "name": "blissey",
+          "id": 242,
+          "types": [
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 255,
+            "attack": 10,
+            "defense": 10,
+            "special-attack": 75,
+            "special-defense": 135,
+            "speed": 55
+          }
+        }
+      },
+      {
+        "original": "Great Tusk, L50",
+        "species": "Great Tusk",
+        "pokebase_info": {
+          "name": "great-tusk",
+          "id": 984,
+          "types": [
+            "ground",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 115,
+            "attack": 131,
+            "defense": 131,
+            "special-attack": 53,
+            "special-defense": 53,
+            "speed": 87
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Grimmsnarl",
+        "Grimmsnarl, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Eternatus",
+        "Eternatus, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Grimmsnarl",
+        "Light Screen",
+        "p1a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Cosmic Power",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Grimmsnarl",
+        "Parting Shot",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Skeledirge",
+        "Skeledirge, L50, F",
+        "100/100",
+        "[from] Parting Shot"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Cosmic Power",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Sludge Bomb",
+        "p1a: Skeledirge"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Skeledirge",
+        "Encore",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Chi-Yu",
+        "Chi-Yu, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Skeledirge",
+        "Fire Spin",
+        "p2a: Chi-Yu",
+        "[miss]"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Eternatus",
+        "Eternatus, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Chi-Yu",
+        "Dark Pulse",
+        "p1a: Eternatus"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Blissey",
+        "Blissey, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Eternatus",
+        "Cosmic Power",
+        "p1a: Eternatus"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Eternatus",
+        "Toxic",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Blissey",
+        "Calm Mind",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Chi-Yu",
+        "Chi-Yu, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Eternatus",
+        "Cosmic Power",
+        "p1a: Eternatus"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Eternatus",
+        "Toxic",
+        "p2a: Chi-Yu"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Chi-Yu",
+        "Dark Pulse",
+        "p1a: Eternatus"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Eternatus",
+        "Sludge Bomb",
+        "p2a: Chi-Yu"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Chi-Yu",
+        "Dark Pulse",
+        "p1a: Eternatus"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Eternatus",
+        "Eternatus, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Eternatus",
+        "Sludge Bomb",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Grimmsnarl",
+        "Grimmsnarl, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Cosmic Power",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Grimmsnarl",
+        "Light Screen",
+        "p1a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Sludge Bomb",
+        "p1a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Grimmsnarl",
+        "Parting Shot",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Skeledirge",
+        "Skeledirge, L50, F",
+        "66/100 psn",
+        "[from] Parting Shot"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Meteor Beam",
+        "",
+        "[still]"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Meteor Beam",
+        "p1a: Skeledirge",
+        "[from] lockedmove"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Skeledirge",
+        "Slack Off",
+        "p1a: Skeledirge"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Sludge Bomb",
+        "p1a: Skeledirge"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Skeledirge",
+        "Fire Spin",
+        "p2a: Eternatus"
+      ]
+    }
+  ],
+  "win": "josh31717"
+}

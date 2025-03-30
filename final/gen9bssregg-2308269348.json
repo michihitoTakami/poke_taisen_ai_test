@@ -1,0 +1,543 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308269348",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "rosebud boy",
+      "GHOST_SHlP"
+    ],
+    "uploadtime": 1740579463,
+    "views": 4,
+    "formatid": "gen9bssregg",
+    "rating": 1189,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Venusaur, L50, M",
+        "species": "Venusaur",
+        "pokebase_info": {
+          "name": "venusaur",
+          "id": 3,
+          "types": [
+            "grass",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 82,
+            "defense": 83,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Koraidon, L50",
+        "species": "Koraidon",
+        "pokebase_info": {
+          "name": "koraidon",
+          "id": 1007,
+          "types": [
+            "fighting",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 135,
+            "defense": 115,
+            "special-attack": 85,
+            "special-defense": 100,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Dragonite, L50, F",
+        "species": "Dragonite",
+        "pokebase_info": {
+          "name": "dragonite",
+          "id": 149,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Dragapult, L50, F",
+        "species": "Dragapult",
+        "pokebase_info": {
+          "name": "dragapult",
+          "id": 887,
+          "types": [
+            "dragon",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 88,
+            "attack": 120,
+            "defense": 75,
+            "special-attack": 100,
+            "special-defense": 75,
+            "speed": 142
+          }
+        }
+      },
+      {
+        "original": "Skeledirge, L50, F",
+        "species": "Skeledirge",
+        "pokebase_info": {
+          "name": "skeledirge",
+          "id": 911,
+          "types": [
+            "fire",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 104,
+            "attack": 75,
+            "defense": 100,
+            "special-attack": 110,
+            "special-defense": 75,
+            "speed": 66
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Calyrex-Shadow, L50",
+        "species": "Calyrex-Shadow",
+        "pokebase_info": {
+          "name": "calyrex-shadow",
+          "id": 10194,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 80,
+            "special-attack": 165,
+            "special-defense": 100,
+            "speed": 150
+          }
+        }
+      },
+      {
+        "original": "Landorus-Therian, L50, M",
+        "species": "Landorus-Therian",
+        "pokebase_info": {
+          "name": "landorus-therian",
+          "id": 10021,
+          "types": [
+            "ground",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 89,
+            "attack": 145,
+            "defense": 90,
+            "special-attack": 105,
+            "special-defense": 80,
+            "speed": 91
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, M",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Koraidon",
+        "Koraidon, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Chien-Pao",
+        "Chien-Pao, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Koraidon",
+        "Dragon Claw",
+        "p2a: Chien-Pao"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Chien-Pao",
+        "Icicle Crash",
+        "p1a: Koraidon"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Balenciaga",
+        "Dragonite, L50, F, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Chien-Pao",
+        "Sucker Punch",
+        "",
+        "[still]"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Balenciaga",
+        "Extreme Speed",
+        "p2a: Chien-Pao"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Chien-Pao",
+        "Icicle Crash",
+        "p1a: Balenciaga"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Venusaur",
+        "Venusaur, L50, M, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Flutter Mane",
+        "Flutter Mane, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Venusaur",
+        "Sludge Bomb",
+        "p2a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Pain Split",
+        "p1a: Venusaur"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Venusaur",
+        "Weather Ball",
+        "p2a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Koraidon",
+        "Koraidon, L50",
+        "7/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Pain Split",
+        "p1a: Koraidon"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Koraidon",
+        "U-turn",
+        "p2a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Venusaur",
+        "Venusaur, L50, M, shiny, tera:Fire",
+        "83/100",
+        "[from] U-turn"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Calyrex",
+        "Calyrex-Shadow, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Venusaur",
+        "Sludge Bomb",
+        "p2a: Calyrex"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Astral Barrage",
+        "p1a: Venusaur"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Koraidon",
+        "Koraidon, L50",
+        "9/100"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Koraidon",
+        "Dragon Claw",
+        "p2a: Calyrex"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Tera Blast",
+        "p1a: Koraidon"
+      ]
+    }
+  ],
+  "win": "GHOST_SHlP"
+}

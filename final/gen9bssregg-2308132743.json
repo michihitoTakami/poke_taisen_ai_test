@@ -1,0 +1,407 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308132743",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "SRLIFE_0220",
+      "DGENERAT"
+    ],
+    "uploadtime": 1740558986,
+    "views": 4,
+    "formatid": "gen9bssregg",
+    "rating": 1288,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Zacian-*, L50",
+        "species": "Zacian-",
+        "pokebase_info": {
+          "name": "zacian-crowned-sword",
+          "id": 888,
+          "types": [
+            "fairy",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 92,
+            "attack": 150,
+            "defense": 115,
+            "special-attack": 80,
+            "special-defense": 115,
+            "speed": 148
+          }
+        }
+      },
+      {
+        "original": "Ogerpon, L50, F",
+        "species": "Ogerpon",
+        "pokebase_info": {
+          "name": "ogerpon",
+          "id": 1017,
+          "types": [
+            "grass"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 84,
+            "special-attack": 60,
+            "special-defense": 96,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Chi-Yu, L50",
+        "species": "Chi-Yu",
+        "pokebase_info": {
+          "name": "chi-yu",
+          "id": 1004,
+          "types": [
+            "dark",
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 80,
+            "defense": 80,
+            "special-attack": 135,
+            "special-defense": 120,
+            "speed": 100
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Dragonite, L50, M",
+        "species": "Dragonite",
+        "pokebase_info": {
+          "name": "dragonite",
+          "id": 149,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Kyogre, L50",
+        "species": "Kyogre",
+        "pokebase_info": {
+          "name": "kyogre",
+          "id": 382,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 100,
+            "defense": 90,
+            "special-attack": 150,
+            "special-defense": 140,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Basculegion, L50, M",
+        "species": "Basculegion",
+        "pokebase_info": {
+          "name": "basculegion-male",
+          "id": 902,
+          "types": [
+            "water",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 120,
+            "attack": 112,
+            "defense": 65,
+            "special-attack": 80,
+            "special-defense": 75,
+            "speed": 78
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Archaludon, L50, F",
+        "species": "Archaludon",
+        "pokebase_info": {
+          "name": "archaludon",
+          "id": 1018,
+          "types": [
+            "steel",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 105,
+            "defense": 130,
+            "special-attack": 125,
+            "special-defense": 65,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Dragonite, L50, F",
+        "species": "Dragonite",
+        "pokebase_info": {
+          "name": "dragonite",
+          "id": 149,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Flutter Mane",
+        "Flutter Mane, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Kyogre",
+        "Kyogre, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Moonblast",
+        "p2a: Kyogre"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Kyogre",
+        "Surf",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Pain Split",
+        "p2a: Kyogre"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Kyogre",
+        "Surf",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ogerpon",
+        "Ogerpon, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Archaludon",
+        "Archaludon, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ogerpon",
+        "Swords Dance",
+        "p1a: Ogerpon"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ogerpon",
+        "Superpower",
+        "p2a: Archaludon"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Kyogre",
+        "Kyogre, L50",
+        "68/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ogerpon",
+        "Ivy Cudgel",
+        "p2a: Kyogre"
+      ]
+    }
+  ],
+  "win": "SRLIFE_0220"
+}

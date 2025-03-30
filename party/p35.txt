@@ -1,0 +1,59 @@
+Calyrex-Shadow @ Choice Specs  
+Ability: As One (Spectrier)  
+Tera Type: Grass  
+EVs: 124 HP / 4 Def / 124 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Astral Barrage  
+- Psychic  
+- Tera Blast  
+- Leaf Storm  
+
+Urshifu-Rapid-Strike @ Choice Band  
+Ability: Unseen Fist  
+Tera Type: Water  
+EVs: 60 HP / 236 Atk / 188 Def / 4 SpD / 20 Spe  
+Adamant Nature  
+- Surging Strikes  
+- Close Combat  
+- Ice Spinner  
+- Aqua Jet  
+
+Ogerpon-Cornerstone @ Cornerstone Mask  
+Ability: Sturdy  
+Tera Type: Rock  
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpD / 252 Spe  
+Jolly Nature  
+- Ivy Cudgel  
+- Power Whip  
+- Knock Off  
+- Encore  
+
+Landorus-Therian @ Rocky Helmet  
+Ability: Intimidate  
+Tera Type: Ice  
+EVs: 252 HP / 0 Atk / 252 Def / 4 SpD / 0 Spe  
+Impish Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Stealth Rock  
+
+Alomomola @ Assault Vest  
+Ability: Regenerator  
+Tera Type: Normal  
+EVs: 252 HP / 4 Def / 0 SpA / 252 SpD / 0 Spe  
+Calm Nature  
+- Flip Turn  
+- Icy Wind  
+- Aqua Jet  
+- Mirror Coat  
+
+Ting-Lu @ Leftovers  
+Ability: Vessel of Ruin  
+Tera Type: Electric  
+EVs: 212 HP / 0 Atk / 44 Def / 0 SpA / 252 SpD  
+Careful Nature  
+- Fissure  
+- Stealth Rock  
+- Rest  
+- Whirlwind  

@@ -1,0 +1,448 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307967716",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "Arodplays",
+      "MlDTlERGOD"
+    ],
+    "uploadtime": 1740533183,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1066,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Blaziken, L50, F",
+        "species": "Blaziken",
+        "pokebase_info": {
+          "name": "blaziken",
+          "id": 257,
+          "types": [
+            "fire",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 70,
+            "special-attack": 110,
+            "special-defense": 70,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Iron Hands, L50",
+        "species": "Iron Hands",
+        "pokebase_info": {
+          "name": "iron-hands",
+          "id": 992,
+          "types": [
+            "fighting",
+            "electric"
+          ],
+          "base_stats": {
+            "hp": 154,
+            "attack": 140,
+            "defense": 108,
+            "special-attack": 50,
+            "special-defense": 68,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Cresselia, L50, F",
+        "species": "Cresselia",
+        "pokebase_info": {
+          "name": "cresselia",
+          "id": 488,
+          "types": [
+            "psychic"
+          ],
+          "base_stats": {
+            "hp": 120,
+            "attack": 70,
+            "defense": 110,
+            "special-attack": 75,
+            "special-defense": 120,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Dragonite, L50, M",
+        "species": "Dragonite",
+        "pokebase_info": {
+          "name": "dragonite",
+          "id": 149,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Umbreon, L50, M",
+        "species": "Umbreon",
+        "pokebase_info": {
+          "name": "umbreon",
+          "id": 197,
+          "types": [
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 65,
+            "defense": 110,
+            "special-attack": 60,
+            "special-defense": 130,
+            "speed": 65
+          }
+        }
+      },
+      {
+        "original": "Rotom-Wash, L50",
+        "species": "Rotom-Wash",
+        "pokebase_info": {
+          "name": "rotom-wash",
+          "id": 10009,
+          "types": [
+            "electric",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 50,
+            "attack": 65,
+            "defense": 107,
+            "special-attack": 105,
+            "special-defense": 107,
+            "speed": 86
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Kyogre, L50",
+        "species": "Kyogre",
+        "pokebase_info": {
+          "name": "kyogre",
+          "id": 382,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 100,
+            "defense": 90,
+            "special-attack": 150,
+            "special-defense": 140,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Archaludon, L50, F",
+        "species": "Archaludon",
+        "pokebase_info": {
+          "name": "archaludon",
+          "id": 1018,
+          "types": [
+            "steel",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 105,
+            "defense": 130,
+            "special-attack": 125,
+            "special-defense": 65,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Chi-Yu, L50",
+        "species": "Chi-Yu",
+        "pokebase_info": {
+          "name": "chi-yu",
+          "id": 1004,
+          "types": [
+            "dark",
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 80,
+            "defense": 80,
+            "special-attack": 135,
+            "special-defense": 120,
+            "speed": 100
+          }
+        }
+      },
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Umbreon",
+        "Umbreon, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Kyogre",
+        "Kyogre, L50, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Kyogre",
+        "Origin Pulse",
+        "p1a: Umbreon",
+        "[miss]"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Umbreon",
+        "Toxic",
+        "p2a: Kyogre",
+        "[miss]"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Kyogre",
+        "Origin Pulse",
+        "p1a: Umbreon"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Umbreon",
+        "Toxic",
+        "p2a: Kyogre"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Umbreon",
+        "Protect",
+        "p1a: Umbreon"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Kyogre",
+        "Origin Pulse",
+        "p1a: Umbreon"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Rotom",
+        "Rotom-Wash, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Kyogre",
+        "Origin Pulse",
+        "p1a: Rotom"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Kyogre",
+        "Origin Pulse",
+        "p1a: Rotom"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Cresselia",
+        "Cresselia, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Kyogre",
+        "Thunder Wave",
+        "p1a: Cresselia"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Cresselia",
+        "Calm Mind",
+        "p1a: Cresselia"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Kyogre",
+        "Origin Pulse",
+        "p1a: Cresselia"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Archaludon",
+        "Archaludon, L50, F, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Umbreon",
+        "Umbreon, L50, M",
+        "27/100"
+      ]
+    }
+  ],
+  "win": "MlDTlERGOD"
+}

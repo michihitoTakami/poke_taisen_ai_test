@@ -1,0 +1,638 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307867961",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "viewpoke123",
+      "diggersboy660"
+    ],
+    "uploadtime": 1740521467,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1162,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Miraidon, L50",
+        "species": "Miraidon",
+        "pokebase_info": {
+          "name": "miraidon",
+          "id": 1008,
+          "types": [
+            "electric",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 100,
+            "special-attack": 135,
+            "special-defense": 115,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Scizor, L50, F",
+        "species": "Scizor",
+        "pokebase_info": {
+          "name": "scizor",
+          "id": 212,
+          "types": [
+            "bug",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 65
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Dragonite, L50, F",
+        "species": "Dragonite",
+        "pokebase_info": {
+          "name": "dragonite",
+          "id": 149,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Iron Bundle, L50",
+        "species": "Iron Bundle",
+        "pokebase_info": {
+          "name": "iron-bundle",
+          "id": 991,
+          "types": [
+            "ice",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 56,
+            "attack": 80,
+            "defense": 114,
+            "special-attack": 124,
+            "special-defense": 60,
+            "speed": 136
+          }
+        }
+      },
+      {
+        "original": "Mimikyu, L50, M",
+        "species": "Mimikyu",
+        "pokebase_info": {
+          "name": "mimikyu-disguised",
+          "id": 778,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 90,
+            "defense": 80,
+            "special-attack": 50,
+            "special-defense": 105,
+            "speed": 96
+          }
+        }
+      },
+      {
+        "original": "Uxie, L50",
+        "species": "Uxie",
+        "pokebase_info": {
+          "name": "uxie",
+          "id": 480,
+          "types": [
+            "psychic"
+          ],
+          "base_stats": {
+            "hp": 75,
+            "attack": 75,
+            "defense": 130,
+            "special-attack": 75,
+            "special-defense": 130,
+            "speed": 95
+          }
+        }
+      },
+      {
+        "original": "Gyarados, L50, F",
+        "species": "Gyarados",
+        "pokebase_info": {
+          "name": "gyarados",
+          "id": 130,
+          "types": [
+            "water",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 125,
+            "defense": 79,
+            "special-attack": 60,
+            "special-defense": 100,
+            "speed": 81
+          }
+        }
+      },
+      {
+        "original": "Calyrex-Shadow, L50",
+        "species": "Calyrex-Shadow",
+        "pokebase_info": {
+          "name": "calyrex-shadow",
+          "id": 10194,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 80,
+            "special-attack": 165,
+            "special-defense": 100,
+            "speed": 150
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ting-Lu",
+        "Ting-Lu, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Uxie",
+        "Uxie, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Uxie",
+        "Stealth Rock",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Stealth Rock",
+        "p2a: Uxie"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Uxie",
+        "Encore",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Stealth Rock",
+        "",
+        "[still]"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Scizor",
+        "Scizor, L50, F, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Uxie",
+        "Knock Off",
+        "p1a: Scizor"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Uxie",
+        "Thunder Wave",
+        "p1a: Scizor",
+        "[miss]"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Scizor",
+        "Swords Dance",
+        "p1a: Scizor"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Scizor",
+        "Bullet Punch",
+        "p2a: Uxie"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Uxie",
+        "Encore",
+        "p1a: Scizor"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Scizor",
+        "Bullet Punch",
+        "p2a: Uxie"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Gyarados",
+        "Gyarados, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Scizor",
+        "Bullet Punch",
+        "p2a: Gyarados"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Gyarados",
+        "Waterfall",
+        "p1a: Scizor"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Scizor",
+        "Bullet Punch",
+        "p2a: Gyarados"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Gyarados",
+        "Waterfall",
+        "p1a: Scizor"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ting-Lu",
+        "Ting-Lu, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Gyarados",
+        "Waterfall",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Gyarados",
+        "Waterfall",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Spikes",
+        "p2a: Gyarados"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Gyarados",
+        "Dragon Dance",
+        "p2a: Gyarados"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Spikes",
+        "p2a: Gyarados"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Gyarados",
+        "Waterfall",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Miraidon",
+        "Miraidon, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Gyarados",
+        "Earthquake",
+        "p1a: Miraidon"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Miraidon",
+        "Agility",
+        "p1a: Miraidon"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Miraidon",
+        "Dragon Pulse",
+        "p2a: Gyarados"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Calyrex",
+        "Calyrex-Shadow, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Miraidon",
+        "Electro Drift",
+        "p2a: Calyrex"
+      ]
+    }
+  ],
+  "win": "viewpoke123"
+}

@@ -1,0 +1,56 @@
+Lugia @ Leftovers  
+Ability: Multiscale  
+Tera Type: Psychic  
+EVs: 236 HP / 0 Atk / 204 Def / 0 SpA / 0 SpD / 68 Spe  
+Bold Nature  
+- Aeroblast  
+- Psychic Noise  
+- Calm Mind  
+- Recover  
+
+Ting-Lu @ Assault Vest  
+Ability: Vessel of Ruin  
+Tera Type: Dark  
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe  
+Adamant Nature  
+- Earthquake  
+- Payback  
+- Tera Blast  
+- Ruination  
+
+Dondozo @ Rocky Helmet  
+Ability: Unaware  
+Tera Type: Water  
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe  
+Impish Nature  
+- Wave Crash  
+- Earthquake  
+- Curse  
+- Rest  
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Tera Type: Ice  
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe  
+Jolly Nature  
+- Icicle Crash  
+- Sacred Sword  
+- Sheer Cold  
+- Ice Shard  
+
+Glimmora @ Red Card  
+Ability: Toxic Debris  
+Tera Type: Rock  
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 4 Spe  
+Bold Nature  
+- Power Gem  
+- Earth Power  
+- Mortal Spin  
+- Stealth Rock  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Tera Type: Normal  
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+Serious Nature  
+- Transform  

@@ -1,0 +1,60 @@
+Eternatus @ Leftovers  
+Ability: Pressure  
+Tera Type: Fire  
+EVs: 76 HP / 4 Def / 244 SpA / 4 SpD / 180 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Substitute  
+- Flamethrower  
+- Dynamax Cannon  
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Tera Type: Ice  
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe  
+Jolly Nature  
+- Icicle Crash  
+- Ice Shard  
+- Psycho Fangs  
+- Swords Dance  
+
+Dondozo @ Rocky Helmet  
+Ability: Unaware  
+Tera Type: Poison  
+EVs: 252 HP / 0 Atk / 196 Def / 0 SpA / 60 SpD / 0 Spe  
+Impish Nature  
+- Avalanche  
+- Earthquake  
+- Rest  
+- Sleep Talk  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+Tera Type: Dark  
+EVs: 228 HP / 4 Atk / 20 Def / 0 SpA / 252 SpD / 4 Spe  
+Careful Nature  
+- Knock Off  
+- Taunt  
+- Protect  
+- Toxic  
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Tera Type: Fire  
+EVs: 140 HP / 116 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe  
+Adamant Nature  
+- Drum Beating  
+- Grassy Glide  
+- Knock Off  
+- U-turn  
+
+Ting-Lu @ Sitrus Berry  
+Ability: Vessel of Ruin  
+Tera Type: Poison  
+EVs: 212 HP / 4 Atk / 116 Def / 0 SpA / 172 SpD / 4 Spe  
+Careful Nature  
+- Spikes  
+- Stealth Rock  
+- Earthquake  
+- Whirlwind  

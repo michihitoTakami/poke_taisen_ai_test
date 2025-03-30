@@ -1,0 +1,59 @@
+Kyogre @ Jaboca Berry  
+Ability: Drizzle  
+Tera Type: Grass  
+EVs: 252 HP / 220 Def / 4 SpA / 28 SpD  
+Relaxed Nature  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+Urshifu-Rapid-Strike @ Focus Sash  
+Ability: Unseen Fist  
+Tera Type: Stellar  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- Ice Spinner  
+
+Chien-Pao @ Life Orb  
+Ability: Sword of Ruin  
+Tera Type: Stellar  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Icicle Crash  
+- Ice Shard  
+- Sucker Punch  
+- Swords Dance  
+
+Flutter Mane @ Booster Energy  
+Ability: Protosynthesis  
+Tera Type: Poison  
+EVs: 228 HP / 244 Def / 4 SpA / 4 SpD / 28 Spe  
+Bold Nature  
+- Moonblast  
+- Mystical Fire  
+- Calm Mind  
+- Pain Split  
+
+Dragonite @ Choice Band  
+Ability: Multiscale  
+Tera Type: Normal  
+EVs: 148 HP / 252 Atk / 108 Spe  
+Adamant Nature  
+- Outrage  
+- Extreme Speed  
+- Facade  
+- Earthquake  
+
+Ting-Lu @ Assault Vest  
+Ability: Vessel of Ruin  
+Tera Type: Steel  
+EVs: 68 HP / 188 Atk / 252 SpD  
+Adamant Nature  
+- Earthquake  
+- Ruination  
+- Payback  
+- Fissure  

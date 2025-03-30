@@ -1,0 +1,873 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308253371",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "Z0R0ARK-N",
+      "beginner0323"
+    ],
+    "uploadtime": 1740577555,
+    "views": 4,
+    "formatid": "gen9bssregg",
+    "rating": 1243,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Calyrex-Shadow, L50",
+        "species": "Calyrex-Shadow",
+        "pokebase_info": {
+          "name": "calyrex-shadow",
+          "id": 10194,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 80,
+            "special-attack": 165,
+            "special-defense": 100,
+            "speed": 150
+          }
+        }
+      },
+      {
+        "original": "Indeedee, L50, M",
+        "species": "Indeedee",
+        "pokebase_info": {
+          "name": "indeedee-male",
+          "id": 876,
+          "types": [
+            "psychic",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 60,
+            "attack": 65,
+            "defense": 55,
+            "special-attack": 105,
+            "special-defense": 95,
+            "speed": 95
+          }
+        }
+      },
+      {
+        "original": "Roaring Moon, L50",
+        "species": "Roaring Moon",
+        "pokebase_info": {
+          "name": "roaring-moon",
+          "id": 1005,
+          "types": [
+            "dragon",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 105,
+            "attack": 139,
+            "defense": 71,
+            "special-attack": 55,
+            "special-defense": 101,
+            "speed": 119
+          }
+        }
+      },
+      {
+        "original": "Iron Valiant, L50",
+        "species": "Iron Valiant",
+        "pokebase_info": {
+          "name": "iron-valiant",
+          "id": 1006,
+          "types": [
+            "fairy",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 74,
+            "attack": 130,
+            "defense": 90,
+            "special-attack": 120,
+            "special-defense": 60,
+            "speed": 116
+          }
+        }
+      },
+      {
+        "original": "Magnezone, L50",
+        "species": "Magnezone",
+        "pokebase_info": {
+          "name": "magnezone",
+          "id": 462,
+          "types": [
+            "electric",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 70,
+            "defense": 115,
+            "special-attack": 130,
+            "special-defense": 90,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Landorus, L50, M",
+        "species": "Landorus",
+        "pokebase_info": {}
+      }
+    ],
+    "p2": [
+      {
+        "original": "Eternatus, L50",
+        "species": "Eternatus",
+        "pokebase_info": {
+          "name": "eternatus",
+          "id": 890,
+          "types": [
+            "poison",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 140,
+            "attack": 85,
+            "defense": 95,
+            "special-attack": 145,
+            "special-defense": 95,
+            "speed": 130
+          }
+        }
+      },
+      {
+        "original": "Cresselia, L50, F",
+        "species": "Cresselia",
+        "pokebase_info": {
+          "name": "cresselia",
+          "id": 488,
+          "types": [
+            "psychic"
+          ],
+          "base_stats": {
+            "hp": 120,
+            "attack": 70,
+            "defense": 110,
+            "special-attack": 75,
+            "special-defense": 120,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Skeledirge, L50, F",
+        "species": "Skeledirge",
+        "pokebase_info": {
+          "name": "skeledirge",
+          "id": 911,
+          "types": [
+            "fire",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 104,
+            "attack": 75,
+            "defense": 100,
+            "special-attack": 110,
+            "special-defense": 75,
+            "speed": 66
+          }
+        }
+      },
+      {
+        "original": "Clodsire, L50, F",
+        "species": "Clodsire",
+        "pokebase_info": {
+          "name": "clodsire",
+          "id": 980,
+          "types": [
+            "poison",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 130,
+            "attack": 75,
+            "defense": 60,
+            "special-attack": 45,
+            "special-defense": 100,
+            "speed": 20
+          }
+        }
+      },
+      {
+        "original": "Scizor, L50, F",
+        "species": "Scizor",
+        "pokebase_info": {
+          "name": "scizor",
+          "id": 212,
+          "types": [
+            "bug",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 65
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Indeedee",
+        "Indeedee, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ting-Lu",
+        "Ting-Lu, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Indeedee",
+        "Trick",
+        "p2a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ting-Lu",
+        "Stealth Rock",
+        "p1a: Indeedee"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Cresselia",
+        "Cresselia, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Indeedee",
+        "Expanding Force",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Indeedee",
+        "Expanding Force",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Cresselia",
+        "Calm Mind",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Indeedee",
+        "Dazzling Gleam",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Cresselia",
+        "Moonlight",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Roaring Moon",
+        "Roaring Moon, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Cresselia",
+        "Calm Mind",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ting-Lu",
+        "Ting-Lu, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Roaring Moon",
+        "Dragon Dance",
+        "p1a: Roaring Moon"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Roaring Moon",
+        "Acrobatics",
+        "p2a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ting-Lu",
+        "Whirlwind",
+        "p1a: Roaring Moon"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Cresselia",
+        "Cresselia, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Indeedee",
+        "Dazzling Gleam",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Calyrex",
+        "Calyrex-Shadow, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Eternatus",
+        "Eternatus, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ting-Lu",
+        "Ting-Lu, L50",
+        "40/100"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Expanding Force",
+        "p2a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Energy Ball",
+        "p2a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ting-Lu",
+        "Whirlwind",
+        "p1a: Calyrex"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Roaring Moon",
+        "Dragon Dance",
+        "p1a: Roaring Moon"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ting-Lu",
+        "Whirlwind",
+        "p1a: Roaring Moon"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Indeedee",
+        "Dazzling Gleam",
+        "p2a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Cresselia",
+        "Cresselia, L50, F",
+        "86/100"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Roaring Moon",
+        "Roaring Moon, L50, tera:Flying",
+        "63/100"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Cresselia",
+        "Calm Mind",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Roaring Moon",
+        "Knock Off",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Cresselia",
+        "Calm Mind",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Roaring Moon",
+        "Dragon Dance",
+        "p1a: Roaring Moon"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Cresselia",
+        "Moonlight",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Roaring Moon",
+        "Knock Off",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Cresselia",
+        "Stored Power",
+        "p1a: Roaring Moon"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Calyrex",
+        "Calyrex-Shadow, L50",
+        "88/100"
+      ]
+    },
+    {
+      "turn": 18,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Nasty Plot",
+        "p1a: Calyrex"
+      ]
+    },
+    {
+      "turn": 18,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Cresselia",
+        "Moonlight",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 19,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Astral Barrage",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 19,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Cresselia",
+        "Calm Mind",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 20,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Nasty Plot",
+        "p1a: Calyrex"
+      ]
+    },
+    {
+      "turn": 20,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Cresselia",
+        "Calm Mind",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 21,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Astral Barrage",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 21,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Cresselia",
+        "Moonlight",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 22,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Astral Barrage",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 22,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Cresselia",
+        "Moonlight",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 23,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Nasty Plot",
+        "p1a: Calyrex"
+      ]
+    },
+    {
+      "turn": 23,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Cresselia",
+        "Moonlight",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 24,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Astral Barrage",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 24,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Cresselia",
+        "Calm Mind",
+        "p2a: Cresselia"
+      ]
+    },
+    {
+      "turn": 25,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Astral Barrage",
+        "p2a: Cresselia"
+      ]
+    }
+  ],
+  "win": "Z0R0ARK-N"
+}

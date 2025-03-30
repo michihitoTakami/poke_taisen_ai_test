@@ -1,0 +1,60 @@
+Miraidon @ Electric Seed  
+Ability: Hadron Engine  
+Tera Type: Water  
+EVs: 124 HP / 0 Atk / 12 Def / 252 SpA / 4 SpD / 116 Spe  
+Modest Nature  
+- Electro Drift  
+- Dragon Pulse  
+- Tera Blast  
+- Agility  
+
+Iron Treads @ Booster Energy  
+Ability: Quark Drive  
+Tera Type: Ghost  
+EVs: 204 HP / 4 Atk / 84 Def / 0 SpA / 4 SpD / 212 Spe  
+Jolly Nature  
+- Bulldoze  
+- Stealth Rock  
+- Endeavor  
+- Rapid Spin  
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Tera Type: Electric  
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe  
+Adamant Nature  
+- Icicle Crash  
+- Tera Blast  
+- Sucker Punch  
+- Swords Dance  
+
+Scizor @ Sitrus Berry  
+Ability: Technician  
+Tera Type: Normal  
+EVs: 244 HP / 36 Atk / 116 Def / 0 SpA / 100 SpD / 12 Spe  
+Adamant Nature  
+- Knock Off  
+- Close Combat  
+- Bullet Punch  
+- Swords Dance  
+
+Dragonite @ Loaded Dice  
+Ability: Inner Focus  
+Tera Type: Steel  
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe  
+Adamant Nature  
+- Scale Shot  
+- Iron Head  
+- Encore  
+- Dragon Dance  
+
+Mimikyu @ Custap Berry  
+Ability: Disguise  
+Tera Type: Ghost  
+EVs: 4 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Curse  
+- Substitute  
+- Destiny Bond  
+- Pain Split  

@@ -1,0 +1,445 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308697972",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "aeger4321",
+      "diggersboy660"
+    ],
+    "uploadtime": 1740624975,
+    "views": 5,
+    "formatid": "gen9bssregg",
+    "rating": 1192,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Miraidon, L50",
+        "species": "Miraidon",
+        "pokebase_info": {
+          "name": "miraidon",
+          "id": 1008,
+          "types": [
+            "electric",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 100,
+            "special-attack": 135,
+            "special-defense": 115,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Gliscor, L50, M",
+        "species": "Gliscor",
+        "pokebase_info": {
+          "name": "gliscor",
+          "id": 472,
+          "types": [
+            "ground",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 75,
+            "attack": 95,
+            "defense": 125,
+            "special-attack": 45,
+            "special-defense": 75,
+            "speed": 95
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Great Tusk, L50",
+        "species": "Great Tusk",
+        "pokebase_info": {
+          "name": "great-tusk",
+          "id": 984,
+          "types": [
+            "ground",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 115,
+            "attack": 131,
+            "defense": 131,
+            "special-attack": 53,
+            "special-defense": 53,
+            "speed": 87
+          }
+        }
+      },
+      {
+        "original": "Kingambit, L50, F",
+        "species": "Kingambit",
+        "pokebase_info": {
+          "name": "kingambit",
+          "id": 983,
+          "types": [
+            "dark",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 135,
+            "defense": 120,
+            "special-attack": 60,
+            "special-defense": 85,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Meowscarada, L50, F",
+        "species": "Meowscarada",
+        "pokebase_info": {
+          "name": "meowscarada",
+          "id": 908,
+          "types": [
+            "grass",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 76,
+            "attack": 110,
+            "defense": 70,
+            "special-attack": 81,
+            "special-defense": 70,
+            "speed": 123
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Mimikyu, L50, F",
+        "species": "Mimikyu",
+        "pokebase_info": {
+          "name": "mimikyu-disguised",
+          "id": 778,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 90,
+            "defense": 80,
+            "special-attack": 50,
+            "special-defense": 105,
+            "speed": 96
+          }
+        }
+      },
+      {
+        "original": "Ribombee, L50, M",
+        "species": "Ribombee",
+        "pokebase_info": {
+          "name": "ribombee",
+          "id": 743,
+          "types": [
+            "bug",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 60,
+            "attack": 55,
+            "defense": 60,
+            "special-attack": 95,
+            "special-defense": 70,
+            "speed": 124
+          }
+        }
+      },
+      {
+        "original": "Lunala, L50",
+        "species": "Lunala",
+        "pokebase_info": {
+          "name": "lunala",
+          "id": 792,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 137,
+            "attack": 113,
+            "defense": 89,
+            "special-attack": 137,
+            "special-defense": 107,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, M",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Garchomp, L50, F",
+        "species": "Garchomp",
+        "pokebase_info": {
+          "name": "garchomp",
+          "id": 445,
+          "types": [
+            "dragon",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 108,
+            "attack": 130,
+            "defense": 95,
+            "special-attack": 80,
+            "special-defense": 85,
+            "speed": 102
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Gay",
+        "Gliscor, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ribombee",
+        "Ribombee, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Miraidon",
+        "Miraidon, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ribombee",
+        "Sticky Web",
+        "p1a: Miraidon"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Miraidon",
+        "Overheat",
+        "p2a: Ribombee"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ribombee",
+        "Moonblast",
+        "p1a: Miraidon"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Miraidon",
+        "Overheat",
+        "p2a: Ribombee"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Lunala",
+        "Lunala, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Miraidon",
+        "Overheat",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Calm Mind",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Kingambit",
+        "Kingambit, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Calm Mind",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moonblast",
+        "p1a: Kingambit"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Kingambit",
+        "Kowtow Cleave",
+        "p2a: Lunala"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lunala",
+        "Moongeist Beam",
+        "p1a: Kingambit"
+      ]
+    }
+  ],
+  "win": "diggersboy660"
+}

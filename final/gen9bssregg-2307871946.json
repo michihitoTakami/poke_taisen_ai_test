@@ -1,0 +1,596 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307871946",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "gyara5",
+      "josh31717"
+    ],
+    "uploadtime": 1740521896,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1081,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Terapagos, L50, M",
+        "species": "Terapagos",
+        "pokebase_info": {
+          "name": "terapagos",
+          "id": 1024,
+          "types": [
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 65,
+            "defense": 85,
+            "special-attack": 65,
+            "special-defense": 85,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      },
+      {
+        "original": "Dragonite, L50, F",
+        "species": "Dragonite",
+        "pokebase_info": {
+          "name": "dragonite",
+          "id": 149,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Mimikyu, L50, M",
+        "species": "Mimikyu",
+        "pokebase_info": {
+          "name": "mimikyu-disguised",
+          "id": 778,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 90,
+            "defense": 80,
+            "special-attack": 50,
+            "special-defense": 105,
+            "speed": 96
+          }
+        }
+      },
+      {
+        "original": "Ogerpon-Hearthflame, L50, F",
+        "species": "Ogerpon-Hearthflame",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Latias, L50, F",
+        "species": "Latias",
+        "pokebase_info": {
+          "name": "latias",
+          "id": 380,
+          "types": [
+            "dragon",
+            "psychic"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 80,
+            "defense": 90,
+            "special-attack": 110,
+            "special-defense": 130,
+            "speed": 110
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Eternatus, L50",
+        "species": "Eternatus",
+        "pokebase_info": {
+          "name": "eternatus",
+          "id": 890,
+          "types": [
+            "poison",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 140,
+            "attack": 85,
+            "defense": 95,
+            "special-attack": 145,
+            "special-defense": 95,
+            "speed": 130
+          }
+        }
+      },
+      {
+        "original": "Chi-Yu, L50",
+        "species": "Chi-Yu",
+        "pokebase_info": {
+          "name": "chi-yu",
+          "id": 1004,
+          "types": [
+            "dark",
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 80,
+            "defense": 80,
+            "special-attack": 135,
+            "special-defense": 120,
+            "speed": 100
+          }
+        }
+      },
+      {
+        "original": "Dondozo, L50, F",
+        "species": "Dondozo",
+        "pokebase_info": {
+          "name": "dondozo",
+          "id": 977,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 150,
+            "attack": 100,
+            "defense": 115,
+            "special-attack": 65,
+            "special-defense": 65,
+            "speed": 35
+          }
+        }
+      },
+      {
+        "original": "Blissey, L50, F",
+        "species": "Blissey",
+        "pokebase_info": {
+          "name": "blissey",
+          "id": 242,
+          "types": [
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 255,
+            "attack": 10,
+            "defense": 10,
+            "special-attack": 75,
+            "special-defense": 135,
+            "speed": 55
+          }
+        }
+      },
+      {
+        "original": "Azumarill, L50, M",
+        "species": "Azumarill",
+        "pokebase_info": {
+          "name": "azumarill",
+          "id": 184,
+          "types": [
+            "water",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 50,
+            "defense": 80,
+            "special-attack": 60,
+            "special-defense": 80,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ursaluna",
+        "Ursaluna-Bloodmoon, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Eternatus",
+        "Eternatus, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Blissey",
+        "Blissey, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Yawn",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Blissey",
+        "Calm Mind",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Blood Moon",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Mimikyu",
+        "Mimikyu, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Mimikyu",
+        "Curse",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Dondozo",
+        "Dondozo, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Mimikyu",
+        "Play Rough",
+        "p2a: Dondozo"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Mimikyu",
+        "Curse",
+        "p2a: Dondozo"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Dondozo",
+        "Avalanche",
+        "p1: Mimikyu",
+        "[notarget]"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ursaluna",
+        "Ursaluna-Bloodmoon, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Blissey",
+        "Blissey, L50, F",
+        "62/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Blood Moon",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Blissey",
+        "Calm Mind",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Yawn",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Vacuum Wave",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Blissey",
+        "Soft-Boiled",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Vacuum Wave",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Blissey",
+        "Defense Curl",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Blood Moon",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Blissey",
+        "Calm Mind",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Yawn",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Blissey",
+        "Soft-Boiled",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Blood Moon",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Vacuum Wave",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Blissey",
+        "Calm Mind",
+        "p2a: Blissey"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Blood Moon",
+        "p2a: Blissey"
+      ]
+    }
+  ],
+  "win": "josh31717"
+}

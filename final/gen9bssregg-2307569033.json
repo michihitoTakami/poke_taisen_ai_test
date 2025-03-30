@@ -1,0 +1,678 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307569033",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "skrllll",
+      "lllokelll"
+    ],
+    "uploadtime": 1740492966,
+    "views": 10,
+    "formatid": "gen9bssregg",
+    "rating": 1098,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Glimmora, L50, F",
+        "species": "Glimmora",
+        "pokebase_info": {
+          "name": "glimmora",
+          "id": 970,
+          "types": [
+            "rock",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 83,
+            "attack": 55,
+            "defense": 90,
+            "special-attack": 130,
+            "special-defense": 81,
+            "speed": 86
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Lunala, L50",
+        "species": "Lunala",
+        "pokebase_info": {
+          "name": "lunala",
+          "id": 792,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 137,
+            "attack": 113,
+            "defense": 89,
+            "special-attack": 137,
+            "special-defense": 107,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Ogerpon-Hearthflame, L50, F",
+        "species": "Ogerpon-Hearthflame",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Urshifu-*, L50, M",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Dragonite, L50, F",
+        "species": "Dragonite",
+        "pokebase_info": {
+          "name": "dragonite",
+          "id": 149,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Samurott-Hisui, L50, M",
+        "species": "Samurott-Hisui",
+        "pokebase_info": {
+          "name": "samurott-hisui",
+          "id": 10236,
+          "types": [
+            "water",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 108,
+            "defense": 80,
+            "special-attack": 100,
+            "special-defense": 65,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Giratina, L50",
+        "species": "Giratina",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Weezing-Galar, L50, M",
+        "species": "Weezing-Galar",
+        "pokebase_info": {
+          "name": "weezing-galar",
+          "id": 10167,
+          "types": [
+            "poison",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 120,
+            "special-attack": 85,
+            "special-defense": 70,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Clefable, L50, M",
+        "species": "Clefable",
+        "pokebase_info": {
+          "name": "clefable",
+          "id": 36,
+          "types": [
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 70,
+            "defense": 73,
+            "special-attack": 95,
+            "special-defense": 90,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Entei, L50",
+        "species": "Entei",
+        "pokebase_info": {
+          "name": "entei",
+          "id": 244,
+          "types": [
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 115,
+            "attack": 115,
+            "defense": 85,
+            "special-attack": 90,
+            "special-defense": 75,
+            "speed": 100
+          }
+        }
+      },
+      {
+        "original": "Regieleki, L50",
+        "species": "Regieleki",
+        "pokebase_info": {
+          "name": "regieleki",
+          "id": 894,
+          "types": [
+            "electric"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 100,
+            "defense": 50,
+            "special-attack": 100,
+            "special-defense": 50,
+            "speed": 200
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Glimmora",
+        "Glimmora, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Samurott",
+        "Samurott-Hisui, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Samurott",
+        "Ceaseless Edge",
+        "p1a: Glimmora"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Glimmora",
+        "Stealth Rock",
+        "p2a: Giratina"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Giratina",
+        "Thunder Wave",
+        "p1a: Glimmora"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Glimmora",
+        "Mortal Spin",
+        "p2a: Giratina"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Giratina",
+        "Substitute",
+        "p2a: Giratina"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Glimmora",
+        "Power Gem",
+        "p2a: Giratina"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Giratina",
+        "Hex",
+        "p1a: Glimmora"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Giratina",
+        "Hex",
+        "p1a: Glimmora"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ting-Lu",
+        "Ting-Lu, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Giratina",
+        "Will-O-Wisp",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Earthquake",
+        "p2a: Giratina"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Weezing",
+        "Weezing-Galar, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Earthquake",
+        "p2a: Weezing"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Weezing",
+        "Taunt",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Heavy Slam",
+        "p2a: Weezing"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Weezing",
+        "Toxic Spikes",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Heavy Slam",
+        "p2a: Weezing"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Weezing",
+        "Sludge Bomb",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Heavy Slam",
+        "p2a: Weezing"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Samurott",
+        "Samurott-Hisui, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Samurott",
+        "Knock Off",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Body Press",
+        "p2a: Samurott"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Samurott",
+        "Ceaseless Edge",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Ruination",
+        "p2a: Samurott"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Samurott",
+        "Flip Turn",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Giratina",
+        "Giratina, L50",
+        "30/100 psn",
+        "[from] Flip Turn"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Ruination",
+        "p2a: Giratina"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Lunala",
+        "Lunala, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Lunala",
+        "Moonlight",
+        "p1a: Lunala"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Giratina",
+        "Thunder Wave",
+        "",
+        "[still]"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Samurott",
+        "Samurott-Hisui, L50, M, tera:Ground",
+        "63/100"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Samurott",
+        "Ceaseless Edge",
+        "p1a: Lunala"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Lunala",
+        "Moonblast",
+        "p2a: Samurott"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Samurott",
+        "Knock Off",
+        "p1a: Lunala"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Lunala",
+        "Moonblast",
+        "p2a: Samurott"
+      ]
+    }
+  ],
+  "win": "skrllll"
+}

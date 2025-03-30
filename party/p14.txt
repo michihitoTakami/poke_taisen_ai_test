@@ -1,0 +1,59 @@
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Tera Type: Electric  
+EVs: 188 HP / 252 Atk / 4 Def / 0 SpA / 12 SpD / 52 Spe  
+Jolly Nature  
+- Iron Head  
+- Play Rough  
+- Tera Blast  
+- Substitute  
+
+Dragonite @ Choice Band  
+Ability: Multiscale  
+Tera Type: Steel  
+EVs: 68 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 188 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Earthquake  
+- Outrage  
+- Ice Spinner  
+
+Ursaluna-Bloodmoon @ Rocky Helmet  
+Ability: Mind’s Eye  
+Tera Type: Fire  
+EVs: 252 HP / 0 Atk / 236 Def / 0 SpA / 0 SpD / 20 Spe  
+Bold Nature  
+- Blood Moon  
+- Earth Power  
+- Vacuum Wave  
+- Moonlight  
+
+Primarina @ Assault Vest  
+Ability: Torrent  
+Tera Type: Steel  
+EVs: 252 HP / 0 Atk / 4 Def / 188 SpA / 60 SpD / 4 Spe  
+Modest Nature  
+- Hydro Pump  
+- Sparkling Aria  
+- Moonblast  
+- Aqua Jet  
+
+Urshifu-Single-Strike @ Focus Sash  
+Ability: Unseen Fist  
+Tera Type: Normal  
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe  
+Jolly Nature  
+- Wicked Blow  
+- Close Combat  
+- Sucker Punch  
+- Tera Blast  
+
+Flutter Mane @ Booster Energy  
+Ability: Protosynthesis  
+Tera Type: Fire  
+EVs: 196 HP / 0 Atk / 124 Def / 148 SpA / 4 SpD / 36 Spe  
+Timid Nature  
+- Moonblast  
+- Shadow Ball  
+- Calm Mind  
+- Taunt  

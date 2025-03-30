@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308679083",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "haya7taka",
+      "josh31717"
+    ],
+    "uploadtime": 1740622511,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1355,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Corviknight, L50, M",
+        "species": "Corviknight",
+        "pokebase_info": {
+          "name": "corviknight",
+          "id": 823,
+          "types": [
+            "flying",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 98,
+            "attack": 87,
+            "defense": 105,
+            "special-attack": 53,
+            "special-defense": 85,
+            "speed": 67
+          }
+        }
+      },
+      {
+        "original": "Clodsire, L50, F",
+        "species": "Clodsire",
+        "pokebase_info": {
+          "name": "clodsire",
+          "id": 980,
+          "types": [
+            "poison",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 130,
+            "attack": 75,
+            "defense": 60,
+            "special-attack": 45,
+            "special-defense": 100,
+            "speed": 20
+          }
+        }
+      },
+      {
+        "original": "Weezing-Galar, L50, F",
+        "species": "Weezing-Galar",
+        "pokebase_info": {
+          "name": "weezing-galar",
+          "id": 10167,
+          "types": [
+            "poison",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 120,
+            "special-attack": 85,
+            "special-defense": 70,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Ho-Oh, L50",
+        "species": "Ho-Oh",
+        "pokebase_info": {
+          "name": "ho-oh",
+          "id": 250,
+          "types": [
+            "fire",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 106,
+            "attack": 130,
+            "defense": 90,
+            "special-attack": 110,
+            "special-defense": 154,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Whimsicott, L50, F",
+        "species": "Whimsicott",
+        "pokebase_info": {
+          "name": "whimsicott",
+          "id": 547,
+          "types": [
+            "grass",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 60,
+            "attack": 67,
+            "defense": 85,
+            "special-attack": 77,
+            "special-defense": 75,
+            "speed": 116
+          }
+        }
+      },
+      {
+        "original": "Avalugg-Hisui, L50, M",
+        "species": "Avalugg-Hisui",
+        "pokebase_info": {
+          "name": "avalugg-hisui",
+          "id": 10243,
+          "types": [
+            "ice",
+            "rock"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 127,
+            "defense": 184,
+            "special-attack": 34,
+            "special-defense": 36,
+            "speed": 38
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Eternatus, L50",
+        "species": "Eternatus",
+        "pokebase_info": {
+          "name": "eternatus",
+          "id": 890,
+          "types": [
+            "poison",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 140,
+            "attack": 85,
+            "defense": 95,
+            "special-attack": 145,
+            "special-defense": 95,
+            "speed": 130
+          }
+        }
+      },
+      {
+        "original": "Chi-Yu, L50",
+        "species": "Chi-Yu",
+        "pokebase_info": {
+          "name": "chi-yu",
+          "id": 1004,
+          "types": [
+            "dark",
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 80,
+            "defense": 80,
+            "special-attack": 135,
+            "special-defense": 120,
+            "speed": 100
+          }
+        }
+      },
+      {
+        "original": "Dondozo, L50, M",
+        "species": "Dondozo",
+        "pokebase_info": {
+          "name": "dondozo",
+          "id": 977,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 150,
+            "attack": 100,
+            "defense": 115,
+            "special-attack": 65,
+            "special-defense": 65,
+            "speed": 35
+          }
+        }
+      },
+      {
+        "original": "Blissey, L50, F",
+        "species": "Blissey",
+        "pokebase_info": {
+          "name": "blissey",
+          "id": 242,
+          "types": [
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 255,
+            "attack": 10,
+            "defense": 10,
+            "special-attack": 75,
+            "special-defense": 135,
+            "speed": 55
+          }
+        }
+      },
+      {
+        "original": "Great Tusk, L50",
+        "species": "Great Tusk",
+        "pokebase_info": {
+          "name": "great-tusk",
+          "id": 984,
+          "types": [
+            "ground",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 115,
+            "attack": 131,
+            "defense": 131,
+            "special-attack": 53,
+            "special-defense": 53,
+            "speed": 87
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ho-Oh",
+        "Ho-Oh, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Eternatus",
+        "Eternatus, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Cosmic Power",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ho-Oh",
+        "Earthquake",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Cosmic Power",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ho-Oh",
+        "Earthquake",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Recover",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ho-Oh",
+        "Earthquake",
+        "p2a: Eternatus"
+      ]
+    }
+  ],
+  "win": "josh31717"
+}

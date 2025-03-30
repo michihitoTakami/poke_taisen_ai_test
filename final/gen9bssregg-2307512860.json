@@ -1,0 +1,540 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307512860",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "wanipoke",
+      "hefwquerwu"
+    ],
+    "uploadtime": 1740485753,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1241,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Shiftry, L50, M",
+        "species": "Shiftry",
+        "pokebase_info": {
+          "name": "shiftry",
+          "id": 275,
+          "types": [
+            "grass",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 100,
+            "defense": 60,
+            "special-attack": 90,
+            "special-defense": 60,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Groudon, L50",
+        "species": "Groudon",
+        "pokebase_info": {
+          "name": "groudon",
+          "id": 383,
+          "types": [
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 150,
+            "defense": 140,
+            "special-attack": 100,
+            "special-defense": 90,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Walking Wake, L50",
+        "species": "Walking Wake",
+        "pokebase_info": {
+          "name": "walking-wake",
+          "id": 1009,
+          "types": [
+            "water",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 99,
+            "attack": 83,
+            "defense": 91,
+            "special-attack": 125,
+            "special-defense": 83,
+            "speed": 109
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Klefki, L50, M",
+        "species": "Klefki",
+        "pokebase_info": {
+          "name": "klefki",
+          "id": 707,
+          "types": [
+            "steel",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 57,
+            "attack": 80,
+            "defense": 91,
+            "special-attack": 80,
+            "special-defense": 87,
+            "speed": 75
+          }
+        }
+      },
+      {
+        "original": "Roaring Moon, L50",
+        "species": "Roaring Moon",
+        "pokebase_info": {
+          "name": "roaring-moon",
+          "id": 1005,
+          "types": [
+            "dragon",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 105,
+            "attack": 139,
+            "defense": 71,
+            "special-attack": 55,
+            "special-defense": 101,
+            "speed": 119
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Miraidon, L50",
+        "species": "Miraidon",
+        "pokebase_info": {
+          "name": "miraidon",
+          "id": 1008,
+          "types": [
+            "electric",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 100,
+            "special-attack": 135,
+            "special-defense": 115,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Ogerpon-Hearthflame, L50, F",
+        "species": "Ogerpon-Hearthflame",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Shiftry",
+        "Shiftry, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ursaluna",
+        "Ursaluna-Bloodmoon, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Shiftry",
+        "Toxic Spikes",
+        "p2a: Ursaluna"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ursaluna",
+        "Blood Moon",
+        "p1a: Shiftry"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Walking Wake",
+        "Walking Wake, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ursaluna",
+        "Vacuum Wave",
+        "p1a: Walking Wake"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Walking Wake",
+        "Hydro Steam",
+        "p2a: Ursaluna"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Miraidon",
+        "Miraidon, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Groudon",
+        "Groudon, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Miraidon",
+        "Electro Drift",
+        "p1a: Groudon"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Shiftry",
+        "Shiftry, L50, M",
+        "1/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Miraidon",
+        "Tera Blast",
+        "p1a: Shiftry",
+        "[anim] Tera Blast Ice"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Groudon",
+        "Groudon, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Walking Wake",
+        "Walking Wake, L50, tera:Water",
+        "73/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Miraidon",
+        "Tera Blast",
+        "p1a: Walking Wake",
+        "[anim] Tera Blast Ice"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Walking Wake",
+        "Substitute",
+        "p1a: Walking Wake"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Miraidon",
+        "Tera Blast",
+        "p1a: Walking Wake",
+        "[anim] Tera Blast Ice"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Walking Wake",
+        "Hydro Steam",
+        "p2a: Miraidon"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Flutter Mane",
+        "Flutter Mane, L50, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Walking Wake",
+        "Aqua Jet",
+        "p2a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Moonblast",
+        "p1a: Walking Wake"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Groudon",
+        "Groudon, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Moonblast",
+        "p1a: Groudon"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Groudon",
+        "Heat Crash",
+        "p2a: Flutter Mane"
+      ]
+    }
+  ],
+  "win": "wanipoke"
+}

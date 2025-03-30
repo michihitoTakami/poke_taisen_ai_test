@@ -1,0 +1,474 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307514165",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "wanipoke",
+      "locks31"
+    ],
+    "uploadtime": 1740485891,
+    "views": 3,
+    "formatid": "gen9bssregg",
+    "rating": 1094,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Shiftry, L50, M",
+        "species": "Shiftry",
+        "pokebase_info": {
+          "name": "shiftry",
+          "id": 275,
+          "types": [
+            "grass",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 100,
+            "defense": 60,
+            "special-attack": 90,
+            "special-defense": 60,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Groudon, L50",
+        "species": "Groudon",
+        "pokebase_info": {
+          "name": "groudon",
+          "id": 383,
+          "types": [
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 150,
+            "defense": 140,
+            "special-attack": 100,
+            "special-defense": 90,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Walking Wake, L50",
+        "species": "Walking Wake",
+        "pokebase_info": {
+          "name": "walking-wake",
+          "id": 1009,
+          "types": [
+            "water",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 99,
+            "attack": 83,
+            "defense": 91,
+            "special-attack": 125,
+            "special-defense": 83,
+            "speed": 109
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Klefki, L50, M",
+        "species": "Klefki",
+        "pokebase_info": {
+          "name": "klefki",
+          "id": 707,
+          "types": [
+            "steel",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 57,
+            "attack": 80,
+            "defense": 91,
+            "special-attack": 80,
+            "special-defense": 87,
+            "speed": 75
+          }
+        }
+      },
+      {
+        "original": "Roaring Moon, L50",
+        "species": "Roaring Moon",
+        "pokebase_info": {
+          "name": "roaring-moon",
+          "id": 1005,
+          "types": [
+            "dragon",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 105,
+            "attack": 139,
+            "defense": 71,
+            "special-attack": 55,
+            "special-defense": 101,
+            "speed": 119
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Venusaur, L50, F",
+        "species": "Venusaur",
+        "pokebase_info": {
+          "name": "venusaur",
+          "id": 3,
+          "types": [
+            "grass",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 82,
+            "defense": 83,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Polteageist-Antique, L50",
+        "species": "Polteageist-Antique",
+        "pokebase_info": {
+          "name": "polteageist",
+          "id": 855,
+          "types": [
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 60,
+            "attack": 65,
+            "defense": 65,
+            "special-attack": 134,
+            "special-defense": 114,
+            "speed": 70
+          }
+        }
+      },
+      {
+        "original": "Dudunsparce-*, L50, M",
+        "species": "Dudunsparce-",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Kommo-o, L50, M",
+        "species": "Kommo-o",
+        "pokebase_info": {
+          "name": "kommo-o",
+          "id": 784,
+          "types": [
+            "dragon",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 75,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 100,
+            "special-defense": 105,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Alcremie-Caramel-Swirl, L50, F",
+        "species": "Alcremie-Caramel-Swirl",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Ninetales-Alola, L50, M",
+        "species": "Ninetales-Alola",
+        "pokebase_info": {
+          "name": "ninetales-alola",
+          "id": 10104,
+          "types": [
+            "ice",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 73,
+            "attack": 67,
+            "defense": 75,
+            "special-attack": 81,
+            "special-defense": 100,
+            "speed": 109
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Flutter Mane",
+        "Flutter Mane, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Dudunsparce",
+        "Dudunsparce-Three-Segment, L50, M, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Taunt",
+        "p2a: Dudunsparce"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Dudunsparce",
+        "Glare",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Dudunsparce",
+        "Stealth Rock",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Taunt",
+        "p2a: Dudunsparce"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ninetales",
+        "Ninetales-Alola, L50, M, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Pain Split",
+        "p2a: Ninetales"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Groudon",
+        "Groudon, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ninetales",
+        "Aurora Veil",
+        "",
+        "[still]"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Dudunsparce",
+        "Dudunsparce-Three-Segment, L50, M, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Groudon",
+        "Heat Crash",
+        "p2a: Dudunsparce"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Groudon",
+        "Heat Crash",
+        "p2a: Dudunsparce"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ninetales",
+        "Ninetales-Alola, L50, M, shiny",
+        "87/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Flutter Mane",
+        "Flutter Mane, L50",
+        "100/100 par"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ninetales",
+        "Freeze-Dry",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Alcremie",
+        "Alcremie-Caramel-Swirl, L50, F, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Groudon",
+        "Groudon, L50",
+        "95/100"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Groudon",
+        "Heat Crash",
+        "p2a: Alcremie"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ninetales",
+        "Ninetales-Alola, L50, M, shiny",
+        "87/100"
+      ]
+    }
+  ],
+  "win": "wanipoke"
+}

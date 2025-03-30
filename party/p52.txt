@@ -1,0 +1,56 @@
+Eternatus @ Leftovers  
+Ability: Pressure  
+Tera Type: Fire  
+EVs: 76 HP / 12 Def / 252 SpA / 4 SpD / 164 Spe  
+Timid Nature  
+- Dynamax Cannon  
+- Flamethrower  
+- Protect  
+- Substitute  
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Tera Type: Dark  
+EVs: 132 HP / 116 Atk / 0 Def / 0 SpA / 252 SpD / 4 Spe  
+Adamant Nature  
+- Grassy Glide  
+- Knock Off  
+- U-turn  
+- Drum Beating  
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Tera Type: Ice  
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe  
+Jolly Nature  
+- Icicle Crash  
+- Sacred Sword  
+- Ice Shard  
+- Sheer Cold  
+
+Dondozo @ Rocky Helmet  
+Ability: Unaware  
+Tera Type: Fairy  
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe  
+Impish Nature  
+- Rest  
+- Yawn  
+- Avalanche  
+- Earthquake  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+Tera Type: Dark  
+EVs: 212 HP / 0 Atk / 0 Def / 0 SpA / 44 SpD / 252 Spe  
+Jolly Nature  
+- Protect  
+- Substitute  
+- Toxic  
+- Taunt  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Tera Type: Fairy  
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe  
+Jolly Nature  
+- Transform  

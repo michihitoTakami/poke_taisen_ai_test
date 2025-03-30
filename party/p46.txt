@@ -1,0 +1,59 @@
+Calyrex-Shadow @ Choice Scarf  
+Ability: As One (Spectrier)  
+Tera Type: Fairy  
+EVs: 124 HP / 4 Def / 124 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Astral Barrage  
+- Psyshock  
+- Tera Blast  
+- Trick  
+
+Dragonite @ Assault Vest  
+Ability: Multiscale  
+Tera Type: Normal  
+EVs: 244 HP / 252 Atk / 12 SpD  
+Adamant Nature  
+- Extreme Speed  
+- Iron Head  
+- Dragon Tail  
+- Low Kick  
+
+Ting-Lu @ Sitrus Berry  
+Ability: Vessel of Ruin  
+Tera Type: Poison  
+EVs: 244 HP / 12 Def / 252 SpD  
+Careful Nature  
+- Earthquake  
+- Stealth Rock  
+- Spikes  
+- Whirlwind  
+
+Urshifu-Rapid-Strike @ Rocky Helmet  
+Ability: Unseen Fist  
+Tera Type: Fire  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Surging Strikes  
+- Aqua Jet  
+- U-turn  
+- Counter  
+
+Ogerpon-Hearthflame @ Hearthflame Mask  
+Ability: Mold Breaker  
+Tera Type: Fire  
+EVs: 252 HP / 20 Atk / 212 Def / 20 Spe  
+Adamant Nature  
+- Ivy Cudgel  
+- Swords Dance  
+- Wood Hammer  
+- Play Rough  
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Tera Type: Electric  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Icicle Crash  
+- Sucker Punch  
+- Swords Dance  
+- Tera Blast  

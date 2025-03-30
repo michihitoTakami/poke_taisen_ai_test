@@ -1,0 +1,556 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307600918",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "duzxud",
+      "Myrte00"
+    ],
+    "uploadtime": 1740496142,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1070,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Calyrex-Shadow, L50",
+        "species": "Calyrex-Shadow",
+        "pokebase_info": {
+          "name": "calyrex-shadow",
+          "id": 10194,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 80,
+            "special-attack": 165,
+            "special-defense": 100,
+            "speed": 150
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Alomomola, L50, M",
+        "species": "Alomomola",
+        "pokebase_info": {
+          "name": "alomomola",
+          "id": 594,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 165,
+            "attack": 75,
+            "defense": 80,
+            "special-attack": 40,
+            "special-defense": 45,
+            "speed": 65
+          }
+        }
+      },
+      {
+        "original": "Dragonite, L50, F",
+        "species": "Dragonite",
+        "pokebase_info": {
+          "name": "dragonite",
+          "id": 149,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Muk-Alola, L50, M",
+        "species": "Muk-Alola",
+        "pokebase_info": {
+          "name": "muk-alola",
+          "id": 10113,
+          "types": [
+            "poison",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 105,
+            "attack": 105,
+            "defense": 75,
+            "special-attack": 65,
+            "special-defense": 100,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Scizor, L50, F",
+        "species": "Scizor",
+        "pokebase_info": {
+          "name": "scizor",
+          "id": 212,
+          "types": [
+            "bug",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 65
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Giratina-Origin, L50",
+        "species": "Giratina-Origin",
+        "pokebase_info": {
+          "name": "giratina-origin",
+          "id": 10007,
+          "types": [
+            "ghost",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 150,
+            "attack": 120,
+            "defense": 100,
+            "special-attack": 120,
+            "special-defense": 100,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Abomasnow, L50, M",
+        "species": "Abomasnow",
+        "pokebase_info": {
+          "name": "abomasnow",
+          "id": 460,
+          "types": [
+            "grass",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 92,
+            "defense": 75,
+            "special-attack": 92,
+            "special-defense": 85,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Gyarados, L50, M",
+        "species": "Gyarados",
+        "pokebase_info": {
+          "name": "gyarados",
+          "id": 130,
+          "types": [
+            "water",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 125,
+            "defense": 79,
+            "special-attack": 60,
+            "special-defense": 100,
+            "speed": 81
+          }
+        }
+      },
+      {
+        "original": "Whimsicott, L50, F",
+        "species": "Whimsicott",
+        "pokebase_info": {
+          "name": "whimsicott",
+          "id": 547,
+          "types": [
+            "grass",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 60,
+            "attack": 67,
+            "defense": 85,
+            "special-attack": 77,
+            "special-defense": 75,
+            "speed": 116
+          }
+        }
+      },
+      {
+        "original": "Heatran, L50, F",
+        "species": "Heatran",
+        "pokebase_info": {
+          "name": "heatran",
+          "id": 485,
+          "types": [
+            "fire",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 90,
+            "defense": 106,
+            "special-attack": 130,
+            "special-defense": 106,
+            "speed": 77
+          }
+        }
+      },
+      {
+        "original": "Zapdos, L50",
+        "species": "Zapdos",
+        "pokebase_info": {
+          "name": "zapdos",
+          "id": 145,
+          "types": [
+            "electric",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 90,
+            "defense": 85,
+            "special-attack": 125,
+            "special-defense": 90,
+            "speed": 100
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Scizor",
+        "Scizor, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Heatran",
+        "Heatran, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ting-Lu",
+        "Ting-Lu, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Heatran",
+        "Magma Storm",
+        "p1a: Ting-Lu",
+        "[miss]"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Heatran",
+        "Magma Storm",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Stealth Rock",
+        "p2a: Heatran"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Giratina",
+        "Giratina-Origin, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Earthquake",
+        "p2a: Giratina"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Giratina",
+        "Curse",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Ruination",
+        "p2a: Giratina",
+        "[miss]"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Scizor",
+        "Scizor, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Giratina",
+        "Poltergeist",
+        "p1a: Scizor",
+        "[miss]"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Zapdos",
+        "Zapdos, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Scizor",
+        "Knock Off",
+        "p2a: Zapdos"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ting-Lu",
+        "Ting-Lu, L50",
+        "56/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Zapdos",
+        "Hurricane",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Zapdos",
+        "Hurricane",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Calyrex",
+        "Calyrex-Shadow, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Astral Barrage",
+        "p2a: Zapdos"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Giratina",
+        "Giratina-Origin, L50",
+        "38/100"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Giratina",
+        "Shadow Sneak",
+        "p1a: Calyrex"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Psyshock",
+        "p2a: Giratina"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Heatran",
+        "Heatran, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Tera Blast",
+        "p2a: Heatran",
+        "[anim] Tera Blast Fighting"
+      ]
+    }
+  ],
+  "win": "duzxud"
+}

@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308189303",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "jeskod1083920",
+      "Fuso612"
+    ],
+    "uploadtime": 1740568112,
+    "views": 9,
+    "formatid": "gen9bssregg",
+    "rating": 1049,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Calyrex-Ice, L50",
+        "species": "Calyrex-Ice",
+        "pokebase_info": {
+          "name": "calyrex-ice",
+          "id": 10193,
+          "types": [
+            "psychic",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 165,
+            "defense": 150,
+            "special-attack": 85,
+            "special-defense": 130,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, M",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Hatterene, L50, F",
+        "species": "Hatterene",
+        "pokebase_info": {
+          "name": "hatterene",
+          "id": 858,
+          "types": [
+            "psychic",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 57,
+            "attack": 90,
+            "defense": 95,
+            "special-attack": 136,
+            "special-defense": 103,
+            "speed": 29
+          }
+        }
+      },
+      {
+        "original": "Ogerpon, L50, F",
+        "species": "Ogerpon",
+        "pokebase_info": {
+          "name": "ogerpon",
+          "id": 1017,
+          "types": [
+            "grass"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 84,
+            "special-attack": 60,
+            "special-defense": 96,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      },
+      {
+        "original": "Dondozo, L50, F",
+        "species": "Dondozo",
+        "pokebase_info": {
+          "name": "dondozo",
+          "id": 977,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 150,
+            "attack": 100,
+            "defense": 115,
+            "special-attack": 65,
+            "special-defense": 65,
+            "speed": 35
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Totodile, L50, F",
+        "species": "Totodile",
+        "pokebase_info": {
+          "name": "totodile",
+          "id": 158,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 50,
+            "attack": 65,
+            "defense": 64,
+            "special-attack": 44,
+            "special-defense": 48,
+            "speed": 43
+          }
+        }
+      },
+      {
+        "original": "Mismagius, L50, F",
+        "species": "Mismagius",
+        "pokebase_info": {
+          "name": "mismagius",
+          "id": 429,
+          "types": [
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 60,
+            "attack": 60,
+            "defense": 60,
+            "special-attack": 105,
+            "special-defense": 105,
+            "speed": 105
+          }
+        }
+      },
+      {
+        "original": "Cacnea, L50, M",
+        "species": "Cacnea",
+        "pokebase_info": {
+          "name": "cacnea",
+          "id": 331,
+          "types": [
+            "grass"
+          ],
+          "base_stats": {
+            "hp": 50,
+            "attack": 85,
+            "defense": 40,
+            "special-attack": 85,
+            "special-defense": 40,
+            "speed": 35
+          }
+        }
+      },
+      {
+        "original": "Litwick, L50, M",
+        "species": "Litwick",
+        "pokebase_info": {
+          "name": "litwick",
+          "id": 607,
+          "types": [
+            "ghost",
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 50,
+            "attack": 30,
+            "defense": 55,
+            "special-attack": 65,
+            "special-defense": 55,
+            "speed": 20
+          }
+        }
+      },
+      {
+        "original": "Vivillon, L50, M",
+        "species": "Vivillon",
+        "pokebase_info": {
+          "name": "vivillon",
+          "id": 666,
+          "types": [
+            "bug",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 52,
+            "defense": 50,
+            "special-attack": 90,
+            "special-defense": 50,
+            "speed": 89
+          }
+        }
+      },
+      {
+        "original": "Corvisquire, L50, M",
+        "species": "Corvisquire",
+        "pokebase_info": {
+          "name": "corvisquire",
+          "id": 822,
+          "types": [
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 68,
+            "attack": 67,
+            "defense": 55,
+            "special-attack": 43,
+            "special-defense": 55,
+            "speed": 77
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ogerpon",
+        "Ogerpon, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Mismagius",
+        "Mismagius, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Mismagius",
+        "Destiny Bond",
+        "p2a: Mismagius"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ogerpon",
+        "Swords Dance",
+        "p1a: Ogerpon"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Cacnea",
+        "Cacnea, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ogerpon",
+        "Encore",
+        "",
+        "[still]"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Mismagius",
+        "Mismagius, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ogerpon",
+        "Play Rough",
+        "p2a: Mismagius"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Cacnea",
+        "Cacnea, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ogerpon",
+        "Play Rough",
+        "p2a: Cacnea"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Vivillon",
+        "Vivillon, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ogerpon",
+        "Bullet Seed",
+        "p2a: Vivillon"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Vivillon",
+        "Hurricane",
+        "p1a: Ogerpon",
+        "[miss]"
+      ]
+    }
+  ],
+  "win": "jeskod1083920"
+}

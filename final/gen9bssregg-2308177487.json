@@ -1,0 +1,613 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308177487",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "tavichou",
+      "DYueNa"
+    ],
+    "uploadtime": 1740566649,
+    "views": 6,
+    "formatid": "gen9bssregg",
+    "rating": 1244,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Grimmsnarl, L50, M",
+        "species": "Grimmsnarl",
+        "pokebase_info": {
+          "name": "grimmsnarl",
+          "id": 861,
+          "types": [
+            "dark",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 120,
+            "defense": 65,
+            "special-attack": 95,
+            "special-defense": 75,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Calyrex-Shadow, L50",
+        "species": "Calyrex-Shadow",
+        "pokebase_info": {
+          "name": "calyrex-shadow",
+          "id": 10194,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 80,
+            "special-attack": 165,
+            "special-defense": 100,
+            "speed": 150
+          }
+        }
+      },
+      {
+        "original": "Gholdengo, L50",
+        "species": "Gholdengo",
+        "pokebase_info": {
+          "name": "gholdengo",
+          "id": 1000,
+          "types": [
+            "steel",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 87,
+            "attack": 60,
+            "defense": 95,
+            "special-attack": 133,
+            "special-defense": 91,
+            "speed": 84
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, F",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      },
+      {
+        "original": "Goodra-Hisui, L50, M",
+        "species": "Goodra-Hisui",
+        "pokebase_info": {
+          "name": "goodra-hisui",
+          "id": 10242,
+          "types": [
+            "steel",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 100,
+            "defense": 100,
+            "special-attack": 110,
+            "special-defense": 150,
+            "speed": 60
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Sneasler, L50, F",
+        "species": "Sneasler",
+        "pokebase_info": {
+          "name": "sneasler",
+          "id": 903,
+          "types": [
+            "fighting",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 130,
+            "defense": 60,
+            "special-attack": 40,
+            "special-defense": 80,
+            "speed": 120
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, F",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Miraidon, L50",
+        "species": "Miraidon",
+        "pokebase_info": {
+          "name": "miraidon",
+          "id": 1008,
+          "types": [
+            "electric",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 100,
+            "special-attack": 135,
+            "special-defense": 115,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Iron Treads, L50",
+        "species": "Iron Treads",
+        "pokebase_info": {
+          "name": "iron-treads",
+          "id": 990,
+          "types": [
+            "ground",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 112,
+            "defense": 120,
+            "special-attack": 72,
+            "special-defense": 70,
+            "speed": 106
+          }
+        }
+      },
+      {
+        "original": "Dondozo, L50, M",
+        "species": "Dondozo",
+        "pokebase_info": {
+          "name": "dondozo",
+          "id": 977,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 150,
+            "attack": 100,
+            "defense": 115,
+            "special-attack": 65,
+            "special-defense": 65,
+            "speed": 35
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Grimmsnarl",
+        "Grimmsnarl, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Miraidon",
+        "Miraidon, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Grimmsnarl",
+        "Light Screen",
+        "p1a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Miraidon",
+        "Electro Drift",
+        "p1a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Miraidon",
+        "Electro Drift",
+        "p1a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Grimmsnarl",
+        "Spirit Break",
+        "p2a: Miraidon"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Grimmsnarl",
+        "Reflect",
+        "p1a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Miraidon",
+        "Volt Switch",
+        "p1a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Iron Treads",
+        "Iron Treads, L50",
+        "100/100",
+        "[from] Volt Switch"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Iron Treads",
+        "Rapid Spin",
+        "p1a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Calyrex",
+        "Calyrex-Shadow, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Iron Treads",
+        "Knock Off",
+        "p1a: Calyrex"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Astral Barrage",
+        "p2a: Iron Treads"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Miraidon",
+        "Miraidon, L50",
+        "35/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Draining Kiss",
+        "p2a: Miraidon"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Urshifu",
+        "Urshifu-Rapid-Strike, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Goodra",
+        "Goodra-Hisui, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Urshifu",
+        "Surging Strikes",
+        "p1a: Goodra"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Urshifu",
+        "Swords Dance",
+        "p2a: Urshifu"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Goodra",
+        "Body Press",
+        "p2a: Urshifu"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Urshifu",
+        "Swords Dance",
+        "p2a: Urshifu"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Goodra",
+        "Shelter",
+        "p1a: Goodra"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Urshifu",
+        "Drain Punch",
+        "p1a: Goodra"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Goodra",
+        "Body Press",
+        "p2a: Urshifu"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Urshifu",
+        "Drain Punch",
+        "p1a: Goodra"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Calyrex",
+        "Calyrex-Shadow, L50, tera:Fairy",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Urshifu",
+        "Aqua Jet",
+        "p1a: Calyrex"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Encore",
+        "p2a: Urshifu"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Urshifu",
+        "Aqua Jet",
+        "p1a: Calyrex"
+      ]
+    }
+  ],
+  "win": "DYueNa"
+}

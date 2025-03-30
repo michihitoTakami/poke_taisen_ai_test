@@ -1,0 +1,59 @@
+Morpeko @ Focus Sash  
+Ability: Hunger Switch  
+Tera Type: Steel  
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe  
+Jolly Nature  
+- Aura Wheel  
+- Endeavor  
+- Quick Attack  
+- Taunt  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+Tera Type: Water  
+EVs: 0 HP / 0 Atk / 20 Def / 252 SpA / 0 SpD / 236 Spe  
+Timid Nature  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+Archaludon @ Leftovers  
+Ability: Stamina  
+Tera Type: Fairy  
+EVs: 252 HP / 0 Atk / 252 Def / 4 SpD / 0 Spe  
+Impish Nature  
+- Electro Beam  
+- Luster Cannon  
+- Body Press  
+- Parting Shot  
+
+Rillaboom @ Assault Vest  
+Ability: Grassy Surge  
+Tera Type: Normal  
+EVs: 252 HP / 0 Atk / 52 Def / 0 SpA / 204 SpD / 0 Spe  
+Careful Nature  
+- Drum Beating  
+- High Horsepower  
+- Knock Off  
+- U-turn  
+
+Chien-Pao @ Choice Band  
+Ability: Sword of Ruin  
+Tera Type: Ice  
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe  
+Jolly Nature  
+- Icicle Crash  
+- Crunch  
+- Ice Shard  
+- Sacred Sword  
+
+Landorus-Therian @ Rocky Helmet  
+Ability: Intimidate  
+Tera Type: Steel  
+EVs: 244 HP / 0 Atk / 84 Def / 0 SpA / 180 SpD / 0 Spe  
+Impish Nature  
+- Earthquake  
+- U-turn  
+- Tera Blast  
+- Taunt  

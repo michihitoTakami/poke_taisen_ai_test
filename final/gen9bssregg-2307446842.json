@@ -1,0 +1,539 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307446842",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "Lazy_PS",
+      "skytreewow"
+    ],
+    "uploadtime": 1740474457,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1303,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Kyogre, L50",
+        "species": "Kyogre",
+        "pokebase_info": {
+          "name": "kyogre",
+          "id": 382,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 100,
+            "defense": 90,
+            "special-attack": 150,
+            "special-defense": 140,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Hippowdon, L50, F",
+        "species": "Hippowdon",
+        "pokebase_info": {
+          "name": "hippowdon",
+          "id": 450,
+          "types": [
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 108,
+            "attack": 112,
+            "defense": 118,
+            "special-attack": 68,
+            "special-defense": 72,
+            "speed": 47
+          }
+        }
+      },
+      {
+        "original": "Excadrill, L50, F",
+        "species": "Excadrill",
+        "pokebase_info": {
+          "name": "excadrill",
+          "id": 530,
+          "types": [
+            "ground",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 110,
+            "attack": 135,
+            "defense": 60,
+            "special-attack": 50,
+            "special-defense": 65,
+            "speed": 88
+          }
+        }
+      },
+      {
+        "original": "Scizor, L50, F",
+        "species": "Scizor",
+        "pokebase_info": {
+          "name": "scizor",
+          "id": 212,
+          "types": [
+            "bug",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 65
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Lugia, L50",
+        "species": "Lugia",
+        "pokebase_info": {
+          "name": "lugia",
+          "id": 249,
+          "types": [
+            "psychic",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 106,
+            "attack": 90,
+            "defense": 130,
+            "special-attack": 90,
+            "special-defense": 154,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Wo-Chien, L50",
+        "species": "Wo-Chien",
+        "pokebase_info": {
+          "name": "wo-chien",
+          "id": 1001,
+          "types": [
+            "dark",
+            "grass"
+          ],
+          "base_stats": {
+            "hp": 85,
+            "attack": 85,
+            "defense": 100,
+            "special-attack": 95,
+            "special-defense": 135,
+            "speed": 70
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, F",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Dondozo, L50, F",
+        "species": "Dondozo",
+        "pokebase_info": {
+          "name": "dondozo",
+          "id": 977,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 150,
+            "attack": 100,
+            "defense": 115,
+            "special-attack": 65,
+            "special-defense": 65,
+            "speed": 35
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Chi-Yu, L50",
+        "species": "Chi-Yu",
+        "pokebase_info": {
+          "name": "chi-yu",
+          "id": 1004,
+          "types": [
+            "dark",
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 80,
+            "defense": 80,
+            "special-attack": 135,
+            "special-defense": 120,
+            "speed": 100
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Flutter Mane",
+        "Flutter Mane, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Urshifu",
+        "Urshifu-Rapid-Strike, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Scizor",
+        "Scizor, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Urshifu",
+        "Surging Strikes",
+        "p1a: Scizor"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Urshifu",
+        "Taunt",
+        "p1a: Scizor"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Scizor",
+        "U-turn",
+        "p2a: Urshifu"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Flutter Mane",
+        "Flutter Mane, L50",
+        "100/100",
+        "[from] U-turn"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Moonblast",
+        "p2a: Urshifu"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Lugia",
+        "Lugia, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Taunt",
+        "p2a: Lugia"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lugia",
+        "Whirlpool",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Calm Mind",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lugia",
+        "Air Slash",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Pain Split",
+        "p2a: Lugia"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lugia",
+        "Air Slash",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Taunt",
+        "p2a: Lugia"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lugia",
+        "Whirlpool",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Moonblast",
+        "p2a: Lugia"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lugia",
+        "Air Slash",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Moonblast",
+        "p2a: Lugia"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Wo-Chien",
+        "Wo-Chien, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Pain Split",
+        "p2a: Wo-Chien"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Wo-Chien",
+        "Snarl",
+        "p1a: Flutter Mane"
+      ]
+    }
+  ],
+  "win": "Lazy_PS"
+}

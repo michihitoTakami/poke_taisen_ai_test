@@ -1,0 +1,498 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307957476",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "zeroter5",
+      "takeyabu111"
+    ],
+    "uploadtime": 1740531650,
+    "views": 14,
+    "formatid": "gen9bssregg",
+    "rating": 1039,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Dragapult, L50, M",
+        "species": "Dragapult",
+        "pokebase_info": {
+          "name": "dragapult",
+          "id": 887,
+          "types": [
+            "dragon",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 88,
+            "attack": 120,
+            "defense": 75,
+            "special-attack": 100,
+            "special-defense": 75,
+            "speed": 142
+          }
+        }
+      },
+      {
+        "original": "Terapagos, L50, M",
+        "species": "Terapagos",
+        "pokebase_info": {
+          "name": "terapagos",
+          "id": 1024,
+          "types": [
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 65,
+            "defense": 85,
+            "special-attack": 65,
+            "special-defense": 85,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Incineroar, L50, M",
+        "species": "Incineroar",
+        "pokebase_info": {
+          "name": "incineroar",
+          "id": 727,
+          "types": [
+            "fire",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 115,
+            "defense": 90,
+            "special-attack": 80,
+            "special-defense": 90,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Bellossom, L50, M",
+        "species": "Bellossom",
+        "pokebase_info": {
+          "name": "bellossom",
+          "id": 182,
+          "types": [
+            "grass"
+          ],
+          "base_stats": {
+            "hp": 75,
+            "attack": 80,
+            "defense": 95,
+            "special-attack": 90,
+            "special-defense": 100,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Forretress, L50, F",
+        "species": "Forretress",
+        "pokebase_info": {
+          "name": "forretress",
+          "id": 205,
+          "types": [
+            "bug",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 75,
+            "attack": 90,
+            "defense": 140,
+            "special-attack": 60,
+            "special-defense": 60,
+            "speed": 40
+          }
+        }
+      },
+      {
+        "original": "Samurott-Hisui, L50, M",
+        "species": "Samurott-Hisui",
+        "pokebase_info": {
+          "name": "samurott-hisui",
+          "id": 10236,
+          "types": [
+            "water",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 108,
+            "defense": 80,
+            "special-attack": 100,
+            "special-defense": 65,
+            "speed": 85
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Flapple, L50, F",
+        "species": "Flapple",
+        "pokebase_info": {
+          "name": "flapple",
+          "id": 841,
+          "types": [
+            "grass",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 110,
+            "defense": 80,
+            "special-attack": 95,
+            "special-defense": 60,
+            "speed": 70
+          }
+        }
+      },
+      {
+        "original": "Meowstic, L50, M",
+        "species": "Meowstic",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Rillaboom, L50, M",
+        "species": "Rillaboom",
+        "pokebase_info": {
+          "name": "rillaboom",
+          "id": 812,
+          "types": [
+            "grass"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 125,
+            "defense": 90,
+            "special-attack": 60,
+            "special-defense": 70,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Calyrex-Ice, L50",
+        "species": "Calyrex-Ice",
+        "pokebase_info": {
+          "name": "calyrex-ice",
+          "id": 10193,
+          "types": [
+            "psychic",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 165,
+            "defense": 150,
+            "special-attack": 85,
+            "special-defense": 130,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Avalugg-Hisui, L50, M",
+        "species": "Avalugg-Hisui",
+        "pokebase_info": {
+          "name": "avalugg-hisui",
+          "id": 10243,
+          "types": [
+            "ice",
+            "rock"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 127,
+            "defense": 184,
+            "special-attack": 34,
+            "special-defense": 36,
+            "speed": 38
+          }
+        }
+      },
+      {
+        "original": "Jolteon, L50, F",
+        "species": "Jolteon",
+        "pokebase_info": {
+          "name": "jolteon",
+          "id": 135,
+          "types": [
+            "electric"
+          ],
+          "base_stats": {
+            "hp": 65,
+            "attack": 65,
+            "defense": 60,
+            "special-attack": 110,
+            "special-defense": 95,
+            "speed": 130
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Incineroar",
+        "Incineroar, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Rillaboom",
+        "Rillaboom, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Rillaboom",
+        "Drain Punch",
+        "p1a: Incineroar"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Incineroar",
+        "Fire Punch",
+        "p2a: Rillaboom"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Rillaboom",
+        "Drain Punch",
+        "p1a: Incineroar"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Incineroar",
+        "Fire Punch",
+        "p2a: Rillaboom"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Meowstic",
+        "Meowstic, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Incineroar",
+        "Knock Off",
+        "p2a: Meowstic"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Meowstic",
+        "Trick Room",
+        "p2a: Meowstic"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Meowstic",
+        "Gravity",
+        "p2a: Meowstic"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Incineroar",
+        "Fire Punch",
+        "p2a: Meowstic"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Flapple",
+        "Flapple, L50, F, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flapple",
+        "Grav Apple",
+        "p1a: Incineroar"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Dragapult",
+        "Dragapult, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Dragapult",
+        "Sucker Punch",
+        "p2a: Flapple"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flapple",
+        "Grav Apple",
+        "p1a: Dragapult"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Terapagos",
+        "Terapagos, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flapple",
+        "Grav Apple",
+        "p1a: Terapagos"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Terapagos",
+        "Calm Mind",
+        "p1a: Terapagos"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Terapagos",
+        "Rest",
+        "p1a: Terapagos"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flapple",
+        "Grav Apple",
+        "p1a: Terapagos"
+      ]
+    }
+  ],
+  "win": "takeyabu111"
+}

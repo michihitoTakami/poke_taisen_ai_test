@@ -1,0 +1,646 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308308643",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "tenxneko",
+      "Sirius star"
+    ],
+    "uploadtime": 1740583416,
+    "views": 4,
+    "formatid": "gen9bssregg",
+    "rating": 1153,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Zamazenta-*, L50",
+        "species": "Zamazenta-",
+        "pokebase_info": {
+          "name": "zamazenta-crowned-shield",
+          "id": 889,
+          "types": [
+            "fighting",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 92,
+            "attack": 120,
+            "defense": 140,
+            "special-attack": 80,
+            "special-defense": 140,
+            "speed": 128
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, M",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Ogerpon-Hearthflame, L50, F",
+        "species": "Ogerpon-Hearthflame",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Gyarados, L50, M",
+        "species": "Gyarados",
+        "pokebase_info": {
+          "name": "gyarados",
+          "id": 130,
+          "types": [
+            "water",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 125,
+            "defense": 79,
+            "special-attack": 60,
+            "special-defense": 100,
+            "speed": 81
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Mimikyu, L50, M",
+        "species": "Mimikyu",
+        "pokebase_info": {
+          "name": "mimikyu-disguised",
+          "id": 778,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 90,
+            "defense": 80,
+            "special-attack": 50,
+            "special-defense": 105,
+            "speed": 96
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Eternatus, L50",
+        "species": "Eternatus",
+        "pokebase_info": {
+          "name": "eternatus",
+          "id": 890,
+          "types": [
+            "poison",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 140,
+            "attack": 85,
+            "defense": 95,
+            "special-attack": 145,
+            "special-defense": 95,
+            "speed": 130
+          }
+        }
+      },
+      {
+        "original": "Latias, L50, F",
+        "species": "Latias",
+        "pokebase_info": {
+          "name": "latias",
+          "id": 380,
+          "types": [
+            "dragon",
+            "psychic"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 80,
+            "defense": 90,
+            "special-attack": 110,
+            "special-defense": 130,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Grimmsnarl, L50, M",
+        "species": "Grimmsnarl",
+        "pokebase_info": {
+          "name": "grimmsnarl",
+          "id": 861,
+          "types": [
+            "dark",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 120,
+            "defense": 65,
+            "special-attack": 95,
+            "special-defense": 75,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Skeledirge, L50, F",
+        "species": "Skeledirge",
+        "pokebase_info": {
+          "name": "skeledirge",
+          "id": 911,
+          "types": [
+            "fire",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 104,
+            "attack": 75,
+            "defense": 100,
+            "special-attack": 110,
+            "special-defense": 75,
+            "speed": 66
+          }
+        }
+      },
+      {
+        "original": "Ogerpon, L50, F",
+        "species": "Ogerpon",
+        "pokebase_info": {
+          "name": "ogerpon",
+          "id": 1017,
+          "types": [
+            "grass"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 84,
+            "special-attack": 60,
+            "special-defense": 96,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Primarina, L50, F",
+        "species": "Primarina",
+        "pokebase_info": {
+          "name": "primarina",
+          "id": 730,
+          "types": [
+            "water",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 74,
+            "defense": 74,
+            "special-attack": 126,
+            "special-defense": 116,
+            "speed": 60
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \u66b4\u9bc9\u9f8d",
+        "Gyarados, L50, M, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Primarina",
+        "Primarina, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u66b4\u9bc9\u9f8d",
+        "Thunder Wave",
+        "p2a: Primarina"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Primarina",
+        "Tera Blast",
+        "p1a: \u66b4\u9bc9\u9f8d",
+        "[anim] Tera Blast Electric"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Zamazenta-Crowned, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Iron Defense",
+        "p1a: \u76fe\u795e"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Primarina",
+        "Surf",
+        "p1a: \u76fe\u795e"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Body Press",
+        "p2a: Primarina"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Eternatus",
+        "Eternatus, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Cosmic Power",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Body Press",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Cosmic Power",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Iron Defense",
+        "p1a: \u76fe\u795e"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Cosmic Power",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Body Press",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Cosmic Power",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Body Press",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Cosmic Power",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Body Press",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \u30df\u30df\u30c3\u30ad\u30e5",
+        "Mimikyu, L50, M, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Cosmic Power",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Toxic",
+        "p1a: \u30df\u30df\u30c3\u30ad\u30e5"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u30df\u30df\u30c3\u30ad\u30e5",
+        "Curse",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Sludge Bomb",
+        "p1a: \u30df\u30df\u30c3\u30ad\u30e5"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u30df\u30df\u30c3\u30ad\u30e5",
+        "Thunder Wave",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Zamazenta-Crowned, L50",
+        "74/100"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Eternatus",
+        "Recover",
+        "p2a: Eternatus"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Grimmsnarl",
+        "Grimmsnarl, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Iron Defense",
+        "p1a: \u76fe\u795e"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Grimmsnarl",
+        "Bulk Up",
+        "p2a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Heavy Slam",
+        "p2a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Grimmsnarl",
+        "Bulk Up",
+        "p2a: Grimmsnarl"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Body Press",
+        "p2a: Grimmsnarl"
+      ]
+    }
+  ],
+  "win": "tenxneko"
+}

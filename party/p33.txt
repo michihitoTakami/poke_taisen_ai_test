@@ -1,0 +1,59 @@
+Clefable @ Life Orb  
+Ability: Magic Guard  
+Tera Type: Flying  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- Moonblast  
+- Future Sight  
+- Calm Mind  
+- Moonlight  
+
+Blissey @ Poison Barb  
+Ability: Natural Cure  
+Tera Type: Fire  
+EVs: 36 HP / 252 Def / 220 SpD  
+Calm Nature  
+- Soft-Boiled  
+- Fling  
+- Flamethrower  
+- Calm Mind  
+
+Dondozo @ Leftovers  
+Ability: Unaware  
+Tera Type: Grass  
+EVs: 252 HP / 236 Def / 20 Spe  
+Impish Nature  
+- Earthquake  
+- Wave Crash  
+- Protect  
+- Rest  
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Tera Type: Ghost  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Sheer Cold  
+- Icicle Crash  
+- Ice Shard  
+- Sacred Sword  
+
+Ting-Lu @ Assault Vest  
+Ability: Vessel of Ruin  
+Tera Type: Steel  
+EVs: 4 HP / 196 Atk / 4 Def / 252 SpD / 68 Spe  
+Adamant Nature  
+- Earthquake  
+- Heavy Slam  
+- Knock Off  
+- Ruination  
+
+Lugia @ Choice Scarf  
+Ability: Multiscale  
+Tera Type: Flying  
+EVs: 100 HP / 252 SpA / 156 Spe  
+Modest Nature  
+- Aeroblast  
+- Ice Beam  
+- Trick  
+- Roost  

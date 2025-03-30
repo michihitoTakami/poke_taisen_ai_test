@@ -1,0 +1,548 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308201356",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "bigboibrown",
+      "tarushiba"
+    ],
+    "uploadtime": 1740570407,
+    "views": 4,
+    "formatid": "gen9bssregg",
+    "rating": 1107,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Mewtwo, L50",
+        "species": "Mewtwo",
+        "pokebase_info": {
+          "name": "mewtwo",
+          "id": 150,
+          "types": [
+            "psychic"
+          ],
+          "base_stats": {
+            "hp": 106,
+            "attack": 110,
+            "defense": 90,
+            "special-attack": 154,
+            "special-defense": 90,
+            "speed": 130
+          }
+        }
+      },
+      {
+        "original": "Golem, L50, M",
+        "species": "Golem",
+        "pokebase_info": {
+          "name": "golem",
+          "id": 76,
+          "types": [
+            "rock",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 130,
+            "special-attack": 55,
+            "special-defense": 65,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Grimmsnarl, L50, M",
+        "species": "Grimmsnarl",
+        "pokebase_info": {
+          "name": "grimmsnarl",
+          "id": 861,
+          "types": [
+            "dark",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 120,
+            "defense": 65,
+            "special-attack": 95,
+            "special-defense": 75,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Sneasler, L50, F",
+        "species": "Sneasler",
+        "pokebase_info": {
+          "name": "sneasler",
+          "id": 903,
+          "types": [
+            "fighting",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 130,
+            "defense": 60,
+            "special-attack": 40,
+            "special-defense": 80,
+            "speed": 120
+          }
+        }
+      },
+      {
+        "original": "Rillaboom, L50, F",
+        "species": "Rillaboom",
+        "pokebase_info": {
+          "name": "rillaboom",
+          "id": 812,
+          "types": [
+            "grass"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 125,
+            "defense": 90,
+            "special-attack": 60,
+            "special-defense": 70,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Gouging Fire, L50",
+        "species": "Gouging Fire",
+        "pokebase_info": {
+          "name": "gouging-fire",
+          "id": 1020,
+          "types": [
+            "fire",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 105,
+            "attack": 115,
+            "defense": 121,
+            "special-attack": 65,
+            "special-defense": 93,
+            "speed": 91
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Koraidon, L50",
+        "species": "Koraidon",
+        "pokebase_info": {
+          "name": "koraidon",
+          "id": 1007,
+          "types": [
+            "fighting",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 135,
+            "defense": 115,
+            "special-attack": 85,
+            "special-defense": 100,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Gholdengo, L50",
+        "species": "Gholdengo",
+        "pokebase_info": {
+          "name": "gholdengo",
+          "id": 1000,
+          "types": [
+            "steel",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 87,
+            "attack": 60,
+            "defense": 95,
+            "special-attack": 133,
+            "special-defense": 91,
+            "speed": 84
+          }
+        }
+      },
+      {
+        "original": "Ogerpon-Hearthflame, L50, F",
+        "species": "Ogerpon-Hearthflame",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      },
+      {
+        "original": "Gliscor, L50, F",
+        "species": "Gliscor",
+        "pokebase_info": {
+          "name": "gliscor",
+          "id": 472,
+          "types": [
+            "ground",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 75,
+            "attack": 95,
+            "defense": 125,
+            "special-attack": 45,
+            "special-defense": 75,
+            "speed": 95
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Golem",
+        "Golem, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Gliscor",
+        "Gliscor, L50, F, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Gliscor",
+        "Taunt",
+        "p1a: Golem"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Mewtwo",
+        "Mewtwo, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Gliscor",
+        "Stealth Rock",
+        "p1a: Mewtwo"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Mewtwo",
+        "Psystrike",
+        "p2a: Gliscor"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Gliscor",
+        "Knock Off",
+        "p1a: Mewtwo"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Mewtwo",
+        "Psystrike",
+        "p2a: Gliscor"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Gliscor",
+        "Substitute",
+        "p2a: Gliscor"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Mewtwo",
+        "Psystrike",
+        "p2a: Gliscor"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Gliscor",
+        "Knock Off",
+        "p1a: Mewtwo"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Flutter Mane",
+        "Flutter Mane, L50, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Mewtwo",
+        "Aura Sphere",
+        "p2a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Moonblast",
+        "p1a: Mewtwo"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Gouging Fire",
+        "Gouging Fire, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Gliscor",
+        "Gliscor, L50, F, shiny, tera:Dark",
+        "45/100 tox"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Gouging Fire",
+        "Dragon Dance",
+        "p1a: Gouging Fire"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Gouging Fire",
+        "Dragon Claw",
+        "p2a: Gliscor"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Gliscor",
+        "Taunt",
+        "p1a: Gouging Fire"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Gouging Fire",
+        "Flare Blitz",
+        "p2a: Gliscor"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ursaluna",
+        "Ursaluna-Bloodmoon, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Gouging Fire",
+        "Flare Blitz",
+        "p2a: Ursaluna"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Flutter Mane",
+        "Flutter Mane, L50, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Flutter Mane",
+        "Moonblast",
+        "p1a: Gouging Fire"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Gouging Fire",
+        "Flare Blitz",
+        "p2a: Flutter Mane"
+      ]
+    }
+  ],
+  "win": "bigboibrown"
+}

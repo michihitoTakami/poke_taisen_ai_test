@@ -1,0 +1,60 @@
+Calyrex-Shadow @ Leftovers  
+Ability: As One (Spectrier)  
+Tera Type: Fighting  
+EVs: 140 HP / 0 Atk / 84 Def / 84 SpA / 12 SpD / 188 Spe  
+Timid Nature  
+IVs: 31 Atk  
+- Astral Barrage  
+- Tera Blast  
+- Protect  
+- Substitute  
+
+Gliscor @ Focus Sash  
+Ability: Poison Heal  
+Tera Type: Dark  
+EVs: 148 HP / 132 Atk / 4 Def / 4 SpD / 220 Spe  
+Jolly Nature  
+- Knock Off  
+- Toxic Spikes  
+- Stealth Rock  
+- Taunt  
+
+Dragonite @ Rocky Helmet  
+Ability: Multiscale  
+Tera Type: Normal  
+EVs: 244 HP / 124 Atk / 36 Def / 0 SpA / 100 SpD / 4 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Earthquake  
+- Dragon Tail  
+- Roost  
+
+Alomomola @ Sitrus Berry  
+Ability: Regenerator  
+Tera Type: Fairy  
+EVs: 124 HP / 132 Def / 0 SpA / 252 SpD  
+Calm Nature  
+- Substitute  
+- Calm Mind  
+- Baton Pass  
+- Safeguard  
+
+Ogerpon-Hearthflame @ Hearthflame Mask  
+Ability: Mold Breaker  
+Tera Type: Fire  
+EVs: 156 HP / 156 Atk / 156 Def / 0 SpA / 4 SpD / 36 Spe  
+Adamant Nature  
+- Ivy Cudgel  
+- Wood Hammer  
+- Swords Dance  
+- Rock Tomb  
+
+Scizor @ Life Orb  
+Ability: Technician  
+Tera Type: Ground  
+EVs: 188 HP / 252 Atk / 52 Def / 4 SpD / 12 Spe  
+Adamant Nature  
+- Bullet Punch  
+- Tera Blast  
+- Swords Dance  
+- Dual Wingbeat  

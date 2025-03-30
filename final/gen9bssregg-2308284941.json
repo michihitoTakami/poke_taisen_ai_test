@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308284941",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "mnm121",
+      "Z0R0ARK-N"
+    ],
+    "uploadtime": 1740580963,
+    "views": 4,
+    "formatid": "gen9bssregg",
+    "rating": 1219,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Calyrex-Shadow, L50",
+        "species": "Calyrex-Shadow",
+        "pokebase_info": {
+          "name": "calyrex-shadow",
+          "id": 10194,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 80,
+            "special-attack": 165,
+            "special-defense": 100,
+            "speed": 150
+          }
+        }
+      },
+      {
+        "original": "Landorus-Therian, L50, M",
+        "species": "Landorus-Therian",
+        "pokebase_info": {
+          "name": "landorus-therian",
+          "id": 10021,
+          "types": [
+            "ground",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 89,
+            "attack": 145,
+            "defense": 90,
+            "special-attack": 105,
+            "special-defense": 80,
+            "speed": 91
+          }
+        }
+      },
+      {
+        "original": "Scizor, L50, M",
+        "species": "Scizor",
+        "pokebase_info": {
+          "name": "scizor",
+          "id": 212,
+          "types": [
+            "bug",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 65
+          }
+        }
+      },
+      {
+        "original": "Primarina, L50, F",
+        "species": "Primarina",
+        "pokebase_info": {
+          "name": "primarina",
+          "id": 730,
+          "types": [
+            "water",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 74,
+            "defense": 74,
+            "special-attack": 126,
+            "special-defense": 116,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Quaquaval, L50, M",
+        "species": "Quaquaval",
+        "pokebase_info": {
+          "name": "quaquaval",
+          "id": 914,
+          "types": [
+            "water",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 85,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 85,
+            "special-defense": 75,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Muk-Alola, L50, M",
+        "species": "Muk-Alola",
+        "pokebase_info": {
+          "name": "muk-alola",
+          "id": 10113,
+          "types": [
+            "poison",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 105,
+            "attack": 105,
+            "defense": 75,
+            "special-attack": 65,
+            "special-defense": 100,
+            "speed": 50
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Calyrex-Shadow, L50",
+        "species": "Calyrex-Shadow",
+        "pokebase_info": {
+          "name": "calyrex-shadow",
+          "id": 10194,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 80,
+            "special-attack": 165,
+            "special-defense": 100,
+            "speed": 150
+          }
+        }
+      },
+      {
+        "original": "Indeedee, L50, M",
+        "species": "Indeedee",
+        "pokebase_info": {
+          "name": "indeedee-male",
+          "id": 876,
+          "types": [
+            "psychic",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 60,
+            "attack": 65,
+            "defense": 55,
+            "special-attack": 105,
+            "special-defense": 95,
+            "speed": 95
+          }
+        }
+      },
+      {
+        "original": "Roaring Moon, L50",
+        "species": "Roaring Moon",
+        "pokebase_info": {
+          "name": "roaring-moon",
+          "id": 1005,
+          "types": [
+            "dragon",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 105,
+            "attack": 139,
+            "defense": 71,
+            "special-attack": 55,
+            "special-defense": 101,
+            "speed": 119
+          }
+        }
+      },
+      {
+        "original": "Drifblim, L50, F",
+        "species": "Drifblim",
+        "pokebase_info": {
+          "name": "drifblim",
+          "id": 426,
+          "types": [
+            "ghost",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 150,
+            "attack": 80,
+            "defense": 44,
+            "special-attack": 90,
+            "special-defense": 54,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Magnezone, L50",
+        "species": "Magnezone",
+        "pokebase_info": {
+          "name": "magnezone",
+          "id": 462,
+          "types": [
+            "electric",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 70,
+            "defense": 115,
+            "special-attack": 130,
+            "special-defense": 90,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Landorus, L50, M",
+        "species": "Landorus",
+        "pokebase_info": {}
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Quaquaval",
+        "Quaquaval, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Magnezone",
+        "Magnezone, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Quaquaval",
+        "Flip Turn",
+        "p2a: Magnezone"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Muk",
+        "Muk-Alola, L50, M",
+        "100/100",
+        "[from] Flip Turn"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Magnezone",
+        "Thunderbolt",
+        "p1a: Muk"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Magnezone",
+        "Electroweb",
+        "p1a: Muk",
+        "[miss]"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Muk",
+        "Knock Off",
+        "p2a: Magnezone"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Magnezone",
+        "Electroweb",
+        "p1a: Muk"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Muk",
+        "Knock Off",
+        "p2a: Magnezone"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Muk",
+        "Protect",
+        "p1a: Muk"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Magnezone",
+        "Gravity",
+        "p2a: Magnezone"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Magnezone",
+        "Thunderbolt",
+        "p1a: Muk"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Muk",
+        "Knock Off",
+        "p2a: Magnezone"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Drifblim",
+        "Drifblim, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Drifblim",
+        "Hypnosis",
+        "p1a: Muk"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Drifblim",
+        "Memento",
+        "p1a: Muk"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Calyrex",
+        "Calyrex-Shadow, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Nasty Plot",
+        "p2a: Calyrex"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Muk",
+        "Shadow Sneak",
+        "p2a: Calyrex"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Astral Barrage",
+        "p1a: Muk"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Quaquaval",
+        "Quaquaval, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Quaquaval",
+        "Ice Spinner",
+        "p2a: Calyrex"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Energy Ball",
+        "p1a: Quaquaval"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Calyrex",
+        "Calyrex-Shadow, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Astral Barrage",
+        "p2a: Calyrex"
+      ]
+    }
+  ],
+  "win": "mnm121"
+}

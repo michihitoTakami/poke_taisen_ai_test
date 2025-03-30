@@ -1,0 +1,514 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307638446",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "tenxneko",
+      "wtb3434098"
+    ],
+    "uploadtime": 1740499733,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1185,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Zamazenta-*, L50",
+        "species": "Zamazenta-",
+        "pokebase_info": {
+          "name": "zamazenta-crowned-shield",
+          "id": 889,
+          "types": [
+            "fighting",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 92,
+            "attack": 120,
+            "defense": 140,
+            "special-attack": 80,
+            "special-defense": 140,
+            "speed": 128
+          }
+        }
+      },
+      {
+        "original": "Sneasler, L50, M",
+        "species": "Sneasler",
+        "pokebase_info": {
+          "name": "sneasler",
+          "id": 903,
+          "types": [
+            "fighting",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 130,
+            "defense": 60,
+            "special-attack": 40,
+            "special-defense": 80,
+            "speed": 120
+          }
+        }
+      },
+      {
+        "original": "Ogerpon-Wellspring, L50, F",
+        "species": "Ogerpon-Wellspring",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Iron Bundle, L50",
+        "species": "Iron Bundle",
+        "pokebase_info": {
+          "name": "iron-bundle",
+          "id": 991,
+          "types": [
+            "ice",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 56,
+            "attack": 80,
+            "defense": 114,
+            "special-attack": 124,
+            "special-defense": 60,
+            "speed": 136
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Alomomola, L50, F",
+        "species": "Alomomola",
+        "pokebase_info": {
+          "name": "alomomola",
+          "id": 594,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 165,
+            "attack": 75,
+            "defense": 80,
+            "special-attack": 40,
+            "special-defense": 45,
+            "speed": 65
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Breloom, L50, M",
+        "species": "Breloom",
+        "pokebase_info": {
+          "name": "breloom",
+          "id": 286,
+          "types": [
+            "grass",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 60,
+            "attack": 130,
+            "defense": 80,
+            "special-attack": 60,
+            "special-defense": 60,
+            "speed": 70
+          }
+        }
+      },
+      {
+        "original": "Torkoal, L50, M",
+        "species": "Torkoal",
+        "pokebase_info": {
+          "name": "torkoal",
+          "id": 324,
+          "types": [
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 85,
+            "defense": 140,
+            "special-attack": 85,
+            "special-defense": 70,
+            "speed": 20
+          }
+        }
+      },
+      {
+        "original": "Calyrex-Ice, L50",
+        "species": "Calyrex-Ice",
+        "pokebase_info": {
+          "name": "calyrex-ice",
+          "id": 10193,
+          "types": [
+            "psychic",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 165,
+            "defense": 150,
+            "special-attack": 85,
+            "special-defense": 130,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Hatterene, L50, F",
+        "species": "Hatterene",
+        "pokebase_info": {
+          "name": "hatterene",
+          "id": 858,
+          "types": [
+            "psychic",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 57,
+            "attack": 90,
+            "defense": 95,
+            "special-attack": 136,
+            "special-defense": 103,
+            "speed": 29
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, M",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \u30aa\u30aa\u30cb\u30e5\u30fc\u30e9",
+        "Sneasler, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Hatterene",
+        "Hatterene, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u30aa\u30aa\u30cb\u30e5\u30fc\u30e9",
+        "Fake Out",
+        "p2a: Hatterene"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u30aa\u30aa\u30cb\u30e5\u30fc\u30e9",
+        "Dire Claw",
+        "p2a: Hatterene"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Hatterene",
+        "Trick Room",
+        "p2a: Hatterene"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \u30aa\u30fc\u30ac\u30dd\u30f3",
+        "Ogerpon-Wellspring, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Hatterene",
+        "Psychic Noise",
+        "p1a: \u30aa\u30fc\u30ac\u30dd\u30f3"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Hatterene",
+        "Misty Explosion",
+        "p1a: \u30aa\u30fc\u30ac\u30dd\u30f3"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u30aa\u30fc\u30ac\u30dd\u30f3",
+        "Ivy Cudgel",
+        "p2: Hatterene",
+        "[notarget]"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Breloom",
+        "Breloom, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Breloom",
+        "Spore",
+        "p1a: \u30aa\u30fc\u30ac\u30dd\u30f3"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Breloom",
+        "Substitute",
+        "p2a: Breloom"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Zamazenta-Crowned, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Breloom",
+        "Leech Seed",
+        "p1a: \u76fe\u795e"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Substitute",
+        "p1a: \u76fe\u795e"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Breloom",
+        "Spore",
+        "",
+        "[still]"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Body Press",
+        "p2a: Breloom"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Breloom",
+        "Focus Punch",
+        "p1a: \u76fe\u795e"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Body Press",
+        "p2a: Breloom"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Breloom",
+        "Substitute",
+        "p2a: Breloom"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \u76fe\u795e",
+        "Body Press",
+        "p2a: Breloom"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Breloom",
+        "Spore",
+        "p1a: \u76fe\u795e"
+      ]
+    }
+  ],
+  "win": "wtb3434098"
+}

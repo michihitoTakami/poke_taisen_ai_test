@@ -1,0 +1,59 @@
+Zamazenta @ Rusted Shield  
+Ability: Dauntless Shield  
+Tera Type: Water  
+EVs: 94 HP / 252 Def / 164 Spe  
+Impish Nature  
+- Heavy Slam  
+- Body Press  
+- Iron Defense  
+- Crunch  
+
+Dragonite @ Sharp Beak  
+Ability: Multiscale  
+Tera Type: Fairy  
+EVs: 196 HP / 196 SpA / 20 Def / 92 Spe  
+Modest Nature  
+- Air Slash  
+- Thunder Wave  
+- Encore  
+- Roost  
+
+Breloom @ Toxic Orb  
+Ability: Poison Heal  
+Tera Type: Steel  
+EVs: 204 HP / 4 Atk / 76 Def / 220 Spe  
+Impish Nature  
+- Facade  
+- Spore  
+- Leech Seed  
+- Substitute  
+
+Alomomola @ Rocky Helmet  
+Ability: Regenerator  
+Tera Type: Fairy  
+EVs: 252 HP / 252 Def / 6 Atk  
+Impish Nature  
+- Flip Turn  
+- Protect  
+- Substitute  
+- Scald  
+
+Ting-Lu @ Assault Vest  
+Ability: Vessel of Ruin  
+Tera Type: Electric  
+EVs: 6 HP / 252 Atk / 252 SpD  
+Careful Nature  
+- Fissure  
+- Earthquake  
+- Throat Chop  
+- Ruination  
+
+Flutter Mane @ Focus Sash  
+Ability: Protosynthesis  
+Tera Type: Fairy  
+EVs: 6 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Moonblast  
+- Hex  
+- Taunt  
+- Thunder Wave  

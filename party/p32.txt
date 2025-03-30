@@ -1,0 +1,59 @@
+Ogerpon-Cornerstone @ Cornerstone Mask  
+Ability: Sturdy  
+Tera Type: Rock  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Ivy Cudgel  
+- Power Whip  
+- Knock Off  
+- Taunt  
+
+Chien-Pao @ Black Glasses  
+Ability: Sword of Ruin  
+Tera Type: Fire  
+EVs: 52 HP / 252 Atk / 180 Def / 20 Spe  
+Adamant Nature  
+- Crunch  
+- Sucker Punch  
+- Ice Shard  
+- Swords Dance  
+
+Urshifu-Rapid-Strike @ Focus Sash  
+Ability: Unseen Fist  
+Tera Type: Stellar  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- Counter  
+
+Calyrex-Shadow @ Assault Vest  
+Ability: As One (Spectrier)  
+Tera Type: Grass  
+EVs: 172 HP / 4 Def / 140 SpA / 4 SpD / 188 Spe  
+Timid Nature  
+- Astral Barrage  
+- Psyshock  
+- Draining Kiss  
+- Grass Knot  
+
+Alomomola @ Rocky Helmet  
+Ability: Regenerator  
+Tera Type: Fairy  
+EVs: 204 HP / 252 Def / 52 SpD  
+Impish Nature  
+- Flip Turn  
+- Mirror Coat  
+- Wish  
+- Protect  
+
+Iron Treads @ Booster Energy  
+Ability: Quark Drive  
+Tera Type: Ground  
+EVs: 252 HP / 12 Atk / 52 Def / 84 SpD / 108 Spe  
+Jolly Nature  
+- Earthquake  
+- Knock Off  
+- Rapid Spin  
+- Stealth Rock  

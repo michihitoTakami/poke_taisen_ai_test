@@ -1,0 +1,727 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308213143",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "Wasurena",
+      "Sirius star"
+    ],
+    "uploadtime": 1740572355,
+    "views": 4,
+    "formatid": "gen9bssregg",
+    "rating": 1074,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Necrozma-Dusk-Mane, L50",
+        "species": "Necrozma-Dusk-Mane",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      },
+      {
+        "original": "Primarina, L50, F",
+        "species": "Primarina",
+        "pokebase_info": {
+          "name": "primarina",
+          "id": 730,
+          "types": [
+            "water",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 74,
+            "defense": 74,
+            "special-attack": 126,
+            "special-defense": 116,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Gliscor, L50, M",
+        "species": "Gliscor",
+        "pokebase_info": {
+          "name": "gliscor",
+          "id": 472,
+          "types": [
+            "ground",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 75,
+            "attack": 95,
+            "defense": 125,
+            "special-attack": 45,
+            "special-defense": 75,
+            "speed": 95
+          }
+        }
+      },
+      {
+        "original": "Ogerpon-Hearthflame, L50, F",
+        "species": "Ogerpon-Hearthflame",
+        "pokebase_info": {}
+      }
+    ],
+    "p2": [
+      {
+        "original": "Ho-Oh, L50",
+        "species": "Ho-Oh",
+        "pokebase_info": {
+          "name": "ho-oh",
+          "id": 250,
+          "types": [
+            "fire",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 106,
+            "attack": 130,
+            "defense": 90,
+            "special-attack": 110,
+            "special-defense": 154,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Latias, L50, F",
+        "species": "Latias",
+        "pokebase_info": {
+          "name": "latias",
+          "id": 380,
+          "types": [
+            "dragon",
+            "psychic"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 80,
+            "defense": 90,
+            "special-attack": 110,
+            "special-defense": 130,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Ogerpon, L50, F",
+        "species": "Ogerpon",
+        "pokebase_info": {
+          "name": "ogerpon",
+          "id": 1017,
+          "types": [
+            "grass"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 84,
+            "special-attack": 60,
+            "special-defense": 96,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Primarina, L50, F",
+        "species": "Primarina",
+        "pokebase_info": {
+          "name": "primarina",
+          "id": 730,
+          "types": [
+            "water",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 74,
+            "defense": 74,
+            "special-attack": 126,
+            "special-defense": 116,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Dedenne, L50, F",
+        "species": "Dedenne",
+        "pokebase_info": {
+          "name": "dedenne",
+          "id": 702,
+          "types": [
+            "electric",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 67,
+            "attack": 58,
+            "defense": 57,
+            "special-attack": 81,
+            "special-defense": 67,
+            "speed": 101
+          }
+        }
+      },
+      {
+        "original": "Forretress, L50, F",
+        "species": "Forretress",
+        "pokebase_info": {
+          "name": "forretress",
+          "id": 205,
+          "types": [
+            "bug",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 75,
+            "attack": 90,
+            "defense": 140,
+            "special-attack": 60,
+            "special-defense": 60,
+            "speed": 40
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ogerpon",
+        "Ogerpon-Hearthflame, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ogerpon",
+        "Ogerpon, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ogerpon",
+        "U-turn",
+        "p1a: Ogerpon"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Latias",
+        "Latias, L50, F",
+        "100/100",
+        "[from] U-turn"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ogerpon",
+        "Rock Tomb",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Necrozma",
+        "Necrozma-Dusk-Mane, L50, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Latias",
+        "Calm Mind",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ho-Oh",
+        "Ho-Oh, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Necrozma",
+        "Knock Off",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Reflect",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Necrozma",
+        "Stealth Rock",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Sacred Fire",
+        "p1a: Necrozma"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Necrozma",
+        "Trick Room",
+        "p1a: Necrozma"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ogerpon",
+        "Ogerpon-Hearthflame, L50, F",
+        "60/100"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Sacred Fire",
+        "p1a: Ogerpon"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Sacred Fire",
+        "p1a: Ogerpon"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ursaluna",
+        "Ursaluna-Bloodmoon, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Blood Moon",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Ho-Oh",
+        "Sacred Fire",
+        "p1a: Ursaluna"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Hyper Voice",
+        "p2a: Ho-Oh"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Latias",
+        "Latias, L50, F",
+        "87/100"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Latias",
+        "Calm Mind",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Blood Moon",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Latias",
+        "Recover",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Hyper Voice",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Latias",
+        "Recover",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Blood Moon",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Latias",
+        "Calm Mind",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Hyper Voice",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Latias",
+        "Recover",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Blood Moon",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Latias",
+        "Recover",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Hyper Voice",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Latias",
+        "Calm Mind",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Hyper Voice",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Latias",
+        "Recover",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Hyper Voice",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 18,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Latias",
+        "Calm Mind",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 18,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Blood Moon",
+        "p2a: Latias"
+      ]
+    },
+    {
+      "turn": 19,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Latias",
+        "Draining Kiss",
+        "p1a: Ursaluna"
+      ]
+    },
+    {
+      "turn": 19,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ursaluna",
+        "Hyper Voice",
+        "p2a: Latias"
+      ]
+    }
+  ],
+  "win": "Sirius star"
+}

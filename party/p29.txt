@@ -1,0 +1,59 @@
+Miraidon @ Assault Vest  
+Ability: Hadron Engine  
+Tera Type: Fairy  
+EVs: 236 HP / 4 Def / 244 SpA / 4 SpD / 20 Spe  
+Modest Nature  
+- Electro Drift  
+- Draco Meteor  
+- Volt Switch  
+- Dazzling Gleam  
+
+Dondozo @ Leftovers  
+Ability: Unaware  
+Tera Type: Fairy  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Wave Crash  
+- Avalanche  
+- Earthquake  
+- Protect  
+
+Iron Treads @ Choice Band  
+Ability: Quark Drive  
+Tera Type: Stellar  
+EVs: 4 HP / 212 Atk / 4 Def / 132 SpD / 156 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Knock Off  
+- Ice Spinner  
+
+Dragonite @ Heavy-Duty Boots  
+Ability: Multiscale  
+Tera Type: Normal  
+EVs: 244 HP / 252 Atk / 4 Def / 4 SpD / 4 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Dragon Claw  
+- Encore  
+- Roost  
+
+Ogerpon-Hearthflame @ Hearthflame Mask  
+Ability: Mold Breaker  
+Tera Type: Fire  
+EVs: 236 HP / 236 Atk / 4 Def / 4 SpD / 28 Spe  
+Adamant Nature  
+- Ivy Cudgel  
+- Horn Leech  
+- Knock Off  
+- Swords Dance  
+
+Grimmsnarl @ Lagging Tail  
+Ability: Prankster  
+Tera Type: Ghost  
+EVs: 244 HP / 4 Atk / 60 Def / 196 SpD / 4 Spe  
+Careful Nature  
+- Spirit Break  
+- Foul Play  
+- Trick  
+- Sucker Punch  

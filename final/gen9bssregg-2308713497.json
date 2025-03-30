@@ -1,0 +1,697 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308713497",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "MUDAJINIJr",
+      "chochanwook"
+    ],
+    "uploadtime": 1740627572,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1311,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Calyrex-Shadow, L50",
+        "species": "Calyrex-Shadow",
+        "pokebase_info": {
+          "name": "calyrex-shadow",
+          "id": 10194,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 80,
+            "special-attack": 165,
+            "special-defense": 100,
+            "speed": 150
+          }
+        }
+      },
+      {
+        "original": "Scizor, L50, M",
+        "species": "Scizor",
+        "pokebase_info": {
+          "name": "scizor",
+          "id": 212,
+          "types": [
+            "bug",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 65
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Dragonite, L50, M",
+        "species": "Dragonite",
+        "pokebase_info": {
+          "name": "dragonite",
+          "id": 149,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, M",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Alomomola, L50, M",
+        "species": "Alomomola",
+        "pokebase_info": {
+          "name": "alomomola",
+          "id": 594,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 165,
+            "attack": 75,
+            "defense": 80,
+            "special-attack": 40,
+            "special-defense": 45,
+            "speed": 65
+          }
+        }
+      },
+      {
+        "original": "Ho-Oh, L50",
+        "species": "Ho-Oh",
+        "pokebase_info": {
+          "name": "ho-oh",
+          "id": 250,
+          "types": [
+            "fire",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 106,
+            "attack": 130,
+            "defense": 90,
+            "special-attack": 110,
+            "special-defense": 154,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Toxapex, L50, M",
+        "species": "Toxapex",
+        "pokebase_info": {
+          "name": "toxapex",
+          "id": 748,
+          "types": [
+            "poison",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 50,
+            "attack": 63,
+            "defense": 152,
+            "special-attack": 53,
+            "special-defense": 142,
+            "speed": 35
+          }
+        }
+      },
+      {
+        "original": "Hydrapple, L50, F",
+        "species": "Hydrapple",
+        "pokebase_info": {
+          "name": "hydrapple",
+          "id": 1019,
+          "types": [
+            "grass",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 106,
+            "attack": 80,
+            "defense": 110,
+            "special-attack": 120,
+            "special-defense": 80,
+            "speed": 44
+          }
+        }
+      },
+      {
+        "original": "Skeledirge, L50, M",
+        "species": "Skeledirge",
+        "pokebase_info": {
+          "name": "skeledirge",
+          "id": 911,
+          "types": [
+            "fire",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 104,
+            "attack": 75,
+            "defense": 100,
+            "special-attack": 110,
+            "special-defense": 75,
+            "speed": 66
+          }
+        }
+      },
+      {
+        "original": "Ceruledge, L50, M",
+        "species": "Ceruledge",
+        "pokebase_info": {
+          "name": "ceruledge",
+          "id": 937,
+          "types": [
+            "fire",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 75,
+            "attack": 125,
+            "defense": 80,
+            "special-attack": 60,
+            "special-defense": 100,
+            "speed": 85
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ting-Lu",
+        "Ting-Lu, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ub3c5",
+        "Toxapex, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Scizor",
+        "Scizor, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ub3c5",
+        "Infestation",
+        "p1a: Scizor"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Scizor",
+        "U-turn",
+        "p2a: \uc7ac\uc0dd\ub3c5"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Calyrex",
+        "Calyrex-Shadow, L50",
+        "100/100",
+        "[from] U-turn"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ub3c5",
+        "Toxic Spikes",
+        "p1a: Calyrex"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ubd88",
+        "Ho-Oh, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Psychic",
+        "p2a: \uc7ac\uc0dd\ubd88"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Psychic",
+        "p2a: \uc7ac\uc0dd\ubd88"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ubd88",
+        "Sacred Fire",
+        "p1a: Calyrex"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ud480",
+        "Hydrapple, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Calyrex",
+        "Psychic",
+        "p2a: \uc7ac\uc0dd\ud480"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ud480",
+        "Sucker Punch",
+        "p1a: Calyrex"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Scizor",
+        "Scizor, L50, M",
+        "86/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ubd88",
+        "Ho-Oh, L50",
+        "69/100"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Scizor",
+        "Dual Wingbeat",
+        "p2a: \uc7ac\uc0dd\ubd88"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ud480",
+        "Hydrapple, L50, F",
+        "79/100"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Scizor",
+        "Dual Wingbeat",
+        "p2a: \uc7ac\uc0dd\ud480"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ud480",
+        "Fickle Beam",
+        "p1a: Scizor"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ub3c5",
+        "Toxapex, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Scizor",
+        "Dual Wingbeat",
+        "p2a: \uc7ac\uc0dd\ub3c5"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ub3c5",
+        "Baneful Bunker",
+        "p2a: \uc7ac\uc0dd\ub3c5"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Scizor",
+        "Dual Wingbeat",
+        "p2a: \uc7ac\uc0dd\ub3c5"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ting-Lu",
+        "Ting-Lu, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ud480",
+        "Hydrapple, L50, F, tera:Dark",
+        "54/100"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Stealth Rock",
+        "p2a: \uc7ac\uc0dd\ud480"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ud480",
+        "Recover",
+        "p2a: \uc7ac\uc0dd\ud480"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Spikes",
+        "p2a: \uc7ac\uc0dd\ud480"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ud480",
+        "Energy Ball",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Spikes",
+        "p2a: \uc7ac\uc0dd\ud480"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ud480",
+        "Energy Ball",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ting-Lu",
+        "Ruination",
+        "p2a: \uc7ac\uc0dd\ud480"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ud480",
+        "Energy Ball",
+        "p1a: Ting-Lu"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Scizor",
+        "Scizor, L50, M, tera:Flying",
+        "2/100 psn"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: \uc7ac\uc0dd\ud480",
+        "Sucker Punch",
+        "p1a: Scizor"
+      ]
+    }
+  ],
+  "win": "chochanwook"
+}

@@ -1,0 +1,720 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308689663",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "chochanwook",
+      "Sosuke0723"
+    ],
+    "uploadtime": 1740624153,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1195,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Alomomola, L50, F",
+        "species": "Alomomola",
+        "pokebase_info": {
+          "name": "alomomola",
+          "id": 594,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 165,
+            "attack": 75,
+            "defense": 80,
+            "special-attack": 40,
+            "special-defense": 45,
+            "speed": 65
+          }
+        }
+      },
+      {
+        "original": "Ho-Oh, L50",
+        "species": "Ho-Oh",
+        "pokebase_info": {
+          "name": "ho-oh",
+          "id": 250,
+          "types": [
+            "fire",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 106,
+            "attack": 130,
+            "defense": 90,
+            "special-attack": 110,
+            "special-defense": 154,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Toxapex, L50, M",
+        "species": "Toxapex",
+        "pokebase_info": {
+          "name": "toxapex",
+          "id": 748,
+          "types": [
+            "poison",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 50,
+            "attack": 63,
+            "defense": 152,
+            "special-attack": 53,
+            "special-defense": 142,
+            "speed": 35
+          }
+        }
+      },
+      {
+        "original": "Hydrapple, L50, F",
+        "species": "Hydrapple",
+        "pokebase_info": {
+          "name": "hydrapple",
+          "id": 1019,
+          "types": [
+            "grass",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 106,
+            "attack": 80,
+            "defense": 110,
+            "special-attack": 120,
+            "special-defense": 80,
+            "speed": 44
+          }
+        }
+      },
+      {
+        "original": "Skeledirge, L50, F",
+        "species": "Skeledirge",
+        "pokebase_info": {
+          "name": "skeledirge",
+          "id": 911,
+          "types": [
+            "fire",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 104,
+            "attack": 75,
+            "defense": 100,
+            "special-attack": 110,
+            "special-defense": 75,
+            "speed": 66
+          }
+        }
+      },
+      {
+        "original": "Ceruledge, L50, F",
+        "species": "Ceruledge",
+        "pokebase_info": {
+          "name": "ceruledge",
+          "id": 937,
+          "types": [
+            "fire",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 75,
+            "attack": 125,
+            "defense": 80,
+            "special-attack": 60,
+            "special-defense": 100,
+            "speed": 85
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Terapagos, L50, M",
+        "species": "Terapagos",
+        "pokebase_info": {
+          "name": "terapagos",
+          "id": 1024,
+          "types": [
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 65,
+            "defense": 85,
+            "special-attack": 65,
+            "special-defense": 85,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Glimmora, L50, M",
+        "species": "Glimmora",
+        "pokebase_info": {
+          "name": "glimmora",
+          "id": 970,
+          "types": [
+            "rock",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 83,
+            "attack": 55,
+            "defense": 90,
+            "special-attack": 130,
+            "special-defense": 81,
+            "speed": 86
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, M",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Rillaboom, L50, M",
+        "species": "Rillaboom",
+        "pokebase_info": {
+          "name": "rillaboom",
+          "id": 812,
+          "types": [
+            "grass"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 125,
+            "defense": 90,
+            "special-attack": 60,
+            "special-defense": 70,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Heatran, L50, F",
+        "species": "Heatran",
+        "pokebase_info": {
+          "name": "heatran",
+          "id": 485,
+          "types": [
+            "fire",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 90,
+            "defense": 106,
+            "special-attack": 130,
+            "special-defense": 106,
+            "speed": 77
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ub3c5",
+        "Toxapex, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Glimmora",
+        "Glimmora, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Glimmora",
+        "Stealth Rock",
+        "p1a: \uc7ac\uc0dd\ub3c5"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ub3c5",
+        "Toxic Spikes",
+        "p2a: Glimmora"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Glimmora",
+        "Mortal Spin",
+        "p1a: \uc7ac\uc0dd\ub3c5"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ub3c5",
+        "Infestation",
+        "p2a: Glimmora"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Glimmora",
+        "Memento",
+        "p1a: \uc7ac\uc0dd\ub3c5"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ub3c5",
+        "Toxic Spikes",
+        "p2: Glimmora"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Terapagos",
+        "Terapagos, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ub3c5",
+        "Infestation",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ubd88",
+        "Ho-Oh, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Rock Polish",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Calm Mind",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ubd88",
+        "Sacred Fire",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Tera Starstorm",
+        "p1a: \uc7ac\uc0dd\ubd88"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ubd88",
+        "Sacred Fire",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Terapagos",
+        "Tera Starstorm",
+        "p1a: \uc7ac\uc0dd\ubd88"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ubd88",
+        "Sacred Fire",
+        "p2a: Terapagos"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Heatran",
+        "Heatran, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ub3c5",
+        "Toxapex, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Heatran",
+        "Magma Storm",
+        "p1a: \uc7ac\uc0dd\ub3c5"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Heatran",
+        "Magma Storm",
+        "p1a: \uc7ac\uc0dd\ub3c5",
+        "[miss]"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ub3c5",
+        "Recover",
+        "p1a: \uc7ac\uc0dd\ub3c5"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Heatran",
+        "Magma Storm",
+        "p1a: \uc7ac\uc0dd\ub3c5"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ub3c5",
+        "Infestation",
+        "p2a: Heatran"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Heatran",
+        "Magma Storm",
+        "p1a: \uc7ac\uc0dd\ub3c5"
+      ]
+    },
+    {
+      "turn": 12,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ub3c5",
+        "Recover",
+        "p1a: \uc7ac\uc0dd\ub3c5"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Heatran",
+        "Magma Storm",
+        "p1a: \uc7ac\uc0dd\ub3c5"
+      ]
+    },
+    {
+      "turn": 13,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ub3c5",
+        "Recover",
+        "p1a: \uc7ac\uc0dd\ub3c5"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ubd88",
+        "Ho-Oh, L50",
+        "60/100"
+      ]
+    },
+    {
+      "turn": 14,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Heatran",
+        "Magma Storm",
+        "p1a: \uc7ac\uc0dd\ubd88"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ubd88",
+        "Recover",
+        "p1a: \uc7ac\uc0dd\ubd88"
+      ]
+    },
+    {
+      "turn": 15,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Heatran",
+        "Magma Storm",
+        "p1a: \uc7ac\uc0dd\ubd88",
+        "[miss]"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ubd88",
+        "Recover",
+        "p1a: \uc7ac\uc0dd\ubd88"
+      ]
+    },
+    {
+      "turn": 16,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Heatran",
+        "Magma Storm",
+        "p1a: \uc7ac\uc0dd\ubd88"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: \uc7ac\uc0dd\ubd88",
+        "Recover",
+        "p1a: \uc7ac\uc0dd\ubd88"
+      ]
+    },
+    {
+      "turn": 17,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Heatran",
+        "Struggle",
+        "p1a: \uc7ac\uc0dd\ubd88"
+      ]
+    }
+  ],
+  "win": "chochanwook"
+}

@@ -1,0 +1,560 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307968448",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "rautasi.",
+      "lucinderrace"
+    ],
+    "uploadtime": 1740533322,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1129,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Groudon, L50",
+        "species": "Groudon",
+        "pokebase_info": {
+          "name": "groudon",
+          "id": 383,
+          "types": [
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 150,
+            "defense": 140,
+            "special-attack": 100,
+            "special-defense": 90,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Azumarill, L50, F",
+        "species": "Azumarill",
+        "pokebase_info": {
+          "name": "azumarill",
+          "id": 184,
+          "types": [
+            "water",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 50,
+            "defense": 80,
+            "special-attack": 60,
+            "special-defense": 80,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Alomomola, L50, F",
+        "species": "Alomomola",
+        "pokebase_info": {
+          "name": "alomomola",
+          "id": 594,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 165,
+            "attack": 75,
+            "defense": 80,
+            "special-attack": 40,
+            "special-defense": 45,
+            "speed": 65
+          }
+        }
+      },
+      {
+        "original": "Gliscor, L50, M",
+        "species": "Gliscor",
+        "pokebase_info": {
+          "name": "gliscor",
+          "id": 472,
+          "types": [
+            "ground",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 75,
+            "attack": 95,
+            "defense": 125,
+            "special-attack": 45,
+            "special-defense": 75,
+            "speed": 95
+          }
+        }
+      },
+      {
+        "original": "Hawlucha, L50, M",
+        "species": "Hawlucha",
+        "pokebase_info": {
+          "name": "hawlucha",
+          "id": 701,
+          "types": [
+            "fighting",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 78,
+            "attack": 92,
+            "defense": 75,
+            "special-attack": 74,
+            "special-defense": 63,
+            "speed": 118
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Necrozma-Dawn-Wings, L50",
+        "species": "Necrozma-Dawn-Wings",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Iron Valiant, L50",
+        "species": "Iron Valiant",
+        "pokebase_info": {
+          "name": "iron-valiant",
+          "id": 1006,
+          "types": [
+            "fairy",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 74,
+            "attack": 130,
+            "defense": 90,
+            "special-attack": 120,
+            "special-defense": 60,
+            "speed": 116
+          }
+        }
+      },
+      {
+        "original": "Samurott-Hisui, L50, M",
+        "species": "Samurott-Hisui",
+        "pokebase_info": {
+          "name": "samurott-hisui",
+          "id": 10236,
+          "types": [
+            "water",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 108,
+            "defense": 80,
+            "special-attack": 100,
+            "special-defense": 65,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Volcarona, L50, M",
+        "species": "Volcarona",
+        "pokebase_info": {
+          "name": "volcarona",
+          "id": 637,
+          "types": [
+            "bug",
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 85,
+            "attack": 60,
+            "defense": 65,
+            "special-attack": 135,
+            "special-defense": 105,
+            "speed": 100
+          }
+        }
+      },
+      {
+        "original": "Regieleki, L50",
+        "species": "Regieleki",
+        "pokebase_info": {
+          "name": "regieleki",
+          "id": 894,
+          "types": [
+            "electric"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 100,
+            "defense": 50,
+            "special-attack": 100,
+            "special-defense": 50,
+            "speed": 200
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Gliscor",
+        "Gliscor, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Galacta Knight",
+        "Chien-Pao, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Gliscor",
+        "U-turn",
+        "p2a: Galacta Knight"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Azumarill",
+        "Azumarill, L50, F",
+        "100/100",
+        "[from] U-turn"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Galacta Knight",
+        "Icicle Crash",
+        "p1a: Azumarill"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Zan Partizanne",
+        "Regieleki, L50, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Azumarill",
+        "Aqua Jet",
+        "p2a: Zan Partizanne"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Gliscor",
+        "Gliscor, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Zan Partizanne",
+        "Thunderbolt",
+        "p1a: Gliscor"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Magolor",
+        "Necrozma-Dawn-Wings, L50, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Gliscor",
+        "Earthquake",
+        "p2a: Magolor"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Groudon",
+        "Groudon, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Magolor",
+        "Calm Mind",
+        "p2a: Magolor"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Groudon",
+        "Heat Crash",
+        "p2a: Magolor"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Magolor",
+        "Calm Mind",
+        "p2a: Magolor"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Groudon",
+        "Heat Crash",
+        "p2a: Magolor"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Magolor",
+        "Moonlight",
+        "p2a: Magolor"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Gliscor",
+        "Gliscor, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Magolor",
+        "Moongeist Beam",
+        "p1a: Gliscor"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Azumarill",
+        "Azumarill, L50, F",
+        "76/100"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Magolor",
+        "Moongeist Beam",
+        "p1a: Azumarill"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Groudon",
+        "Groudon, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Groudon",
+        "Heat Crash",
+        "p2a: Magolor"
+      ]
+    },
+    {
+      "turn": 10,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Magolor",
+        "Moongeist Beam",
+        "p1a: Groudon"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Groudon",
+        "Heat Crash",
+        "p2a: Magolor"
+      ]
+    },
+    {
+      "turn": 11,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Magolor",
+        "Moongeist Beam",
+        "p1a: Groudon"
+      ]
+    }
+  ],
+  "win": "lucinderrace"
+}

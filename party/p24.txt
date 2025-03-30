@@ -1,0 +1,59 @@
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Tera Type: Stellar  
+EVs: 252 SpA / 4 Def / 252 Spe  
+Timid Nature  
+- Astral Barrage  
+- Psyshock  
+- Grass Knot  
+- Encore  
+
+Ting-Lu @ Sitrus Berry  
+Ability: Vessel of Ruin  
+Tera Type: Steel  
+EVs: 244 HP / 4 Atk / 28 Def / 212 SpD / 20 Spe  
+Impish Nature  
+- Earthquake  
+- Spikes  
+- Stealth Rock  
+- Whirlwind  
+
+Dragonite @ Rocky Helmet  
+Ability: Multiscale  
+Tera Type: Normal  
+EVs: 244 HP / 236 Atk / 4 Def / 4 SpD / 20 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Earthquake  
+- Dragon Dance  
+- Roost  
+
+Urshifu-Rapid-Strike @ Choice Band  
+Ability: Unseen Fist  
+Tera Type: Water  
+EVs: 60 HP / 236 Atk / 180 Def / 4 SpD / 28 Spe  
+Adamant Nature  
+- Surging Strikes  
+- Close Combat  
+- Ice Spinner  
+- Aqua Jet  
+
+Ogerpon-Hearthflame @ Hearthflame Mask  
+Ability: Mold Breaker  
+Tera Type: Fire  
+EVs: 252 HP / 12 Atk / 220 Def / 4 SpD / 20 Spe  
+Adamant Nature  
+- Ivy Cudgel  
+- Play Rough  
+- Protect  
+- Synthesis  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+Tera Type: Fairy  
+EVs: 172 HP / 4 Atk / 92 Def / 236 SpD / 4 Spe  
+Careful Nature  
+- Earthquake  
+- Tera Blast  
+- Yawn  
+- Protect  

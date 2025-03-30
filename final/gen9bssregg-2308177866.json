@@ -1,0 +1,408 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308177866",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "myleaf",
+      "20223330o"
+    ],
+    "uploadtime": 1740566649,
+    "views": 6,
+    "formatid": "gen9bssregg",
+    "rating": 1269,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Koraidon, L50",
+        "species": "Koraidon",
+        "pokebase_info": {
+          "name": "koraidon",
+          "id": 1007,
+          "types": [
+            "fighting",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 135,
+            "defense": 115,
+            "special-attack": 85,
+            "special-defense": 100,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Landorus-Therian, L50, M",
+        "species": "Landorus-Therian",
+        "pokebase_info": {
+          "name": "landorus-therian",
+          "id": 10021,
+          "types": [
+            "ground",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 89,
+            "attack": 145,
+            "defense": 90,
+            "special-attack": 105,
+            "special-defense": 80,
+            "speed": 91
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Flutter Mane, L50",
+        "species": "Flutter Mane",
+        "pokebase_info": {
+          "name": "flutter-mane",
+          "id": 987,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 55,
+            "special-attack": 135,
+            "special-defense": 135,
+            "speed": 135
+          }
+        }
+      },
+      {
+        "original": "Tyranitar, L50, M",
+        "species": "Tyranitar",
+        "pokebase_info": {
+          "name": "tyranitar",
+          "id": 248,
+          "types": [
+            "rock",
+            "dark"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 134,
+            "defense": 110,
+            "special-attack": 95,
+            "special-defense": 100,
+            "speed": 61
+          }
+        }
+      },
+      {
+        "original": "Heatran, L50, M",
+        "species": "Heatran",
+        "pokebase_info": {
+          "name": "heatran",
+          "id": 485,
+          "types": [
+            "fire",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 90,
+            "defense": 106,
+            "special-attack": 130,
+            "special-defense": 106,
+            "speed": 77
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Rayquaza, L50",
+        "species": "Rayquaza",
+        "pokebase_info": {
+          "name": "rayquaza",
+          "id": 384,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 105,
+            "attack": 150,
+            "defense": 90,
+            "special-attack": 150,
+            "special-defense": 90,
+            "speed": 95
+          }
+        }
+      },
+      {
+        "original": "Iron Treads, L50",
+        "species": "Iron Treads",
+        "pokebase_info": {
+          "name": "iron-treads",
+          "id": 990,
+          "types": [
+            "ground",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 112,
+            "defense": 120,
+            "special-attack": 72,
+            "special-defense": 70,
+            "speed": 106
+          }
+        }
+      },
+      {
+        "original": "Chi-Yu, L50",
+        "species": "Chi-Yu",
+        "pokebase_info": {
+          "name": "chi-yu",
+          "id": 1004,
+          "types": [
+            "dark",
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 80,
+            "defense": 80,
+            "special-attack": 135,
+            "special-defense": 120,
+            "speed": 100
+          }
+        }
+      },
+      {
+        "original": "Frosmoth, L50, F",
+        "species": "Frosmoth",
+        "pokebase_info": {
+          "name": "frosmoth",
+          "id": 873,
+          "types": [
+            "ice",
+            "bug"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 65,
+            "defense": 60,
+            "special-attack": 125,
+            "special-defense": 90,
+            "speed": 65
+          }
+        }
+      },
+      {
+        "original": "Rillaboom, L50, M",
+        "species": "Rillaboom",
+        "pokebase_info": {
+          "name": "rillaboom",
+          "id": 812,
+          "types": [
+            "grass"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 125,
+            "defense": 90,
+            "special-attack": 60,
+            "special-defense": 70,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Scream Tail, L50",
+        "species": "Scream Tail",
+        "pokebase_info": {
+          "name": "scream-tail",
+          "id": 985,
+          "types": [
+            "fairy",
+            "psychic"
+          ],
+          "base_stats": {
+            "hp": 115,
+            "attack": 65,
+            "defense": 99,
+            "special-attack": 65,
+            "special-defense": 115,
+            "speed": 111
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Flutter Mane",
+        "Flutter Mane, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Chi-Yu",
+        "Chi-Yu, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Chi-Yu",
+        "Dark Pulse",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Flutter Mane",
+        "Calm Mind",
+        "p1a: Flutter Mane"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Tyranitar",
+        "Tyranitar, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Chi-Yu",
+        "Dark Pulse",
+        "p1a: Tyranitar"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Iron Treads",
+        "Iron Treads, L50, shiny",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Tyranitar",
+        "Dragon Dance",
+        "p1a: Tyranitar"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Iron Treads",
+        "Stealth Rock",
+        "p1a: Tyranitar"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Tyranitar",
+        "Brick Break",
+        "p2a: Iron Treads"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Iron Treads",
+        "Earthquake",
+        "p1a: Tyranitar"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Tyranitar",
+        "Rock Blast",
+        "p2a: Iron Treads"
+      ]
+    }
+  ],
+  "win": "20223330o"
+}

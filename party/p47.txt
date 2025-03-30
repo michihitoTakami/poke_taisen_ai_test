@@ -1,0 +1,60 @@
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Tera Type: Stellar  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Astral Barrage  
+- Psyshock  
+- Grass Knot  
+- Encore  
+
+Iron Treads @ Booster Energy  
+Ability: Quark Drive  
+Tera Type: Normal  
+EVs: 188 HP / 84 Atk / 4 Def / 12 SpD / 220 Spe  
+Jolly Nature  
+- Earthquake  
+- Knock Off  
+- Endeavor  
+- Stealth Rock  
+
+Rillaboom @ Grassy Seed  
+Ability: Grassy Surge  
+Tera Type: Fire  
+EVs: 140 HP / 116 Atk / 252 Def  
+Adamant Nature  
+- Grassy Glide  
+- Acrobatics  
+- High Horsepower  
+- Swords Dance  
+
+Dragonite @ Loaded Dice  
+Ability: Multiscale  
+Tera Type: Ground  
+EVs: 132 HP / 252 Atk / 124 Spe  
+Adamant Nature  
+- Scale Shot  
+- Earthquake  
+- Extreme Speed  
+- Dragon Dance  
+
+Sneasler @ Normal Gem  
+Ability: Unburden  
+Tera Type: Flying  
+EVs: 44 HP / 252 Atk / 212 Spe  
+Adamant Nature  
+- Acrobatics  
+- Close Combat  
+- Taunt  
+- Fake Out  
+
+Breloom @ Toxic Orb  
+Ability: Poison Heal  
+Tera Type: Normal  
+EVs: 204 HP / 4 Atk / 76 Def / 4 SpD / 220 Spe  
+Impish Nature  
+- Facade  
+- Spore  
+- Substitute  
+- Leech Seed  

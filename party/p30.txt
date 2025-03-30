@@ -1,0 +1,59 @@
+Incineroar @ Sitrus Berry  
+Ability: Intimidate  
+Tera Type: Grass  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Knock Off  
+- Flare Blitz  
+- Parting Shot  
+- Fake Out  
+
+Lugia @ Leftovers  
+Ability: Multiscale  
+Tera Type: Poison
+EVs: 252 HP / 236 Def / 20 Spe  
+Bold Nature  
+- Aeroblast  
+- Whirlwind  
+- Calm Mind  
+- Roost  
+
+Snorlax @ Assault Vest  
+Ability: Thick Fat  
+Tera Type: Fairy  
+EVs: 100 HP / 252 Atk / 44 Def / 156 SpD / 4 Spe  
+Adamant Nature  
+- Heavy Slam  
+- High Horsepower  
+- Earthquake  
+- Ice Punch  
+
+Donphan @ Custap Berry  
+Ability: Sturdy  
+Tera Type: Ground  
+EVs: 252 HP / 252 Atk / 4 Def  
+Adamant Nature  
+- Earthquake  
+- Knock Off  
+- Ice Shard  
+- Stealth Rock  
+
+Dragonite @ Rocky Helmet  
+Ability: Multiscale  
+Tera Type: Normal  
+EVs: 244 HP / 252 Atk / 4 Def / 4 SpD / 4 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Earthquake  
+- Encore  
+- Roost  
+
+Greninja @ Focus Sash  
+Ability: Protean  
+Tera Type: Poison  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Hasty Nature  
+- Gunk Shot  
+- Spikes  
+- Toxic Spikes  
+- Hydro Pump  

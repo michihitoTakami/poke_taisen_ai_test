@@ -1,0 +1,443 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307460711",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "picogrill398",
+      "wtb3434098"
+    ],
+    "uploadtime": 1740477189,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1204,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Calyrex-Shadow, L50",
+        "species": "Calyrex-Shadow",
+        "pokebase_info": {
+          "name": "calyrex-shadow",
+          "id": 10194,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 80,
+            "special-attack": 165,
+            "special-defense": 100,
+            "speed": 150
+          }
+        }
+      },
+      {
+        "original": "Landorus-Therian, L50, M",
+        "species": "Landorus-Therian",
+        "pokebase_info": {
+          "name": "landorus-therian",
+          "id": 10021,
+          "types": [
+            "ground",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 89,
+            "attack": 145,
+            "defense": 90,
+            "special-attack": 105,
+            "special-defense": 80,
+            "speed": 91
+          }
+        }
+      },
+      {
+        "original": "Archaludon, L50, F",
+        "species": "Archaludon",
+        "pokebase_info": {
+          "name": "archaludon",
+          "id": 1018,
+          "types": [
+            "steel",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 105,
+            "defense": 130,
+            "special-attack": 125,
+            "special-defense": 65,
+            "speed": 85
+          }
+        }
+      },
+      {
+        "original": "Azumarill, L50, F",
+        "species": "Azumarill",
+        "pokebase_info": {
+          "name": "azumarill",
+          "id": 184,
+          "types": [
+            "water",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 50,
+            "defense": 80,
+            "special-attack": 60,
+            "special-defense": 80,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Ogerpon-Hearthflame, L50, F",
+        "species": "Ogerpon-Hearthflame",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Breloom, L50, F",
+        "species": "Breloom",
+        "pokebase_info": {
+          "name": "breloom",
+          "id": 286,
+          "types": [
+            "grass",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 60,
+            "attack": 130,
+            "defense": 80,
+            "special-attack": 60,
+            "special-defense": 60,
+            "speed": 70
+          }
+        }
+      },
+      {
+        "original": "Torkoal, L50, F",
+        "species": "Torkoal",
+        "pokebase_info": {
+          "name": "torkoal",
+          "id": 324,
+          "types": [
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 85,
+            "defense": 140,
+            "special-attack": 85,
+            "special-defense": 70,
+            "speed": 20
+          }
+        }
+      },
+      {
+        "original": "Calyrex-Ice, L50",
+        "species": "Calyrex-Ice",
+        "pokebase_info": {
+          "name": "calyrex-ice",
+          "id": 10193,
+          "types": [
+            "psychic",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 165,
+            "defense": 150,
+            "special-attack": 85,
+            "special-defense": 130,
+            "speed": 50
+          }
+        }
+      },
+      {
+        "original": "Hatterene, L50, F",
+        "species": "Hatterene",
+        "pokebase_info": {
+          "name": "hatterene",
+          "id": 858,
+          "types": [
+            "psychic",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 57,
+            "attack": 90,
+            "defense": 95,
+            "special-attack": 136,
+            "special-defense": 103,
+            "speed": 29
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, M",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Ursaluna-Bloodmoon, L50, M",
+        "species": "Ursaluna-Bloodmoon",
+        "pokebase_info": {
+          "name": "ursaluna-bloodmoon",
+          "id": 10272,
+          "types": [
+            "ground",
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 113,
+            "attack": 70,
+            "defense": 120,
+            "special-attack": 135,
+            "special-defense": 65,
+            "speed": 52
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Ogerpon",
+        "Ogerpon-Hearthflame, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Hatterene",
+        "Hatterene, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ogerpon",
+        "Ivy Cudgel",
+        "p2a: Hatterene",
+        "[anim] Ivy Cudgel Fire"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Hatterene",
+        "Trick Room",
+        "p2a: Hatterene"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Hatterene",
+        "Psychic Noise",
+        "p1a: Ogerpon"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Hatterene",
+        "Misty Explosion",
+        "p1a: Ogerpon"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Ogerpon",
+        "Ivy Cudgel",
+        "p2: Hatterene",
+        "[notarget]"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Calyrex",
+        "Calyrex-Ice, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Glacial Lance",
+        "p1a: Ogerpon"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Azumarill",
+        "Azumarill, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Glacial Lance",
+        "p1a: Azumarill"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Azumarill",
+        "Liquidation",
+        "p2a: Calyrex"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Azumarill",
+        "Play Rough",
+        "p2a: Calyrex"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Calyrex",
+        "Trick Room",
+        "p2a: Calyrex"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Azumarill",
+        "Aqua Jet",
+        "p2a: Calyrex"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Ursaluna",
+        "Ursaluna-Bloodmoon, L50, M",
+        "100/100"
+      ]
+    }
+  ],
+  "win": "wtb3434098"
+}

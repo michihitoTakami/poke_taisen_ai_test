@@ -1,0 +1,407 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308190314",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "fujisawa123",
+      "Fuso612"
+    ],
+    "uploadtime": 1740568597,
+    "views": 4,
+    "formatid": "gen9bssregg",
+    "rating": 1033,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Calyrex-Shadow, L50",
+        "species": "Calyrex-Shadow",
+        "pokebase_info": {
+          "name": "calyrex-shadow",
+          "id": 10194,
+          "types": [
+            "psychic",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 85,
+            "defense": 80,
+            "special-attack": 165,
+            "special-defense": 100,
+            "speed": 150
+          }
+        }
+      },
+      {
+        "original": "Swampert, L50, F",
+        "species": "Swampert",
+        "pokebase_info": {
+          "name": "swampert",
+          "id": 260,
+          "types": [
+            "water",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 110,
+            "defense": 90,
+            "special-attack": 85,
+            "special-defense": 90,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Snorlax, L50, F",
+        "species": "Snorlax",
+        "pokebase_info": {
+          "name": "snorlax",
+          "id": 143,
+          "types": [
+            "normal"
+          ],
+          "base_stats": {
+            "hp": 160,
+            "attack": 110,
+            "defense": 65,
+            "special-attack": 65,
+            "special-defense": 110,
+            "speed": 30
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, F",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Dragonite, L50, F",
+        "species": "Dragonite",
+        "pokebase_info": {
+          "name": "dragonite",
+          "id": 149,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Chien-Pao, L50",
+        "species": "Chien-Pao",
+        "pokebase_info": {
+          "name": "chien-pao",
+          "id": 1002,
+          "types": [
+            "dark",
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "special-attack": 90,
+            "special-defense": 65,
+            "speed": 135
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Totodile, L50, M",
+        "species": "Totodile",
+        "pokebase_info": {
+          "name": "totodile",
+          "id": 158,
+          "types": [
+            "water"
+          ],
+          "base_stats": {
+            "hp": 50,
+            "attack": 65,
+            "defense": 64,
+            "special-attack": 44,
+            "special-defense": 48,
+            "speed": 43
+          }
+        }
+      },
+      {
+        "original": "Mismagius, L50, M",
+        "species": "Mismagius",
+        "pokebase_info": {
+          "name": "mismagius",
+          "id": 429,
+          "types": [
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 60,
+            "attack": 60,
+            "defense": 60,
+            "special-attack": 105,
+            "special-defense": 105,
+            "speed": 105
+          }
+        }
+      },
+      {
+        "original": "Cacnea, L50, F",
+        "species": "Cacnea",
+        "pokebase_info": {
+          "name": "cacnea",
+          "id": 331,
+          "types": [
+            "grass"
+          ],
+          "base_stats": {
+            "hp": 50,
+            "attack": 85,
+            "defense": 40,
+            "special-attack": 85,
+            "special-defense": 40,
+            "speed": 35
+          }
+        }
+      },
+      {
+        "original": "Litwick, L50, M",
+        "species": "Litwick",
+        "pokebase_info": {
+          "name": "litwick",
+          "id": 607,
+          "types": [
+            "ghost",
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 50,
+            "attack": 30,
+            "defense": 55,
+            "special-attack": 65,
+            "special-defense": 55,
+            "speed": 20
+          }
+        }
+      },
+      {
+        "original": "Vivillon, L50, F",
+        "species": "Vivillon",
+        "pokebase_info": {
+          "name": "vivillon",
+          "id": 666,
+          "types": [
+            "bug",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 52,
+            "defense": 50,
+            "special-attack": 90,
+            "special-defense": 50,
+            "speed": 89
+          }
+        }
+      },
+      {
+        "original": "Corvisquire, L50, F",
+        "species": "Corvisquire",
+        "pokebase_info": {
+          "name": "corvisquire",
+          "id": 822,
+          "types": [
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 68,
+            "attack": 67,
+            "defense": 55,
+            "special-attack": 43,
+            "special-defense": 55,
+            "speed": 77
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Chien-Pao",
+        "Chien-Pao, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Mismagius",
+        "Mismagius, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Chien-Pao",
+        "Sucker Punch",
+        "",
+        "[still]"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Mismagius",
+        "Destiny Bond",
+        "p2a: Mismagius"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Chien-Pao",
+        "Sucker Punch",
+        "",
+        "[still]"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Mismagius",
+        "Destiny Bond",
+        "",
+        "[still]"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Cacnea",
+        "Cacnea, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Chien-Pao",
+        "Icicle Crash",
+        "p2a: Cacnea"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Mismagius",
+        "Mismagius, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Mismagius",
+        "Trick",
+        "p1a: Chien-Pao"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Chien-Pao",
+        "Icicle Crash",
+        "p2a: Mismagius"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Chien-Pao",
+        "Icicle Crash",
+        "p2a: Mismagius"
+      ]
+    }
+  ],
+  "win": "fujisawa123"
+}

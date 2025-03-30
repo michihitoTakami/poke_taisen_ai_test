@@ -1,0 +1,60 @@
+Calyrex-Shadow @ Focus Sash  
+Ability: As One (Spectrier)  
+Tera Type: Fighting  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Astral Barrage  
+- Tera Blast  
+- Encore  
+- Nasty Plot  
+
+Dragonite @ Loaded Dice  
+Ability: Multiscale  
+Tera Type: Normal  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Scale Shot  
+- Earthquake  
+- Dragon Dance  
+
+Ting-Lu @ Sitrus Berry  
+Ability: Vessel of Ruin  
+Tera Type: Water  
+EVs: 244 HP / 116 Def / 148 SpD  
+Impish Nature  
+- Ruination  
+- Stealth Rock  
+- Spikes  
+- Whirlwind  
+
+Chien-Pao @ Black Glasses  
+Ability: Sword of Ruin  
+Tera Type: Fire  
+EVs: 28 HP / 252 Atk / 164 Def / 12 SpD / 52 Spe  
+Adamant Nature  
+- Crunch  
+- Ice Shard  
+- Swords Dance  
+- Sucker Punch  
+
+Flutter Mane @ Booster Energy  
+Ability: Protosynthesis  
+Tera Type: Normal  
+EVs: 100 HP / 252 Def / 20 SpA / 4 SpD / 132 Spe  
+Timid Nature  
+- Moonblast  
+- Charm  
+- Calm Mind  
+- Pain Split  
+
+Urshifu-Rapid-Strike @ Punching Glove  
+Ability: Unseen Fist  
+Tera Type: Water  
+EVs: 156 HP / 236 Atk / 100 Def / 4 SpD / 12 Spe  
+Adamant Nature  
+- Surging Strikes  
+- Drain Punch  
+- Ice Punch  
+- Aqua Jet  

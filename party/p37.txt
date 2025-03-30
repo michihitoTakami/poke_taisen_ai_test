@@ -1,0 +1,59 @@
+Miraidon @ Choice Specs  
+Ability: Hadron Engine  
+Tera Type: Fairy  
+EVs: 252 SpA / 4 Def / 252 Spe  
+Timid Nature  
+- Electro Drift  
+- Draco Meteor  
+- Volt Switch  
+- Dazzling Gleam  
+
+Grimmsnarl @ Lagging Tail  
+Ability: Prankster  
+Tera Type: Fire  
+EVs: 252 HP / 52 Def / 204 SpD  
+Careful Nature  
+- Spirit Break  
+- Foul Play  
+- Thunder Wave  
+- Trick  
+
+Urshifu-Rapid-Strike @ Choice Band  
+Ability: Unseen Fist  
+Tera Type: Water  
+EVs: 68 HP / 236 Atk / 164 Def / 4 SpD / 36 Spe  
+Adamant Nature  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- U-turn  
+
+Landorus-Therian @ Assault Vest  
+Ability: Intimidate  
+Tera Type: Fire  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+- Earthquake  
+- Rock Tomb  
+- U-turn  
+- Fissure  
+
+Garganacl @ Leftovers  
+Ability: Purifying Salt  
+Tera Type: Fire  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- Salt Cure  
+- Body Press  
+- Iron Defense  
+- Recover  
+
+Ting-Lu @ Sitrus Berry  
+Ability: Vessel of Ruin  
+Tera Type: Poison  
+EVs: 212 HP / 44 Def / 252 SpD  
+Impish Nature  
+- Ruination  
+- Stealth Rock  
+- Spikes  
+- Whirlwind  

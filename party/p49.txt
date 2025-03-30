@@ -1,0 +1,59 @@
+Basculegion (Black Rider) @ Focus Sash  
+Ability: As One (Spectrier)  
+Tera Type: Grass  
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe  
+Timid Nature  
+- Astral Barrage  
+- Giga Drain  
+- Protect  
+- Encore  
+
+Chien-Pao @ Lum Berry  
+Ability: Sword of Ruin  
+Tera Type: Electric  
+EVs: 156 HP / 196 Atk / 12 Def / 0 SpA / 4 SpD / 140 Spe  
+Adamant Nature  
+- Icicle Crash  
+- Ice Shard  
+- Tera Blast  
+- Swords Dance  
+
+Ting-Lu @ Assault Vest  
+Ability: Vessel of Ruin  
+Tera Type: Ghost  
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe  
+Careful Nature  
+- Earthquake  
+- Catastrophe  
+- Stone Edge  
+- Tera Blast  
+
+Dragonite @ Loaded Dice  
+Ability: Multiscale  
+Tera Type: Ice  
+EVs: 100 HP / 188 Atk / 12 Def / 0 SpA / 4 SpD / 204 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Scale Shot  
+- Earthquake  
+- Dragon Dance  
+
+Urshifu-Rapid-Strike @ Mystic Water  
+Ability: Unseen Fist  
+Tera Type: Normal  
+EVs: 140 HP / 252 Atk / 116 Def / 0 SpA / 0 SpD / 0 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Surging Strikes  
+- Close Combat  
+- Ice Punch  
+
+Archaludon @ Rocky Helmet  
+Ability: Stamina  
+Tera Type: Fire  
+EVs: 252 HP / 0 Atk / 252 Def / 4 SpD / 0 Spe  
+Impish Nature  
+- Draco Meteor  
+- Body Press  
+- Heavy Slam  
+- Stealth Rock  

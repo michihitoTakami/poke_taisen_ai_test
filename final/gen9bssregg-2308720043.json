@@ -1,0 +1,394 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2308720043",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "kajeer",
+      "gyakutennokage reg"
+    ],
+    "uploadtime": 1740628529,
+    "views": 3,
+    "formatid": "gen9bssregg",
+    "rating": 1176,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Urshifu-*, L50, M",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Toxapex, L50, M",
+        "species": "Toxapex",
+        "pokebase_info": {
+          "name": "toxapex",
+          "id": 748,
+          "types": [
+            "poison",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 50,
+            "attack": 63,
+            "defense": 152,
+            "special-attack": 53,
+            "special-defense": 142,
+            "speed": 35
+          }
+        }
+      },
+      {
+        "original": "Ting-Lu, L50",
+        "species": "Ting-Lu",
+        "pokebase_info": {
+          "name": "ting-lu",
+          "id": 1003,
+          "types": [
+            "dark",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 155,
+            "attack": 110,
+            "defense": 125,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 45
+          }
+        }
+      },
+      {
+        "original": "Lugia, L50",
+        "species": "Lugia",
+        "pokebase_info": {
+          "name": "lugia",
+          "id": 249,
+          "types": [
+            "psychic",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 106,
+            "attack": 90,
+            "defense": 130,
+            "special-attack": 90,
+            "special-defense": 154,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Zoroark-Hisui, L50, F",
+        "species": "Zoroark-Hisui",
+        "pokebase_info": {
+          "name": "zoroark-hisui",
+          "id": 10239,
+          "types": [
+            "normal",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 100,
+            "defense": 60,
+            "special-attack": 125,
+            "special-defense": 60,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Mimikyu, L50, M",
+        "species": "Mimikyu",
+        "pokebase_info": {
+          "name": "mimikyu-disguised",
+          "id": 778,
+          "types": [
+            "ghost",
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 55,
+            "attack": 90,
+            "defense": 80,
+            "special-attack": 50,
+            "special-defense": 105,
+            "speed": 96
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Skeledirge, L50, M",
+        "species": "Skeledirge",
+        "pokebase_info": {
+          "name": "skeledirge",
+          "id": 911,
+          "types": [
+            "fire",
+            "ghost"
+          ],
+          "base_stats": {
+            "hp": 104,
+            "attack": 75,
+            "defense": 100,
+            "special-attack": 110,
+            "special-defense": 75,
+            "speed": 66
+          }
+        }
+      },
+      {
+        "original": "Clodsire, L50, M",
+        "species": "Clodsire",
+        "pokebase_info": {
+          "name": "clodsire",
+          "id": 980,
+          "types": [
+            "poison",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 130,
+            "attack": 75,
+            "defense": 60,
+            "special-attack": 45,
+            "special-defense": 100,
+            "speed": 20
+          }
+        }
+      },
+      {
+        "original": "Lugia, L50",
+        "species": "Lugia",
+        "pokebase_info": {
+          "name": "lugia",
+          "id": 249,
+          "types": [
+            "psychic",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 106,
+            "attack": 90,
+            "defense": 130,
+            "special-attack": 90,
+            "special-defense": 154,
+            "speed": 110
+          }
+        }
+      },
+      {
+        "original": "Ogerpon-Cornerstone, L50, F",
+        "species": "Ogerpon-Cornerstone",
+        "pokebase_info": {}
+      },
+      {
+        "original": "Glastrier, L50",
+        "species": "Glastrier",
+        "pokebase_info": {
+          "name": "glastrier",
+          "id": 896,
+          "types": [
+            "ice"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 145,
+            "defense": 130,
+            "special-attack": 65,
+            "special-defense": 110,
+            "speed": 30
+          }
+        }
+      },
+      {
+        "original": "Qwilfish-Hisui, L50, M",
+        "species": "Qwilfish-Hisui",
+        "pokebase_info": {
+          "name": "qwilfish-hisui",
+          "id": 10234,
+          "types": [
+            "dark",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 65,
+            "attack": 95,
+            "defense": 85,
+            "special-attack": 55,
+            "special-defense": 55,
+            "speed": 85
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Urshifu",
+        "Urshifu-Rapid-Strike, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Glastrier",
+        "Glastrier, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Lugia",
+        "Lugia, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Urshifu",
+        "Will-O-Wisp",
+        "p2a: Lugia"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Mimikyu",
+        "Mimikyu, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lugia",
+        "Substitute",
+        "p2a: Lugia"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Mimikyu",
+        "Curse",
+        "p2a: Lugia"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lugia",
+        "Psychic Noise",
+        "p1a: Mimikyu"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Urshifu",
+        "Urshifu-Rapid-Strike, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lugia",
+        "Psychic Noise",
+        "p1a: Urshifu"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Zoroark",
+        "Will-O-Wisp",
+        "",
+        "[still]"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Lugia",
+        "Psychic Noise",
+        "p1a: Zoroark"
+      ]
+    }
+  ],
+  "win": "kajeer"
+}

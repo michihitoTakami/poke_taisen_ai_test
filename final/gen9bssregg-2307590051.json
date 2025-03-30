@@ -1,0 +1,517 @@
+{
+  "meta": {
+    "id": "gen9bssregg-2307590051",
+    "format": "[Gen 9] BSS Reg G",
+    "players": [
+      "hadlfkjla",
+      "lllokelll"
+    ],
+    "uploadtime": 1740495175,
+    "views": 1,
+    "formatid": "gen9bssregg",
+    "rating": 1077,
+    "private": 0,
+    "password": null
+  },
+  "initial_team": {
+    "p1": [
+      {
+        "original": "Reshiram, L50",
+        "species": "Reshiram",
+        "pokebase_info": {
+          "name": "reshiram",
+          "id": 643,
+          "types": [
+            "dragon",
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 120,
+            "defense": 100,
+            "special-attack": 150,
+            "special-defense": 120,
+            "speed": 90
+          }
+        }
+      },
+      {
+        "original": "Blaziken, L50, M",
+        "species": "Blaziken",
+        "pokebase_info": {
+          "name": "blaziken",
+          "id": 257,
+          "types": [
+            "fire",
+            "fighting"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 70,
+            "special-attack": 110,
+            "special-defense": 70,
+            "speed": 80
+          }
+        }
+      },
+      {
+        "original": "Torkoal, L50, M",
+        "species": "Torkoal",
+        "pokebase_info": {
+          "name": "torkoal",
+          "id": 324,
+          "types": [
+            "fire"
+          ],
+          "base_stats": {
+            "hp": 70,
+            "attack": 85,
+            "defense": 140,
+            "special-attack": 85,
+            "special-defense": 70,
+            "speed": 20
+          }
+        }
+      },
+      {
+        "original": "Urshifu-*, L50, F",
+        "species": "Urshifu-",
+        "pokebase_info": {
+          "name": "urshifu-rapid-strike",
+          "id": 10191,
+          "types": [
+            "fighting",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 100,
+            "attack": 130,
+            "defense": 100,
+            "special-attack": 63,
+            "special-defense": 60,
+            "speed": 97
+          }
+        }
+      },
+      {
+        "original": "Iron Bundle, L50",
+        "species": "Iron Bundle",
+        "pokebase_info": {
+          "name": "iron-bundle",
+          "id": 991,
+          "types": [
+            "ice",
+            "water"
+          ],
+          "base_stats": {
+            "hp": 56,
+            "attack": 80,
+            "defense": 114,
+            "special-attack": 124,
+            "special-defense": 60,
+            "speed": 136
+          }
+        }
+      },
+      {
+        "original": "Archaludon, L50, F",
+        "species": "Archaludon",
+        "pokebase_info": {
+          "name": "archaludon",
+          "id": 1018,
+          "types": [
+            "steel",
+            "dragon"
+          ],
+          "base_stats": {
+            "hp": 90,
+            "attack": 105,
+            "defense": 130,
+            "special-attack": 125,
+            "special-defense": 65,
+            "speed": 85
+          }
+        }
+      }
+    ],
+    "p2": [
+      {
+        "original": "Clefable, L50, F",
+        "species": "Clefable",
+        "pokebase_info": {
+          "name": "clefable",
+          "id": 36,
+          "types": [
+            "fairy"
+          ],
+          "base_stats": {
+            "hp": 95,
+            "attack": 70,
+            "defense": 73,
+            "special-attack": 95,
+            "special-defense": 90,
+            "speed": 60
+          }
+        }
+      },
+      {
+        "original": "Zamazenta-*, L50",
+        "species": "Zamazenta-",
+        "pokebase_info": {
+          "name": "zamazenta-crowned-shield",
+          "id": 889,
+          "types": [
+            "fighting",
+            "steel"
+          ],
+          "base_stats": {
+            "hp": 92,
+            "attack": 120,
+            "defense": 140,
+            "special-attack": 80,
+            "special-defense": 140,
+            "speed": 128
+          }
+        }
+      },
+      {
+        "original": "Garchomp, L50, F",
+        "species": "Garchomp",
+        "pokebase_info": {
+          "name": "garchomp",
+          "id": 445,
+          "types": [
+            "dragon",
+            "ground"
+          ],
+          "base_stats": {
+            "hp": 108,
+            "attack": 130,
+            "defense": 95,
+            "special-attack": 80,
+            "special-defense": 85,
+            "speed": 102
+          }
+        }
+      },
+      {
+        "original": "Amoonguss, L50, M",
+        "species": "Amoonguss",
+        "pokebase_info": {
+          "name": "amoonguss",
+          "id": 591,
+          "types": [
+            "grass",
+            "poison"
+          ],
+          "base_stats": {
+            "hp": 114,
+            "attack": 85,
+            "defense": 70,
+            "special-attack": 85,
+            "special-defense": 80,
+            "speed": 30
+          }
+        }
+      },
+      {
+        "original": "Regieleki, L50",
+        "species": "Regieleki",
+        "pokebase_info": {
+          "name": "regieleki",
+          "id": 894,
+          "types": [
+            "electric"
+          ],
+          "base_stats": {
+            "hp": 80,
+            "attack": 100,
+            "defense": 50,
+            "special-attack": 100,
+            "special-defense": 50,
+            "speed": 200
+          }
+        }
+      },
+      {
+        "original": "Dragonite, L50, F",
+        "species": "Dragonite",
+        "pokebase_info": {
+          "name": "dragonite",
+          "id": 149,
+          "types": [
+            "dragon",
+            "flying"
+          ],
+          "base_stats": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+          }
+        }
+      }
+    ]
+  },
+  "state_action_pairs": [
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Iron Bundle",
+        "Iron Bundle, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": null,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Garchomp",
+        "Garchomp, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Iron Bundle",
+        "Freeze-Dry",
+        "p2a: Garchomp"
+      ]
+    },
+    {
+      "turn": 1,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Garchomp",
+        "Earthquake",
+        "p1a: Iron Bundle"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Iron Bundle",
+        "Hydro Pump",
+        "p2a: Garchomp"
+      ]
+    },
+    {
+      "turn": 2,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Zamazenta",
+        "Zamazenta-Crowned, L50",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Iron Bundle",
+        "Hydro Pump",
+        "p2a: Zamazenta"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Zamazenta",
+        "Body Press",
+        "p1a: Iron Bundle"
+      ]
+    },
+    {
+      "turn": 3,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Blaziken",
+        "Blaziken, L50, M",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Dragonite",
+        "Dragonite, L50, F",
+        "100/100"
+      ]
+    },
+    {
+      "turn": 4,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blaziken",
+        "Detect",
+        "",
+        "[still]"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blaziken",
+        "Focus Energy",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 5,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Dragonite",
+        "Dragon Dance",
+        "p2a: Dragonite"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blaziken",
+        "Overheat",
+        "p2a: Dragonite",
+        "[miss]"
+      ]
+    },
+    {
+      "turn": 6,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Dragonite",
+        "Tera Blast",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Blaziken",
+        "Baton Pass",
+        "p1a: Blaziken"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p1a: Reshiram",
+        "Reshiram, L50",
+        "100/100",
+        "[from] Baton Pass"
+      ]
+    },
+    {
+      "turn": 7,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p2a: Dragonite",
+        "Dragon Dance",
+        "p2a: Dragonite"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Reshiram",
+        "Draco Meteor",
+        "p2a: Dragonite"
+      ]
+    },
+    {
+      "turn": 8,
+      "state": {
+        "weather": null
+      },
+      "action_type": "switch",
+      "details": [
+        "p2a: Zamazenta",
+        "Zamazenta-Crowned, L50",
+        "48/100"
+      ]
+    },
+    {
+      "turn": 9,
+      "state": {
+        "weather": null
+      },
+      "action_type": "move",
+      "details": [
+        "p1a: Reshiram",
+        "Overheat",
+        "p2a: Zamazenta"
+      ]
+    }
+  ],
+  "win": "hadlfkjla"
+}

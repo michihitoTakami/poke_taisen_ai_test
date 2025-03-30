@@ -1,0 +1,59 @@
+Miraidon @ Assault Vest  
+Ability: Hadron Engine  
+Tera Type: Ice  
+EVs: 236 HP / 4 Def / 252 SpA / 12 SpD / 4 Spe  
+Modest Nature  
+- Electro Drift  
+- Draco Meteor  
+- Tera Blast  
+- Volt Switch
+
+Scizor @ Sitrus Berry  
+Ability: Technician  
+Tera Type: Normal  
+EVs: 252 HP / 76 Atk / 68 Def / 108 SpD / 4 Spe  
+Adamant Nature  
+- Bullet Punch  
+- Dual Wingbeat  
+- Close Combat  
+- Swords Dance
+
+Chien-Pao @ Focus Sash  
+Ability: Sword of Ruin  
+Tera Type: Fire  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Icicle Crash  
+- Sacred Sword  
+- Tera Blast  
+- Sucker Punch
+
+Iron Treads @ Choice Band  
+Ability: Quark Drive  
+Tera Type: Ground  
+EVs: 12 HP / 148 Atk / 4 Def / 124 SpD / 220 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Ice Spinner  
+- Wild Charge
+
+Iron Hands @ Leftovers  
+Ability: Quark Drive  
+Tera Type: Fire  
+EVs: 108 HP / 116 Atk / 252 Def / 4 SpD / 28 Spe  
+Impish Nature  
+- Drain Punch  
+- Supercell Slam  
+- Ice Punch  
+- Swords Dance
+
+Urshifu-Rapid-Strike @ Punching Glove  
+Ability: Unseen Fist  
+Tera Type: Normal  
+EVs: 204 HP / 196 Atk / 100 Def / 4 SpD / 4 Spe  
+Adamant Nature  
+- Surging Strikes  
+- Drain Punch  
+- Aqua Jet  
+- Swords Dance

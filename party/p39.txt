@@ -1,0 +1,56 @@
+Miraidon @ Assault Vest  
+Ability: Hadron Engine  
+Tera Type: Ice  
+EVs: 252 SpA / 4 Def / 252 Spe  
+Timid Nature  
+- Electro Drift  
+- Tera Blast  
+- Draco Meteor  
+- Volt Switch  
+
+Alomomola @ Rocky Helmet  
+Ability: Regenerator  
+Tera Type: Fairy  
+EVs: 124 HP / 252 Def / 132 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Flip Turn  
+- Aqua Jet  
+- Wish  
+- Protect  
+
+Urshifu-Rapid-Strike @ Punching Glove  
+Ability: Unseen Fist  
+Tera Type: Normal  
+EVs: 76 HP / 228 Atk / 204 SpD  
+Adamant Nature  
+- Surging Strikes  
+- Drain Punch  
+- Ice Punch  
+- Aqua Jet  
+
+Mimikyu @ Life Orb  
+Ability: Disguise  
+Tera Type: Stellar  
+EVs: 36 HP / 236 Atk / 100 Def / 4 SpD / 132 Spe  
+Adamant Nature  
+- Play Rough  
+- Shadow Sneak  
+- Endure  
+- Curse  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Tera Type: Fairy  
+EVs: 252 HP / 252 Spe  
+Hasty Nature  
+
+Iron Treads @ Choice Band  
+Ability: Quark Drive  
+Tera Type: Ground  
+EVs: 60 HP / 196 Atk / 4 Def / 84 SpD / 164 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Knock Off  
+- Ice Spinner  

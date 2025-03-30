@@ -1,0 +1,69 @@
+Miraidon @ Electric Seed  
+Ability: Hadron Engine  
+Tera Type: Fairy  
+EVs: 100 HP / 12 Def / 252 SpA / 4 SpD / 140 Spe  
+Timid Nature  
+- Electro Drift  
+- Draco Meteor  
+- Tera Blast  
+- Calm Mind  
+
+Dondozo @ Leftovers  
+Ability: Unaware  
+Tera Type: Fairy  
+EVs: 252 HP / 164 Def / 92 SpD  
+Impish Nature  
+- Rest  
+- Yawn  
+- Avalanche  
+- Earthquake  
+
+Landorus-Therian @ Assault Vest  
+Ability: Intimidate  
+Tera Type: Normal  
+EVs: 244 HP / 252 Atk / 12 Def  
+Adamant Nature  
+- Earthquake  
+- U-turn  
+- Rock Tomb  
+- Smack Down  
+
+Mimikyu @ Wide Lens  
+Ability: Disguise  
+Tera Type: Fairy  
+EVs: 36 HP / 252 Atk / 12 Def / 4 SpD / 204 Spe  
+Jolly Nature  
+- Play Rough  
+- Shadow Sneak  
+- Will-O-Wisp  
+- Curse  
+
+Garganacl @ Leftovers  
+Ability: Purifying Salt  
+Tera Type: Fire  
+EVs: 252 HP / 244 SpD / 12 Spe  
+Impish Nature  
+- Salt Cure  
+- Recover  
+- Protect  
+- Substitute  
+
+Ogerpon-Hearthflame @ Hearthflame Mask  
+Ability: Mold Breaker  
+Tera Type: Fire  
+EVs: 236 HP / 236 Atk / 4 Def / 4 SpD / 28 Spe  
+Adamant Nature  
+- Ivy Cudgel  
+- Wood Hammer  
+- Swords Dance  
+- Rock Tomb  
+
+Scizor @ Sitrus Berry  
+Ability: Technician  
+Tera Type: Ground  
+EVs: 252 HP / 76 Atk / 68 Def / 108 SpD / 4 Spe  
+Adamant Nature  
+- Bullet Punch  
+- Close Combat  
+- Dual Wingbeat  
+- Swords Dance  
