@@ -4,6 +4,7 @@ import asyncio
 import torch.nn as nn
 from poke_env.player.player import Player
 from poke_env.player.random_player import RandomPlayer
+import random
 
 ########################################
 # タイプ相性表（簡易版）
@@ -77,50 +78,14 @@ def compute_type_effectiveness(move_type, defender_types):
     return total_multiplier
 
 class MaxDamagePlayer(Player):
-    def __init__(self, **kwargs):
-        # この例ではモデル出力は利用せず、評価関数で行動を決定するため、
-        # LearnedAgent の初期化は Player.__init__() のみ呼び出す
-        super().__init__(**kwargs)
-    
-    async def choose_move(self, battle):
-        """
-        available_moves と available_switches の候補それぞれについて、
-        ・タイプ相性スコア（相手アクティブのタイプとの相性）
-        ・残りポケモン数の差（battle.my_remaining - battle.opponent_remaining、なければ 0）
-        を合算して評価し、最もスコアが高い行動を選択するシンプルな例。
-        """
-        # 自分の行動候補を評価するリスト (score, order)
-        candidate_orders = []
-        
-        # まず、対戦相手のアクティブポケモンのタイプ情報を取得
-        opponent = battle.opponent_active_pokemon
-        if opponent is not None and hasattr(opponent, "types"):
-            opponent_types = opponent.types  # 例: ["Grass", "Steel"]
-        else:
-            opponent_types = []
-        
-        # 残りポケモンの差：存在しなければ 0 とする（実際には battle.my_remaining, battle.opponent_remaining を使う）
-        remaining_diff = getattr(battle, "my_remaining", 0) - getattr(battle, "opponent_remaining", 0)
-        
-        # 利用可能な技候補を評価
+    def choose_move(self, battle):
+        # playerが一つでも攻撃技を使用可能なときは、攻撃する
         if battle.available_moves:
-            for move in battle.available_moves:
-                # move.type は技のタイプの文字列と仮定
-                move_type = move.type if hasattr(move, "type") else "normal"
-                type_score = compute_type_effectiveness(move_type, opponent_types)
-                total_score = type_score + remaining_diff
-                candidate_orders.append((total_score, self.create_order(move)))
-        
-        # 利用可能な交代候補を評価
-        if battle.available_switches:
-            for switch in battle.available_switches:
-                # シンプルに、交代の場合は評価値を remaining_diff のみとする
-                total_score = remaining_diff  # 交代であれば、残りポケモンの多さが有利とする
-                candidate_orders.append((total_score, self.create_order(switch)))
-        
-        if candidate_orders:
-            best_order = max(candidate_orders, key=lambda x: x[0])[1]
-            return best_order
+            # 使用可能な技の中で、技威力が一番高いものを探す
+            best_move = max(battle.available_moves, key=lambda move: move.base_power)
+            return self.create_order(best_move)
+
+        # 攻撃技を使えない場合は、ランダムに控えポケモンと交代する
         else:
             return self.choose_random_move(battle)
 
@@ -208,127 +173,25 @@ class LearnedAgent(Player):
         else:
             return self.choose_random_move(battle)
 
-# --- カスタムチームの設定 ---
-MY_TEAM = """
-Zamazenta @ Rusted Shield  
-Ability: Dauntless Shield  
-Tera Type: Water  
-EVs: 94 HP / 252 Def / 164 Spe  
-Impish Nature  
-- Heavy Slam  
-- Body Press  
-- Iron Defense  
-- Crunch  
+def load_random_team(directory="party"):
+    """
+    指定されたディレクトリからランダムに1つのテキストファイルを選択し、その内容を返す。
+    """
+    files = [f for f in os.listdir(directory) if f.endswith(".txt")]
+    if not files:
+        raise FileNotFoundError(f"No team files found in directory: {directory}")
+    random_file = random.choice(files)
+    with open(os.path.join(directory, random_file), "r") as f:
+        return f.read()
 
-Dragonite @ Sharp Beak  
-Ability: Multiscale  
-Tera Type: Fairy  
-EVs: 196 HP / 196 SpA / 20 Def / 92 Spe  
-Modest Nature  
-- Air Slash  
-- Thunder Wave  
-- Encore  
-- Roost  
-
-Breloom @ Toxic Orb  
-Ability: Poison Heal  
-Tera Type: Steel  
-EVs: 204 HP / 4 Atk / 76 Def / 220 Spe  
-Impish Nature  
-- Facade  
-- Spore  
-- Leech Seed  
-- Substitute  
-
-Alomomola @ Rocky Helmet  
-Ability: Regenerator  
-Tera Type: Fairy  
-EVs: 252 HP / 252 Def / 6 Atk  
-Impish Nature  
-- Flip Turn  
-- Protect  
-- Substitute  
-- Scald  
-
-Ting-Lu @ Assault Vest  
-Ability: Vessel of Ruin  
-Tera Type: Electric  
-EVs: 6 HP / 252 Atk / 252 SpD  
-Careful Nature  
-- Fissure  
-- Earthquake  
-- Throat Chop  
-- Ruination  
-
-Flutter Mane @ Focus Sash  
-Ability: Protosynthesis  
-Tera Type: Fairy  
-EVs: 6 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Moonblast  
-- Hex  
-- Taunt  
-- Thunder Wave  
-"""
-
-your_team = """
-Lugia @ Leftovers  
-Ability: Multiscale  
-Tera Type: Psychic  
-EVs: 236 HP / 0 Atk / 204 Def / 0 SpA / 0 SpD / 68 Spe  
-Bold Nature  
-- Aeroblast  
-- Psychic Noise  
-- Calm Mind  
-- Recover  
-
-Ting-Lu @ Assault Vest  
-Ability: Vessel of Ruin  
-Tera Type: Dark  
-EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe  
-Adamant Nature  
-- Earthquake  
-- Payback  
-- Tera Blast  
-- Ruination  
-
-Dondozo @ Rocky Helmet  
-Ability: Unaware  
-Tera Type: Water  
-EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe  
-Impish Nature  
-- Wave Crash  
-- Earthquake  
-- Curse  
-- Rest  
-
-Chien-Pao @ Focus Sash  
-Ability: Sword of Ruin  
-Tera Type: Ice  
-EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe  
-Jolly Nature  
-- Icicle Crash  
-- Sacred Sword  
-- Sheer Cold  
-- Ice Shard  
-
-Glimmora @ Red Card  
-Ability: Toxic Debris  
-Tera Type: Rock  
-EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 4 Spe  
-Bold Nature  
-- Power Gem  
-- Earth Power  
-- Mortal Spin  
-- Stealth Rock  
-
-Ditto @ Choice Scarf  
-Ability: Imposter  
-Tera Type: Normal  
-EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
-Serious Nature  
-- Transform  
-"""
+def load_fixed_team(filepath="party/p0.txt"):
+    """
+    指定されたファイルからチームデータを読み込む。
+    """
+    if not os.path.exists(filepath):
+        raise FileNotFoundError(f"Team file not found: {filepath}")
+    with open(filepath, "r") as f:
+        return f.read()
 
 # --- 対戦実行 ---
 async def run_battles():
@@ -340,15 +203,18 @@ async def run_battles():
     model.load_state_dict(torch.load("model_weights.pth", map_location=torch.device("cpu")))
     model.eval()
     
-    # LearnedAgent と CustomTeamAgent のインスタンス生成（CustomTeamAgent を継承しているのでチームが返される）
-    learned_agent = LearnedAgent(
-        model=model,
+    # 固定チームとランダムチームをロード
+    my_team = load_fixed_team("party/p0.txt")
+    your_team = load_random_team()
+    
+    # LearnedAgent と MaxDamagePlayer のインスタンス生成
+    learned_agent = RandomPlayer(
         battle_format="gen9bssregg",
-        team=your_team,
+        team=my_team,
     )
     max_damage_agent = MaxDamagePlayer(
         battle_format="gen9bssregg",
-        team=MY_TEAM,
+        team=your_team,
     )
     
     # 対戦実行（例として、random_agent に対して10戦）
@@ -356,9 +222,8 @@ async def run_battles():
     results = await learned_agent.battle_against(max_damage_agent, n_battles=num_battles)
     print(
         "Learned player won %d / 100 battles"
-        % (learned_agent .n_won_battles)
+        % (learned_agent.n_won_battles)
     )
-    
 
 if __name__ == "__main__":
     asyncio.run(run_battles())

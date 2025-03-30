@@ -12,4 +12,5 @@ dependencies = [
      "torch>=2.0.0",
      "numpy>=1.21.2",
      "poke-env>=0.8.3",
+     "gym>=0.26.2",
 ]
